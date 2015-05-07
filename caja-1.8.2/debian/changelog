@@ -1,3 +1,9 @@
+caja (1.8.2-3mint1) betsy; urgency=medium
+
+  * Add break/replace for libcaja-extension << 1.8.0 in caja
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 May 2015 11:20:18 +0200
+
 caja (1.8.2-3) unstable; urgency=medium
 
   * debian/control:
