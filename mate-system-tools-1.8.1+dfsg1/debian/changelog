@@ -1,3 +1,9 @@
+mate-system-tools (1.8.1+dfsg1-2mint1) betsy; urgency=medium
+
+  * mate-system-tools-common Breaks/Replaces mate-system-tools << 1.8.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 May 2015 14:04:02 +0200
+
 mate-system-tools (1.8.1+dfsg1-2) unstable; urgency=medium
 
   [ Logan Rosen ]

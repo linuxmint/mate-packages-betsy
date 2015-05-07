@@ -61,6 +61,8 @@ Package: mate-system-tools-common
 Architecture: all
 Depends:
  ${misc:Depends},
+Replaces: mate-system-tools (<< 1.8.0)
+Breaks: mate-system-tools (<< 1.8.0)
 Description: Cross-platform configuration utilities for MATE (common files)
  The MATE System Tools are a fully integrated set of tools aimed at easing
  the job that means the computer administration on an UNIX or Linux system.
