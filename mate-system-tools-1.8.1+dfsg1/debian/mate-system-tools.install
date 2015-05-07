@@ -1,0 +1,4 @@
+usr/bin
+debian/bin/* usr/bin/
+usr/lib
+usr/share/applications

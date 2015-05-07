@@ -1,0 +1,88 @@
+Source: mate-system-tools
+Section: x11
+Priority: optional
+Maintainer: MATE Packaging Team <pkg-mate-team@lists.alioth.debian.org>
+Uploaders: Mike Gabriel <sunweaver@debian.org>,
+           John Paul Adrian Glaubitz <glaubitz@physik.fu-berlin.de>,
+           Stefano Karapetsas <stefano@karapetsas.com>,
+           Vangelis Mouhtsis <vangelis@gnugr.org>,
+Build-Depends: autotools-dev,
+               cdbs,
+               intltool (>= 0.35.0),
+               debhelper (>= 9),
+               liboobs-1-dev (>= 2.29.91),
+               libgtk2.0-dev (>= 2.16),
+               libglib2.0-dev (>= 2.15.2),
+               libpolkit-gobject-1-dev,
+               libdbus-1-dev (>= 0.32),
+               system-tools-backends-dev (>= 2.9.4),
+               gettext,
+               libxml-parser-perl,
+               scrollkeeper,
+               mate-common,
+               libmatepolkit-dev,
+               libcaja-extension-dev,
+               pkg-config,
+               yelp-tools,
+Standards-Version: 3.9.6
+Homepage: http://www.mate-desktop.org/
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-mate/mate-system-tools.git;a=summary
+Vcs-Git: git://anonscm.debian.org/pkg-mate/mate-system-tools.git
+
+Package: mate-system-tools
+Architecture: any
+Depends: ${misc:Depends},
+         ${shlibs:Depends},
+         mate-system-tools-common (>= ${source:Version}),
+         perl,
+         system-tools-backends (>= 2.9.4),
+         mate-polkit,
+Recommends: mate-control-center
+Suggests: ntp
+Description: Cross-platform configuration utilities for MATE
+ The MATE System Tools are a fully integrated set of tools aimed at easing
+ the job that means the computer administration on an UNIX or Linux system.
+ They're thought to help from the new Linux or UNIX user to the system
+ administrators.
+ .
+ Its main advantages are:
+  * Full integration with the new MATE Control Center.
+  * A user-friendly interface to carry out the main administration tasks.
+  * The use of a common user interface in every system.
+  * A common structure that makes easy the development of new system tools.
+ Nowadays there are tools for managing:
+  - Users and groups
+  - Date and time
+  - Network options
+  - Services
+  - Shares (NFS and Samba)
+
+Package: mate-system-tools-common
+Architecture: all
+Depends:
+ ${misc:Depends},
+Description: Cross-platform configuration utilities for MATE (common files)
+ The MATE System Tools are a fully integrated set of tools aimed at easing
+ the job that means the computer administration on an UNIX or Linux system.
+ They're thought to help from the new Linux or UNIX user to the system
+ administrators.
+ .
+ This package contains the architecture indepent files of mate-system-tools.
+
+Package: mate-system-tools-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Depends: ${misc:Depends},
+         mate-system-tools (= ${binary:Version}),
+Description: Cross-platform configuration utilities for MATE (debug symbols)
+ The MATE System Tools are a fully integrated set of tools aimed at easing
+ the job that means the computer administration on an UNIX or Linux system.
+ They're thought to help from the new Linux or UNIX user to the system
+ administrators.
+ .
+ This package contains debugging symbols for mate-system-tools. It is
+ provided to help debugging problems.
+ .
+ The debugging symbols are installed in /usr/lib/debug and will
+ automatically be used by gdb.

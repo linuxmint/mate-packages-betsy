@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+_Name=Network
+_Comment=Configure network devices and connections
+Exec=mate-network-admin-pkexec
+Icon=preferences-system-network
+Terminal=false
+Type=Application
+Categories=GTK;System;Settings;X-MATE-NetworkSettings;
+X-MATE-Bugzilla-Bugzilla=MATE
+X-MATE-Bugzilla-Product=mate-system-tools
+X-MATE-Bugzilla-Component=network-admin
+X-MATE-Bugzilla-Version=@VERSION@
+NotShowIn=GNOME;KDE;
+Keywords=network;devices;connections;mate-system-tools;
+StartupNotify=true

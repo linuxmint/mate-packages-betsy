@@ -1,0 +1,32 @@
+Bugfix changes in 1.8.2 are:
+* limit deep scount (folder contents and size) to one filesystem
+* Handle metadata key deletions
+* Propagate button-release event when ejecting
+* Fix text renderinf on no background
+
+Major changes in 1.8.1 are:
+* Accessibility improvements
+* Fixed x-caja-desktop issue
+* Removed ConsoleKit usage
+* Show trash icon in tree side panel
+
+Major changes in 1.8.0 are:
+* Add GTK3 support
+* Re add bookmark section in connect server dialog
+* Add option to show file sizes with IEC units instead of SI units
+* Add "Open parent location" in menu if we are in search view
+
+Major changes in 1.6.0 are:
+* Replace mateconf with gsettings
+  (much code taken from Nautilus 3.0 patches by Alexander Larsson)
+* "Show backup files" option merged in "Show hidden files"
+* Add support for freedesktop.org File Manager DBus Interface
+  (http://www.freedesktop.org/wiki/Specifications/file-manager-interface)
+* Allow to open files, if passed as arguments
+
+Major changes in 1.3.0 are:
+* Restore toggle button for button and text-based location bar
+* Add the ability to open bookmarks in the places side pane via the enter and space keys
+* Add diff button for text files in file conflict dialog
+* Fix autocompletion for remote locations
+* Makes the filename column expand to its maximum instead of shrinking to a hardcoded value

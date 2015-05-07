@@ -1,0 +1,6 @@
+1002_add-keywords-to-desktop-files.patch
+1003_use-NotShowIn-instead-of-OnlyShowIn.patch
+1004_include-cstdlib.patch
+2001_omit-gfdl-licensed-doc-files.patch
+2002_fix-pkgconfig-bad-directive.patch
+2003_launch-pkexec-wrappers.patch

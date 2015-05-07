@@ -1,0 +1,2118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ankit Patel <ankit644@yahoo.com>, 2005, 2006.
+# Ankit Patel <ankit@redhat.com>, 2004, 2005, 2007, 2008.
+# Sweta Kothari <swkothar@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-03-15 09:46+0100\n"
+"PO-Revision-Date: 2012-03-15 08:49+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../interfaces/network.ui.h:1
+msgid "Off"
+msgstr "બંધ"
+
+#: ../interfaces/network.ui.h:2
+msgid "Low"
+msgstr "નીચું"
+
+#: ../interfaces/network.ui.h:3
+msgid "Medium"
+msgstr "માધ્યમ"
+
+#: ../interfaces/network.ui.h:4
+msgid "Loud"
+msgstr "બુલંદ અવાજ"
+
+#: ../interfaces/network.ui.h:5
+msgid "Tones"
+msgstr "અવાજો"
+
+#: ../interfaces/network.ui.h:6
+msgid "Pulses"
+msgstr "ધબકારાઓ"
+
+#: ../interfaces/network.ui.h:7
+msgid "Plain (ASCII)"
+msgstr "Plain (ASCII)"
+
+#: ../interfaces/network.ui.h:8
+msgid "Hexadecimal"
+msgstr "Hexadecimal"
+
+#: ../interfaces/network.ui.h:9
+msgid "Location:"
+msgstr "જગ્યા:"
+
+#: ../interfaces/network.ui.h:10
+msgid "Save current network configuration as a location"
+msgstr "વર્તમાન નેટવર્ક રૂપરેખાંકનને સ્થાન તરીકે સંગ્રહો"
+
+#: ../interfaces/network.ui.h:11
+msgid "Delete current location"
+msgstr "વર્તમાન સ્થાન કાઢી નાંખો"
+
+#: ../interfaces/network.ui.h:12
+msgid "Connections"
+msgstr "જોડાણો"
+
+#: ../interfaces/network.ui.h:13
+msgid "_Host name:"
+msgstr "યજમાન નામ (_H):"
+
+#: ../interfaces/network.ui.h:14
+msgid "D_omain name:"
+msgstr "ડોમેઈન નામ (_o):"
+
+#: ../interfaces/network.ui.h:15
+msgid "Host Settings"
+msgstr "યજમાન સુયોજનો"
+
+#: ../interfaces/network.ui.h:16 ../interfaces/users.ui.h:30
+msgid "General"
+msgstr "સામાન્ય"
+
+#: ../interfaces/network.ui.h:17
+msgid "DNS Servers"
+msgstr "DNS સર્વરો"
+
+#: ../interfaces/network.ui.h:18
+msgid "Search Domains"
+msgstr "શોધ ડોમેઈનો"
+
+#: ../interfaces/network.ui.h:19
+msgid "DNS"
+msgstr "DNS"
+
+#: ../interfaces/network.ui.h:20
+msgid "Hosts"
+msgstr "યજમાનો"
+
+#: ../interfaces/network.ui.h:21
+msgid "Interface properties"
+msgstr "ઈન્ટરફેસ ગુણધર્મો"
+
+#: ../interfaces/network.ui.h:22
+msgid "E_nable this connection"
+msgstr "આ જોડાણ સક્રિય કરો (_n)"
+
+#: ../interfaces/network.ui.h:23
+msgid "E_nable roaming mode"
+msgstr "રોમીંગ સ્થિતિ સક્રિય કરો (_n)"
+
+#: ../interfaces/network.ui.h:24
+msgid "Connection type:"
+msgstr "જોડાણ પ્રકાર:"
+
+#: ../interfaces/network.ui.h:25
+msgid "Network name (_ESSID):"
+msgstr "નેટવર્ક નામ (_ESSID):"
+
+#: ../interfaces/network.ui.h:26
+msgid "Network _password:"
+msgstr "નેટવર્ક પાસવર્ડ (_p):"
+
+#: ../interfaces/network.ui.h:27
+msgid "Password _type:"
+msgstr "પાસવર્ડ પ્રકાર (_t):"
+
+#: ../interfaces/network.ui.h:28
+msgid "Wireless Settings"
+msgstr "વાયરલેસ સુયોજનો"
+
+#: ../interfaces/network.ui.h:29
+msgid "Con_figuration:"
+msgstr "રુપરેખાંકન (_f):"
+
+#: ../interfaces/network.ui.h:30
+msgid "_IP address:"
+msgstr "_IP સરનામુ:"
+
+#: ../interfaces/network.ui.h:31
+msgid "_Subnet mask:"
+msgstr "સબનેટ માસ્ક (_S):"
+
+#: ../interfaces/network.ui.h:32
+msgid "_Gateway address:"
+msgstr "ગેટવે સરનામુ (_G):"
+
+#: ../interfaces/network.ui.h:33
+msgid "Connection Settings"
+msgstr "જોડાણ સુયોજનો"
+
+#: ../interfaces/network.ui.h:34
+msgid "_Local IP:"
+msgstr "સ્થાનિક IP (_L):"
+
+#: ../interfaces/network.ui.h:35
+msgid "_Remote IP:"
+msgstr "દૂરસ્થ IP (_R):"
+
+#: ../interfaces/network.ui.h:36
+msgid "_Phone number:"
+msgstr "ફોન નંબર (_P):"
+
+#: ../interfaces/network.ui.h:37
+msgid "_Dial prefix:"
+msgstr "ડાયલ પૂર્વગ (_D):"
+
+#: ../interfaces/network.ui.h:38 ../src/network/ifaces-list.c:326
+msgid "Access point name:"
+msgstr "વપરાશ બિંદુ નામ:"
+
+#: ../interfaces/network.ui.h:39
+msgid "Internet service provider data"
+msgstr "ઈન્ટરનેટ સેવા પૂરી પાડનાર માહિતી"
+
+#: ../interfaces/network.ui.h:40 ../interfaces/users.ui.h:56
+msgid "_Username:"
+msgstr "વપરાશકર્તા નામ (_U):"
+
+#: ../interfaces/network.ui.h:41
+msgid "P_assword"
+msgstr "પાસવર્ડ (_a)"
+
+#: ../interfaces/network.ui.h:42
+msgid "Account data"
+msgstr "ખાતા માહિતી"
+
+#: ../interfaces/network.ui.h:43
+msgid "_Modem port:"
+msgstr "મોડેમ પોર્ટ (_M):"
+
+#: ../interfaces/network.ui.h:44
+msgid "_Dial type:"
+msgstr "ડાયલ પ્રકાર (_D):"
+
+#. TRANSLATORS: Volume as in loudness
+#: ../interfaces/network.ui.h:46
+msgid "_Volume:"
+msgstr "અવાજ (_V):"
+
+#: ../interfaces/network.ui.h:47
+msgid "_Autodetect"
+msgstr "આપોઆપ શોધો (_A)"
+
+#: ../interfaces/network.ui.h:48 ../src/network/ifaces-list.c:335
+msgid "Ethernet interface:"
+msgstr "ઈથરનેટ ઈન્ટરફેસ:"
+
+#: ../interfaces/network.ui.h:49
+msgid "Modem Settings"
+msgstr "મોડેમ સુયોજનો"
+
+#: ../interfaces/network.ui.h:50
+msgid "Modem"
+msgstr "મોડેમ"
+
+#: ../interfaces/network.ui.h:51
+msgid "_Set modem as default route to internet"
+msgstr "મોડેમને ઈન્ટરનેટના મૂળભૂત માર્ગ તરીકે સુયોજિત કરો (_S)"
+
+#: ../interfaces/network.ui.h:52
+msgid "Use the Internet service provider nameservers"
+msgstr "ઈન્ટરનેટ સેવા પૂરી પાડનાર નામસર્વરો વાપરો"
+
+#: ../interfaces/network.ui.h:53
+msgid "_Retry if the connection breaks or fails to start"
+msgstr "જો જોડાણો ભાંગી પડે અથવા શરુ થવામાં નિષ્ફળ જાય તો ફરીથી પ્રયત્ન કરો (_R)"
+
+#: ../interfaces/network.ui.h:54
+msgid "Options"
+msgstr "વિકલ્પો"
+
+#: ../interfaces/network.ui.h:55
+msgid "Host Alias Properties"
+msgstr "યજમાન ઉપનામ ગુણધર્મો"
+
+#: ../interfaces/network.ui.h:56 ../interfaces/shares.ui.h:13
+msgid "IP address:"
+msgstr "IP સરનામું:"
+
+#: ../interfaces/network.ui.h:57
+msgid "Aliases:"
+msgstr "ઉપનામો:"
+
+#: ../interfaces/services.ui.h:1
+msgid "Select the services that you wish to activate:"
+msgstr "સેવાઓ પસંદ કરો કે જે તમે સક્રિય કરવા માંગો છો:"
+
+#: ../interfaces/services.ui.h:2
+msgid "Advanced settings:"
+msgstr "અદ્યતન સુયોજનો:"
+
+#: ../interfaces/shares.ui.h:1
+msgid "_Path:"
+msgstr "પથ (_P):"
+
+#: ../interfaces/shares.ui.h:2
+msgid "Share through:"
+msgstr "મારફતે વહેંચો:"
+
+#: ../interfaces/shares.ui.h:3
+msgid "Shared Folder"
+msgstr "વહેંચાયેલ ફોલ્ડર"
+
+#: ../interfaces/shares.ui.h:4
+msgid "Comment:"
+msgstr "ટિપ્પળી:"
+
+#: ../interfaces/shares.ui.h:5
+msgid "Name:"
+msgstr "નામ:"
+
+#: ../interfaces/shares.ui.h:6
+msgid "_Read only"
+msgstr "માત્ર વાંચી શકાય તેવું (_R)"
+
+#: ../interfaces/shares.ui.h:7
+msgid "Share Properties"
+msgstr "વહેંચાયેલ ગુણધર્મો"
+
+#: ../interfaces/shares.ui.h:8
+msgid "Allowed Hosts"
+msgstr "માન્ય યજમાનો"
+
+#: ../interfaces/shares.ui.h:9
+msgid "Share"
+msgstr "વહેંચો"
+
+#: ../interfaces/shares.ui.h:10
+msgid "Add allowed hosts"
+msgstr "માન્ય યજમાનોને ઉમેરો"
+
+#: ../interfaces/shares.ui.h:11
+msgid "Allowed hosts:"
+msgstr "માન્ય યજમાનો:"
+
+#: ../interfaces/shares.ui.h:12
+msgid "Host name:"
+msgstr "યજમાન નામ:"
+
+#: ../interfaces/shares.ui.h:14
+msgid "Network:"
+msgstr "નેટવર્ક:"
+
+#: ../interfaces/shares.ui.h:15
+msgid "Netmask:"
+msgstr "નેટમાસ્ક:"
+
+#: ../interfaces/shares.ui.h:16 ../src/shares/nfs-acl-table.c:56
+msgid "Read only"
+msgstr "માત્ર વાંચી શકાય તેવું"
+
+#: ../interfaces/shares.ui.h:17
+msgid "Hosts Settings"
+msgstr "યજમાનો સુયોજનો"
+
+#: ../interfaces/shares.ui.h:18 ../src/shares/mate-shares.desktop.in.in.h:1
+#: ../src/shares/shares-tool.c:237
+msgid "Shared Folders"
+msgstr "વહેંચાયેલ ફોલ્ડરો"
+
+#: ../interfaces/shares.ui.h:19
+msgid "Domain / _Workgroup:"
+msgstr "ડોમેઇન / કામ કરનારોનું જૂથ (_W):"
+
+#: ../interfaces/shares.ui.h:20
+msgid "This computer is a _WINS server"
+msgstr "આ કમ્પ્યૂટર એ _WINS સર્વર છે"
+
+#: ../interfaces/shares.ui.h:21
+msgid "WINS _server:"
+msgstr "WINS સર્વર (_s):"
+
+#: ../interfaces/shares.ui.h:22
+msgid "Windows sharing"
+msgstr "વિન્ડો વહેંચણી"
+
+#: ../interfaces/shares.ui.h:23
+msgid "General Properties"
+msgstr "સામાન્ય ગુણધર્મો"
+
+#: ../interfaces/shares.ui.h:24
+msgid "Users"
+msgstr "વપરાશકર્તાઓ"
+
+#: ../interfaces/shares.ui.h:25
+msgid "Enter password for user"
+msgstr "વપરાશકર્તા માટે પાસવર્ડ દાખલ કરો"
+
+#: ../interfaces/shares.ui.h:26
+msgid "Enter password for user:"
+msgstr "વપરાશકર્તા માટે પાસવર્ડ દાખલ કરો:"
+
+#: ../interfaces/time.ui.h:1
+msgid "Time zone"
+msgstr "ટાઈમ ઝોન"
+
+#: ../interfaces/time.ui.h:2
+msgid "Time Zone"
+msgstr "ટાઈમ ઝોન"
+
+#: ../interfaces/time.ui.h:3
+msgid "Time zone:"
+msgstr "ટાઈમ ઝોન:"
+
+#: ../interfaces/time.ui.h:4
+msgid "Selection"
+msgstr "પસંદગી"
+
+#: ../interfaces/time.ui.h:5
+msgid "Time servers"
+msgstr "સમય સર્વરો"
+
+#: ../interfaces/time.ui.h:6
+msgid "NTP server"
+msgstr "NTP સર્વર"
+
+#: ../interfaces/time.ui.h:7
+msgid "Add NTP Server"
+msgstr "NTP સર્વર ઉમેરો"
+
+#: ../interfaces/time.ui.h:8
+msgid "Unconfigured"
+msgstr "રુપરેખાંકિત"
+
+#: ../interfaces/time.ui.h:9
+msgid "_Configuration:"
+msgstr "રુપરેખાંકન (_C):"
+
+#: ../interfaces/time.ui.h:10
+msgid "Time servers:"
+msgstr "સમય સર્વરો:"
+
+#: ../interfaces/time.ui.h:11
+msgid "Se_lect Servers"
+msgstr "સર્વરો પસંદ કરો (_l)"
+
+#: ../interfaces/time.ui.h:12
+msgid "_Time:"
+msgstr "સમય (_T):"
+
+#: ../interfaces/time.ui.h:13
+msgid "_Date:"
+msgstr "તારીખ (_D):"
+
+#: ../interfaces/time.ui.h:14
+msgid "Synchronize now"
+msgstr "હમણાં સુમેળ કરો"
+
+#: ../interfaces/users.ui.h:1
+msgid "_Manage Groups"
+msgstr "જૂથોની વ્યવસ્થા કરો (_M)"
+
+#: ../interfaces/users.ui.h:2
+msgid "Account _type:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:3
+msgid "_Change..."
+msgstr ""
+
+#: ../interfaces/users.ui.h:4
+msgid "_Password:"
+msgstr "પાસવર્ડ (_P):"
+
+#: ../interfaces/users.ui.h:5
+msgid "_Advanced Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:6
+msgid "This account is disabled."
+msgstr ""
+
+#: ../interfaces/users.ui.h:7
+msgid "_Enable Account"
+msgstr ""
+
+#: ../interfaces/users.ui.h:8
+msgid "Group properties"
+msgstr "જૂથના ગુણધર્મો"
+
+#: ../interfaces/users.ui.h:9
+msgid "Basic Settings"
+msgstr "આધારભૂત સુયોજનો"
+
+#: ../interfaces/users.ui.h:10
+msgid "Group _name:"
+msgstr "જૂથ નામ (_n):"
+
+#: ../interfaces/users.ui.h:11
+msgid "Group _ID:"
+msgstr "જૂથ _ID:"
+
+#: ../interfaces/users.ui.h:12
+msgid "Group Members"
+msgstr "જૂથના સભ્યો"
+
+#: ../interfaces/users.ui.h:13
+msgid "Profile Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:14
+msgid "Profile _name:"
+msgstr "રુપરેખાનું નામ (_n):"
+
+#: ../interfaces/users.ui.h:15
+msgid "_Comments"
+msgstr "ટિપ્પળીઓ (_C)"
+
+#: ../interfaces/users.ui.h:16
+msgid "System Defaults"
+msgstr "સિસ્ટમના મૂળભૂતો"
+
+#: ../interfaces/users.ui.h:17
+msgid "_Home directory:"
+msgstr "ઘર ડિરેક્ટરી (_H):"
+
+#: ../interfaces/users.ui.h:18
+msgid "Default _shell:"
+msgstr "મૂળભૂત શેલ (_s):"
+
+#: ../interfaces/users.ui.h:19
+msgid "Default _group:"
+msgstr "મૂળભૂત જૂથ (_g):"
+
+#: ../interfaces/users.ui.h:20
+msgid "Password Settings"
+msgstr "પાસવર્ડ સુયોજનો"
+
+#: ../interfaces/users.ui.h:21
+msgid "Number of days that a password may be used:"
+msgstr "પાસવર્ડ વપરાશે ત્યાં સુધીના દિવસોની સંખ્યા:"
+
+#: ../interfaces/users.ui.h:22
+msgid "Minimum days allowed between password changes:"
+msgstr "પાસવર્ડ બદલ્યા પછીના માન્ય ન્યુનતમ દિવસો:"
+
+#: ../interfaces/users.ui.h:23
+msgid "Days between warning and password expiration:"
+msgstr "ચેતવણી અને પાસવર્ડ પૂરો થઈ જવાના વચ્ચેના દિવસો:"
+
+#: ../interfaces/users.ui.h:24
+msgid "Assign a random password by default"
+msgstr "મૂળભૂત રીતે કોઈપણ પાસવર્ડ આપો"
+
+#: ../interfaces/users.ui.h:25
+msgid "Automatic UID/GID"
+msgstr "આપોઆપ UID/GID"
+
+#: ../interfaces/users.ui.h:26
+msgid "Maximum UID:"
+msgstr "મહત્તમ UID:"
+
+#: ../interfaces/users.ui.h:27
+msgid "Maximum GID:"
+msgstr "મહત્તમ GID:"
+
+#: ../interfaces/users.ui.h:28
+msgid "Minimum UID:"
+msgstr "ન્યુનતમ UID:"
+
+#: ../interfaces/users.ui.h:29
+msgid "Minimum GID:"
+msgstr "ન્યુનતમ GID:"
+
+#: ../interfaces/users.ui.h:31
+msgid "Privileges"
+msgstr "વિશેષાધિકારો"
+
+#: ../interfaces/users.ui.h:32
+msgid "User profiles"
+msgstr "વપરાશકર્તા રુપરેખાઓ"
+
+#: ../interfaces/users.ui.h:33
+msgid "_Add Profile"
+msgstr "રુપરેખા ઉમેરો (_A)"
+
+#: ../interfaces/users.ui.h:34
+msgid "Groups settings"
+msgstr "જૂથ સુયોજનો"
+
+#: ../interfaces/users.ui.h:35
+msgid "Groups available on the system:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:36
+msgid "Change User Name"
+msgstr ""
+
+#: ../interfaces/users.ui.h:37
+msgid "Full _Name:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:38
+msgid "Changing user name for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:39
+msgid "Change User Password"
+msgstr ""
+
+#: ../interfaces/users.ui.h:40
+msgid "Con_firmation:"
+msgstr "ખાતરી (_f):"
+
+#: ../interfaces/users.ui.h:41
+msgid "Password set to: "
+msgstr "પાસવર્ડ આને સુયોજિત થયો છે: "
+
+#: ../interfaces/users.ui.h:42
+msgid "_Generate"
+msgstr "પેદા કરો (_G)"
+
+#: ../interfaces/users.ui.h:43
+msgid "Set password b_y hand"
+msgstr "હાથથી પાસવર્ડ સુયોજિત કરો (_y)"
+
+#: ../interfaces/users.ui.h:44
+msgid "New _password:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:45
+msgid "Generate _random password"
+msgstr "રેન્ડમ પાસવર્ડ બનાવો (_r)"
+
+#: ../interfaces/users.ui.h:46
+msgid "Changing user password for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:47
+msgid "Don't ask for password on _login"
+msgstr "પ્રવેશ વખતે પાસવર્ડ માટે પૂછો નહિં (_l)"
+
+#: ../interfaces/users.ui.h:48
+msgid "_Current password:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:49
+msgid "Change User Account Type"
+msgstr ""
+
+#: ../interfaces/users.ui.h:50
+msgid "Changing user account type for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:51
+msgid "_Custom"
+msgstr ""
+
+#: ../interfaces/users.ui.h:52
+msgid ""
+"This account is using special settings that have been defined manually. Use "
+"the <i>Advanced Settings</i> dialog to tune them."
+msgstr ""
+
+#: ../interfaces/users.ui.h:53
+msgid "Create New User"
+msgstr ""
+
+#: ../interfaces/users.ui.h:54
+msgid "_Name:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:55
+msgid "Create a new user"
+msgstr ""
+
+#. No item should exceed a length of 40 characters, to avoid wrapping on two
+#. lines. Better simplifying than making it hard to read!
+#: ../interfaces/users.ui.h:58
+msgid ""
+"Username must consist of:\n"
+"  ➣ lower case letters from the English alphabet\n"
+"  ➣ digits\n"
+"  ➣ any of the characters \".\", \"-\" and \"_\""
+msgstr ""
+
+#: ../interfaces/users.ui.h:62
+msgid ""
+"A user with this name already exists. Please choose a different name for the"
+" new user."
+msgstr ""
+
+#: ../interfaces/users.ui.h:63
+msgid "Username must start with a letter!"
+msgstr ""
+
+#: ../interfaces/users.ui.h:64
+msgid "_Encrypt home folder to protect sensitive data"
+msgstr ""
+
+#: ../interfaces/users.ui.h:65
+msgid ""
+"Encrypt all your files with your login password to strongly protect them "
+"from people with physical access to your computer, at the expense of a "
+"slightly reduced performance."
+msgstr ""
+
+#: ../interfaces/users.ui.h:66
+msgid "Change Advanced User Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:67
+msgid "Changing advanced settings for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:68
+msgid "O_ffice location:"
+msgstr "ઓફિસની જગ્યા (_f):"
+
+#: ../interfaces/users.ui.h:69
+msgid "_Work phone:"
+msgstr "કામ આપતો ફોન (_W):"
+
+#: ../interfaces/users.ui.h:70
+msgid "_Home phone:"
+msgstr "ઘરનો ફોન (_H):"
+
+#: ../interfaces/users.ui.h:71
+msgid "Contact Information"
+msgstr ""
+
+#: ../interfaces/users.ui.h:72
+msgid "User Privileges"
+msgstr "વપરાશકર્તા વિશેષાધિકારો"
+
+#: ../interfaces/users.ui.h:73
+msgid "Advanced Settings"
+msgstr "ઉન્નત સુયોજનો"
+
+#: ../interfaces/users.ui.h:74
+msgid "_Shell:"
+msgstr "શેલ (_S):"
+
+#: ../interfaces/users.ui.h:75
+msgid "_Main group:"
+msgstr "મુખ્ય જૂથ (_M):"
+
+#: ../interfaces/users.ui.h:76
+msgid "User ID:"
+msgstr "વપરાશકર્તા ID:"
+
+#: ../interfaces/users.ui.h:77
+msgid "You can't change user ID while the user is logged in."
+msgstr ""
+
+#: ../interfaces/users.ui.h:78
+msgid "Disable _account"
+msgstr ""
+
+#: ../interfaces/users.ui.h:79
+msgid "Optional Settings"
+msgstr "વૈકલ્પિક સુયોજનો"
+
+#: ../interfaces/users.ui.h:80
+msgid "Mi_nimum days between password changes:"
+msgstr "પાસવર્ડ બદલાયા વચ્ચેના ન્યુનતમ દિવસો (_n):"
+
+#: ../interfaces/users.ui.h:81
+msgid "Ma_ximum days a password may be used:"
+msgstr "મહત્તમ દિવસો કે જ્યાં સુધી પાસવર્ડ વાપરી શકાશે (_x):"
+
+#: ../interfaces/users.ui.h:82
+msgid "_Days between warning and password expiration:"
+msgstr "ચેતવણી અને પાસવર્ડની મર્યાદા પૂરી થવા વચ્ચેના દિવસો (_D):"
+
+#: ../interfaces/users.ui.h:83
+msgid "Advanced"
+msgstr "ઉન્નત"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:1
+msgid "Show system users"
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:2
+msgid ""
+"Whether the users-admin tool should show system users in the users list."
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:3
+msgid "Show root user"
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:4
+msgid ""
+"Whether the users-admin tool should show the root user in the users list."
+msgstr ""
+
+#: ../src/common/gst-platform-dialog.c:179
+msgid "The platform you are running is not supported by this tool"
+msgstr "તમે જે પ્લેટફોર્મ ચલાવી રહ્યા છો તે આ સાધન દ્વારા આધારભૂત નથી"
+
+#. label
+#: ../src/common/gst-platform-dialog.c:185
+msgid ""
+"If you know for sure that it works like one of the platforms listed below, "
+"you can select that and continue. Note, however, that this might damage the "
+"system configuration or downright cripple your computer."
+msgstr "જો તમે ચોક્કસ રીતે જાણતા હોય કે તે નીચેની યાદીમાંના કોઈ પણ એક પ્લેટફોર્મની જેમ કામ કરે છે તો તમે તેને પસંદ કરીને ચલાવી શકો છો. નોંધ, તેમછતાં પણ, તે કદાચ સિસ્ટમની રુપરેખાને બગાડી નાંખશે અથવા કમ્પ્યૂટરને ધીમું પાડી નાંખશે."
+
+#: ../src/common/gst-platform-dialog.c:212
+msgid "Unsupported platform"
+msgstr "બિનઆધારિત પ્લેટફોર્મ"
+
+#: ../src/common/gst-tool.c:188
+msgid "The configuration could not be loaded"
+msgstr "રૂપરેખાંકન લાવી શક્યા નહિં"
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:190
+msgid "The configuration could not be saved"
+msgstr "રૂપરેખાંકન સંગ્રહી શક્યા નહિં"
+
+#: ../src/common/gst-tool.c:194
+msgid "You are not allowed to access the system configuration."
+msgstr "તમે સિસ્ટમ રૂપરેખાંકન વાપરવા માટે માન્ય નથી."
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:196 ../src/common/gst-tool.c:685
+msgid "You are not allowed to modify the system configuration."
+msgstr "તમે સિસ્ટમ રૂપરેખાંકન સુધારવા માટે માન્ય નથી."
+
+#: ../src/common/gst-tool.c:199
+msgid "Invalid data was found."
+msgstr "અયોગ્ય માહિતી શોધાઇ."
+
+#. OOBS_RESULT_ERROR
+#: ../src/common/gst-tool.c:201
+msgid "An unknown error occurred."
+msgstr "અજ્ઞાત ભૂલ ઉદ્ભવી."
+
+#: ../src/common/gst-tool.c:422
+msgid "Could not display help"
+msgstr "મદદ પ્રદર્શિત કરી શક્યા નહિં"
+
+#: ../src/common/gst-tool.c:616
+msgid "The system configuration has potentially changed."
+msgstr "સિસ્ટમ રૂપરેખાંકન સંભવિતપણે બદલાઈ ગયેલ છે."
+
+#: ../src/common/gst-tool.c:618
+msgid "Update content? This will lose any modification in course."
+msgstr "શું સમાવિષ્ટ સુધારવા છે? આ કોર્સમાં કોઈપણ સુધારો ગુમાવી બેસશે."
+
+#: ../src/common/gst-tool.c:687
+#, c-format
+msgid ""
+"An error occurred while checking for authorizations: %s\n"
+"You may report this as a bug."
+msgstr ""
+
+#: ../src/network/address-list.c:76 ../src/network/hosts.c:31
+#: ../src/shares/table.c:38 ../src/users/table.c:40
+msgid "_Add"
+msgstr "ઉમેરો (_A)"
+
+#: ../src/network/address-list.c:77 ../src/network/hosts.c:33
+#: ../src/shares/table.c:40 ../src/users/table.c:42
+msgid "_Delete"
+msgstr "કાઢી નાંખો (_D)"
+
+#: ../src/network/address-list.c:485
+msgid "Type address"
+msgstr "સરનામું લખો"
+
+#: ../src/network/callbacks.c:237 ../src/network/callbacks.c:487
+msgid "Changing interface configuration"
+msgstr "ઈન્ટરફેસ રૂપરેખાંકન બદલી રહ્યા છીએ"
+
+#: ../src/network/callbacks.c:299
+msgid "Could not autodetect modem device"
+msgstr "મોડેમ ઉપકરણ આપોઆપ શોધી શકાયું નહિં"
+
+#: ../src/network/callbacks.c:302
+msgid ""
+"Check that the device is not busy and that is correctly attached to the "
+"computer."
+msgstr "ચકાસો કે ઉપકરણ વ્યસ્ત તો નથી અને તે યોગ્ય રીતે તમારા કમ્પ્યૂટર સાથે જોડાયેલ છે ને."
+
+#: ../src/network/callbacks.c:523
+msgid "The host name has changed"
+msgstr "યજમાનનું નામ બદલાયેલ છે"
+
+#: ../src/network/callbacks.c:526
+msgid ""
+"This will prevent you from launching new applications, and so you will have "
+"to log in again. Continue anyway?"
+msgstr "આ તમને નવા કાર્યક્રમો લાવવાથી બચાવે છે, અને તેથી તમારે ફરીથી પ્રવેશ કરવો પડશે. કોઈપણ રીતે ચાલુ રાખવું છે?"
+
+#: ../src/network/callbacks.c:532
+msgid "Change _Host name"
+msgstr "યજમાનનું નામ બદલો (_H)"
+
+#: ../src/network/connection.c:40
+msgid "Automatic configuration (DHCP)"
+msgstr "આપોઆપ રૂપરેખાંકન (DHCP)"
+
+#: ../src/network/connection.c:41
+msgid "Local Zeroconf network (IPv4 LL)"
+msgstr "સ્થાનિક ઝીરોકોન્ફ નેટવર્ક (IPv4 LL)"
+
+#: ../src/network/connection.c:42
+msgid "Static IP address"
+msgstr "સ્ટેટિક IP સરનામું"
+
+#: ../src/network/connection.c:46
+msgid "WEP key (ascii)"
+msgstr "WEP કી (ascii)"
+
+#: ../src/network/connection.c:47
+msgid "WEP key (hexadecimal)"
+msgstr "WEP કી (hexadecimal)"
+
+#: ../src/network/connection.c:48
+msgid "WPA Personal"
+msgstr "WPA વ્યક્તિગત"
+
+#: ../src/network/connection.c:49
+msgid "WPA2 Personal"
+msgstr "WPA2 વ્યક્તિગત"
+
+#: ../src/network/connection.c:53
+msgid "GPRS/UMTS"
+msgstr "GPRS/UMTS"
+
+#: ../src/network/connection.c:54
+msgid "ISDN modem"
+msgstr "ISDN મોડેમ"
+
+#: ../src/network/connection.c:55
+msgid "Serial modem"
+msgstr "સીરીયલ મોડેમ"
+
+#: ../src/network/connection.c:56
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../src/network/connection.c:769
+#, c-format
+msgid "%s Properties"
+msgstr "%s ગુણધર્મો"
+
+#: ../src/network/hosts.c:32 ../src/network/ifaces-list.c:33
+#: ../src/shares/table.c:39 ../src/users/table.c:41
+msgid "_Properties"
+msgstr "ગુણધર્મો (_P)"
+
+#: ../src/network/hosts.c:89
+msgid "IP Address"
+msgstr "IP સરનામુ"
+
+#: ../src/network/hosts.c:97
+msgid "Aliases"
+msgstr "ઉપનામો"
+
+#: ../src/network/ifaces-list.c:280
+msgid "This network interface is not configured"
+msgstr "આ નેટવર્ક ઈન્ટરફેસ રૂપરેખાંકિત થયેલ નથી"
+
+#: ../src/network/ifaces-list.c:282
+msgid "Roaming mode enabled"
+msgstr "રોમીંગ સ્થિતિ સક્રિય કરેલ"
+
+#: ../src/network/ifaces-list.c:289
+#, c-format
+msgid "<b>Essid:</b> %s "
+msgstr ""
+
+#: ../src/network/ifaces-list.c:296 ../src/network/ifaces-list.c:301
+#: ../src/network/ifaces-list.c:306
+msgid "Address:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:298
+msgid "Subnet mask:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:308
+msgid "Remote address:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:320 ../src/network/ifaces-list.c:325
+#: ../src/network/ifaces-list.c:334 ../src/network/ifaces-list.c:339
+msgid "Type:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:321
+msgid "Phone number:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:356
+msgid "Wireless connection"
+msgstr "વાયરલેસ જોડાણ"
+
+#: ../src/network/ifaces-list.c:358
+msgid "Infrared connection"
+msgstr "ઈન્ફ્રારેડ જોડાણ"
+
+#: ../src/network/ifaces-list.c:360
+msgid "Wired connection"
+msgstr "વાયરવાળું જોડાણ"
+
+#: ../src/network/ifaces-list.c:362
+msgid "Parallel port connection"
+msgstr "સમાંતર પોર્ટ જોડાણ"
+
+#: ../src/network/ifaces-list.c:364
+msgid "Point to point connection"
+msgstr "બિંદુ થી બિંદુ જોડાણ"
+
+#: ../src/network/locations-combo.c:221
+msgid "Changing network location"
+msgstr "નેટવર્ક સ્થાન બદલી રહ્યા છીએ"
+
+#: ../src/network/locations-combo.c:265
+msgid "There is already a location with the same name"
+msgstr "આ નામનું સ્થાન પહેલાથી જ હાજર છે"
+
+#: ../src/network/locations-combo.c:267
+msgid "Overwrite it?"
+msgstr "શું તેના પર ફરીથી લખવું છે?"
+
+#: ../src/network/locations-combo.c:355
+msgid "Save location"
+msgstr "સ્થાન સંગ્રહો"
+
+#: ../src/network/locations-combo.c:370
+msgid "_Location name:"
+msgstr "સ્થાન નામ (_L):"
+
+#: ../src/network/locations-combo.c:422
+#, c-format
+msgid "Do you want to delete location \"%s\"?"
+msgstr "શું તમે સ્થાન \"%s\" કાઢી નાંખવા માંગો છો?"
+
+#: ../src/network/main.c:135
+msgid "The interface does not exist"
+msgstr "ઈન્ટરફેસ અસ્તિત્વમાં નથી"
+
+#: ../src/network/main.c:137
+msgid ""
+"Check that it is correctly typed and that it is correctly supported by your "
+"system."
+msgstr "ચકાસો કે તે બરાબર લખાયેલ છે અને તે તમારી સિસ્ટમ દ્વારા યોગ્ય રીતે આધારભૂત છે."
+
+#: ../src/network/main.c:183
+msgid "Configure a network interface"
+msgstr "નેટવર્ક ઈન્ટરફેસ રુપરેખાંકિત કરો"
+
+#: ../src/network/main.c:183
+msgid "INTERFACE"
+msgstr "INTERFACE"
+
+#: ../src/network/main.c:184
+msgid "Configure the first network interface with a specific type"
+msgstr "ચોક્કસ પ્રકાર સાથે પ્રથમ નેટવર્ક ઈન્ટરફેસ રૂપરેખાંકિત કરો"
+
+#: ../src/network/main.c:184
+msgid "TYPE"
+msgstr "TYPE"
+
+#: ../src/network/mate-network.desktop.in.in.h:1
+msgid "Network"
+msgstr "નેટવર્ક"
+
+#: ../src/network/mate-network.desktop.in.in.h:2
+msgid "Configure network devices and connections"
+msgstr "નેટવર્ક ઉપકરણો અને જોડાણો રુપરેખાંકિત કરી રહ્યા છીએ"
+
+#: ../src/network/network-tool.c:280
+msgid "Network Settings"
+msgstr "નેટવર્ક સુયોજનો"
+
+#: ../src/services/callbacks.c:65
+#, c-format
+msgid "Settings for service \"%s\""
+msgstr "સેવા \"%s\" માટે સુયોજનો"
+
+#: ../src/services/callbacks.c:122
+#, c-format
+msgid "Are you sure you want to deactivate %s?"
+msgstr "શું તમે ખરેખર %s ને અસક્રિય કરવા માંગો છો?"
+
+#: ../src/services/callbacks.c:126
+msgid ""
+"This may affect your system behavior in several ways, possibly leading to "
+"data loss."
+msgstr "આ તમારી સિસ્ટમ વર્તણૂકને ઘણા દિવસોમાં અસર કરશે, કદાચ માહિતી ગુમ થવાની પણ શક્યતા રહશે."
+
+#: ../src/services/service.c:32
+msgid "Web server"
+msgstr "વેબ સર્વર"
+
+#: ../src/services/service.c:32
+msgid "Shares your web pages over the Internet"
+msgstr "તમારા વેબ પાનાંઓ ઈન્ટરનેટ ઉપર વહેંચે છે"
+
+#. GST_ROLE_WEB_SERVER
+#: ../src/services/service.c:33
+msgid "Actions scheduler"
+msgstr "ક્રિયાઓ સુનિશ્ચિત કરનાર"
+
+#: ../src/services/service.c:33
+msgid "Executes scheduled actions"
+msgstr "સુનિશ્ચિત ક્રિયાઓ ચલાવે છે"
+
+#. GST_ROLE_COMMAND_SCHEDULER
+#: ../src/services/service.c:34
+msgid "Printer service"
+msgstr "પ્રિન્ટર સેવા"
+
+#: ../src/services/service.c:34
+msgid "Allows applications to use printers"
+msgstr "કાર્યક્રમોને પ્રિન્ટરો વાપરવા માટે પરવાનગી આપે છે"
+
+#. GST_ROLE_PRINTER_SERVICE
+#: ../src/services/service.c:35
+msgid "Mail agent"
+msgstr "મેઈલ એજન્ટ"
+
+#: ../src/services/service.c:35
+msgid "Delivers your outgoing mail"
+msgstr "તમારા જતા મેઈલ પહોંચાડે છે"
+
+#. GST_ROLE_MTA
+#: ../src/services/service.c:36
+msgid "MTA authentication service"
+msgstr "MTA સત્તાધિકરણ સેવા"
+
+#. GST_ROLE_MTA_AUTH
+#: ../src/services/service.c:37
+msgid "Mail fetcher"
+msgstr "મેઈલ મેળવનાર"
+
+#: ../src/services/service.c:37
+msgid "Downloads your mail from remote accounts"
+msgstr "દૂરસ્થ ખાતાઓમાંથી તમારા મેઈલ ડાઉનલોડ કરે છે"
+
+#. GST_ROLE_MAIL_FETCHER
+#: ../src/services/service.c:38
+msgid "Graphical login manager"
+msgstr "ગ્રાફિકવાળું પ્રવેશ વ્યવસ્થાપક"
+
+#: ../src/services/service.c:38
+msgid "Allows users to login graphically"
+msgstr "વપરાશકર્તાઓને ગ્રાફિકવાળો પ્રવેશ કરવા માટે પરવાનગી આપે છે"
+
+#. GST_ROLE_DISPLAY_MANAGER
+#: ../src/services/service.c:39
+msgid "Database server"
+msgstr "ડેટાબેઝ સર્વર"
+
+#: ../src/services/service.c:39
+msgid "Data storage system"
+msgstr "માહિતી સંગ્રહ સિસ્ટમ"
+
+#. GST_ROLE_DATABASE_SERVER
+#. GST_ROLE_FILE_SERVER_SMB
+#. GST_ROLE_FILE_SERVER_FTP
+#: ../src/services/service.c:40 ../src/services/service.c:41
+#: ../src/services/service.c:43
+msgid "Folder sharing service"
+msgstr "ફોલ્ડર વહેંચણી સેવા"
+
+#: ../src/services/service.c:40 ../src/services/service.c:41
+msgid "Shares folders over your network"
+msgstr "ફોલ્ડરો તમારા નેટવર્ક ઉપર વહેંચે છે"
+
+#. GST_ROLE_FILE_SERVER_NFS
+#: ../src/services/service.c:42
+msgid "FTP service"
+msgstr "FTP સેવા"
+
+#: ../src/services/service.c:42 ../src/services/service.c:43
+msgid "Shares folders over the Internet"
+msgstr "ફોલ્ડરોને નેટવર્ક ઉપર વહેંચે છે"
+
+#. GST_ROLE_FILE_SERVER_TFTP
+#: ../src/services/service.c:44
+msgid "Clock synchronization service"
+msgstr "ઘડિયાળ સુમેળ સેવા"
+
+#: ../src/services/service.c:44
+msgid "Synchronizes your computer clock with Internet time servers"
+msgstr "તમારા કમ્પ્યૂટર ઘડિયાળને ઈન્ટરનેટ ટાઈમ સર્વરો સાથે સુમેળ કરે છે"
+
+#. GST_ROLE_NTP_SERVER
+#: ../src/services/service.c:46
+msgid "Antivirus"
+msgstr "એન્ટીવાયરસ"
+
+#: ../src/services/service.c:46
+msgid "Analyzes your incoming mail for virus"
+msgstr "તમારા આવતા મેઈલને વાયરસ માટે વિશ્લેષિત કરે છે"
+
+#. GST_ROLE_ANTIVIRUS
+#: ../src/services/service.c:47
+msgid "Firewall"
+msgstr "ફાયરવોલ"
+
+#: ../src/services/service.c:47
+msgid "Blocks undesired network access to your computer"
+msgstr "તમારા કમ્પ્યૂટરનો બિનજરૂરી નેટવર્ક વપરાશ અટકાવે છે"
+
+#. GST_ROLE_FIREWALL_MANAGEMENT
+#: ../src/services/service.c:49
+msgid "Dictionary server"
+msgstr "શબ્દકોષ સર્વર"
+
+#. GST_ROLE_DICTIONARY_SERVER
+#: ../src/services/service.c:50
+msgid "Speech synthesis support"
+msgstr "બોલી સિન્થેસીઝ આધાર"
+
+#. GST_ROLE_SPEECH_SYNTHESIS
+#: ../src/services/service.c:51
+msgid "Computer activity logger"
+msgstr "કમ્પ્યૂટર ક્રિયા લોગર"
+
+#: ../src/services/service.c:51
+msgid "Keeps a log of your computer activity"
+msgstr "કમ્પ્યૂટરની દરેક ક્રિયાનો લોગ સાચવે છે"
+
+#. GST_ROLE_SYSTEM_LOGGER
+#: ../src/services/service.c:52
+msgid "Remote backup server"
+msgstr "દૂરસ્થ બેકઅપ સર્વર"
+
+#. GST_ROLE_REMOTE_BACKUP
+#: ../src/services/service.c:53
+msgid "Spam filter"
+msgstr "સ્પામ ગાળક"
+
+#. GST_ROLE_SPAM_FILTER
+#: ../src/services/service.c:54
+msgid "Remote shell server"
+msgstr "દૂરસ્થ શેલ સર્વર"
+
+#: ../src/services/service.c:54
+msgid "Secure shell server"
+msgstr "સુરક્ષિત શેલ સર્વર"
+
+#. GST_ROLE_SECURE_SHELL_SERVER
+#: ../src/services/service.c:55
+msgid "Application server"
+msgstr "કાર્યક્રમ સર્વર"
+
+#. GST_ROLE_APPLICATION_SERVER
+#: ../src/services/service.c:56
+msgid "Automated crash reports support"
+msgstr "આપોઆપ થયેલ ભંગાણ અહેવાલોનો આધાર"
+
+#. GST_ROLE_AUTOMATED_CRASH_REPORTS_MANAGEMENT
+#: ../src/services/service.c:57
+msgid "System communication bus"
+msgstr "સિસ્ટમ સંપર્કવ્યવહાર બસ"
+
+#. GST_ROLE_DBUS,
+#: ../src/services/service.c:58
+msgid "System configuration manager"
+msgstr "સિસ્ટમ રૂપરેખાંકન વ્યવસ્થાપક"
+
+#. GST_ROLE_SYSTEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:59
+msgid "School management platform"
+msgstr "શાળા વ્યવસ્થાપન પ્લેટફોર્મ"
+
+#. GST_ROLE_SCHOOL_MANAGEMENT_PLATFORM
+#: ../src/services/service.c:60
+msgid "Network security auditor"
+msgstr "નેટવર્ક સુરક્ષા સંપાદક"
+
+#. GST_ROLE_SECURITY_AUDITING
+#: ../src/services/service.c:61
+msgid "Web calendar server"
+msgstr "વેબ કેલેન્ડર સર્વર"
+
+#. GST_ROLE_WEB_CALENDAR_SERVER
+#: ../src/services/service.c:62
+msgid "OEM configuration manager"
+msgstr "OEM રૂપરેખાંકન વ્યવસ્થાપક"
+
+#. GST_ROLE_OEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:63
+msgid "Terminal multiplexor"
+msgstr "ટર્મિનલ મલ્ટીપ્લેક્સર"
+
+#. GST_ROLE_TERMINAL_MULTIPLEXOR
+#: ../src/services/service.c:64
+msgid "Disk quota activation"
+msgstr "ડિસ્ક ક્વોટા સક્રિયકરણ"
+
+#. GST_ROLE_QUOTA_MANAGEMENT
+#: ../src/services/service.c:65
+msgid "Package index monitor"
+msgstr "પેકેજ અનુક્રમ મોનીટર"
+
+#. GST_ROLE_PACKAGE_INDEX_MONITORING
+#: ../src/services/service.c:66
+msgid "Network service"
+msgstr "નેટવર્ક સેવા"
+
+#. GST_ROLE_NETWORK
+#: ../src/services/service.c:67
+msgid "Dynamic DNS services updater"
+msgstr "વૈશ્વિક DNS સેવાઓ સુધારક"
+
+#. GST_ROLE_DYNAMIC_DNS_SERVICE
+#: ../src/services/service.c:68
+msgid "DHCP server"
+msgstr "DHCP સર્વર"
+
+#. GST_ROLE_DHCP_SERVER
+#: ../src/services/service.c:69
+msgid "Domain name server"
+msgstr "ડોમેઈન નામ સર્વર"
+
+#. GST_ROLE_DNS
+#: ../src/services/service.c:70
+msgid "Proxy cache service"
+msgstr "પ્રોક્સી કેશ સેવા"
+
+#. GST_ROLE_PROXY_CACHE
+#: ../src/services/service.c:71
+msgid "LDAP server"
+msgstr "LDAP સર્વર"
+
+#. GST_ROLE_LDAP_SERVER
+#: ../src/services/service.c:72
+msgid "Mailing lists manager"
+msgstr "મેઈલીંગ લિસ્ટ વ્યવસ્થાપક"
+
+#. GST_ROLE_MAILING_LISTS_MANAGER
+#: ../src/services/service.c:73
+msgid "Multicast DNS service discovery"
+msgstr "મલ્ટીકાસ્ટ DNS સેવા ડિરેક્ટરી"
+
+#. GST_ROLE_RENDEZVOUS
+#: ../src/services/service.c:74
+msgid "Account information resolver"
+msgstr "ખાતા જાણકારી ઉકેલનાર"
+
+#. GST_ROLE_NSS
+#: ../src/services/service.c:75
+msgid "Virtual Private Network server"
+msgstr "વર્ચ્યુઅલ પ્રાઈવેટ નેટવર્ક સર્વર"
+
+#. GST_ROLE_VPN_SERVER
+#: ../src/services/service.c:76
+msgid "Router advertisement server"
+msgstr "રાઉટર જાહેરાત સર્વર"
+
+#. GST_ROLE_ROUTER_ADVERTISEMENT_SERVER
+#: ../src/services/service.c:77
+msgid "IPSec key exchange server"
+msgstr "IPSec કી ફેરબદલી સર્વર"
+
+#. GST_ROLE_IPSEC_KEY_EXCHANGE_SERVER
+#: ../src/services/service.c:78
+msgid "Disk server"
+msgstr "ડિસ્ક સર્વર"
+
+#. GST_ROLE_DISK_SERVER
+#: ../src/services/service.c:79
+msgid "Disk client"
+msgstr "ડિસ્ક ક્લાઈન્ટ"
+
+#. GST_ROLE_DISK_CLIENT
+#: ../src/services/service.c:80
+msgid "Route server"
+msgstr "રુટ સર્વર"
+
+#. GST_ROLE_ROUTE_SERVER
+#: ../src/services/service.c:81
+msgid "RPC mapper"
+msgstr "RPC મેપર"
+
+#. GST_ROLE_RPC_MAPPER
+#: ../src/services/service.c:82
+msgid "SNMP server"
+msgstr "SNMP સર્વર"
+
+#. GST_ROLE_SNMP_SERVER
+#: ../src/services/service.c:83
+msgid "Terminal server client"
+msgstr "ટર્મિનલ સર્વર ક્લાઈન્ટ"
+
+#. GST_ROLE_LTSP_CLIENT
+#: ../src/services/service.c:84
+msgid "Audio settings management"
+msgstr "ઓડિયો સુયોજનો વ્યવસ્થાપન"
+
+#. GST_ROLE_AUDIO_MANAGEMENT
+#: ../src/services/service.c:85
+msgid "Volumes mounter"
+msgstr "વોલ્યુમો માઉન્ટ કરનાર"
+
+#: ../src/services/service.c:85
+msgid "Mounts your volumes automatically"
+msgstr "તમારા વોલ્યુમો આપોઆપ માઉન્ટ કરે છે"
+
+#. GST_ROLE_AUTOMOUNTER
+#: ../src/services/service.c:86
+msgid "Infrared port management"
+msgstr "ઈન્ફ્રારેડ પોર્ટ વ્યવસ્થાપન"
+
+#. GST_ROLE_INFRARED_MANAGEMENT
+#: ../src/services/service.c:87
+msgid "Braille display management"
+msgstr "બ્રેઈલિ ડિસ્પ્લે વ્યવસ્થાપન"
+
+#. GST_ROLE_BRAILLE_DISPLAY_MANAGEMENT
+#: ../src/services/service.c:88
+msgid "Bluetooth device management"
+msgstr "બ્લુટુથ ઉપકરણ વ્યવસ્થાપન"
+
+#. GST_ROLE_BLUETOOTH_MANAGEMENT
+#: ../src/services/service.c:89
+msgid "Hard disk tuning"
+msgstr "હાર્ડ ડિસ્ક ટ્યુનીંગ"
+
+#. GST_ROLE_HDD_MANAGEMENT
+#: ../src/services/service.c:90
+msgid "Hotkeys management"
+msgstr "હોયકી વ્યવસ્થાપન"
+
+#. GST_ROLE_HOTKEYS_MANAGEMENT
+#: ../src/services/service.c:91
+msgid "Power management"
+msgstr "પાવર વ્યવસ્થાપન"
+
+#. GST_ROLE_POWER_MANAGEMENT
+#: ../src/services/service.c:92
+msgid "Logical volume management"
+msgstr "લોજીકલ વોલ્યુમ વ્યવસ્થાપન"
+
+#. GST_ROLE_LVM_MANAGEMENT
+#: ../src/services/service.c:93
+msgid "Cluster management tool"
+msgstr "ક્લસ્ટર વ્યવસ્થાપન સાધન"
+
+#. GST_ROLE_CLUSTER_MANAGEMENT
+#: ../src/services/service.c:94
+msgid "Fax settings management"
+msgstr "ફેક્સ સુયોજનો વ્યવસ્થાપન"
+
+#. GST_ROLE_FAX_MANAGEMENT
+#: ../src/services/service.c:95
+msgid "RAID disks management"
+msgstr "RAID ડિસ્ક વ્યવસ્થાપન"
+
+#. GST_ROLE_RAID_MANAGEMENT
+#: ../src/services/service.c:96
+msgid "Graphic tablets management"
+msgstr "ગ્રાફિક ટેબ્લેટ વ્યવસ્થાપન"
+
+#. GST_ROLE_GRAPHIC_TABLETS_MANAGEMENT
+#: ../src/services/service.c:97
+msgid "CPU Frequency manager"
+msgstr "CPU આવૃત્તિ વ્યવસ્થાપક"
+
+#. GST_ROLE_CPUFREQ_MANAGEMENT
+#: ../src/services/service.c:98
+msgid "Eagle USB ADSL modems manager"
+msgstr "ઈગલ USB ADSL મોડેમ વ્યવસ્થાપક"
+
+#. GST_ROLE_EAGLE_USB_MODEMS_MANAGEMENT
+#: ../src/services/service.c:99
+msgid "Serial port settings management"
+msgstr "સીરીયલ પોર્ટ સુયોજનો વ્યવસ્થાપન"
+
+#. GST_ROLE_SERIAL_PORTS_MANAGEMENT
+#: ../src/services/service.c:100
+msgid "ISDN modems manager"
+msgstr "ISDN મોડેમો વ્યવસ્થાપક"
+
+#. GST_ROLE_ISDN_MANAGEMENT
+#: ../src/services/service.c:101
+msgid "Telstra Bigpond Cable Network client"
+msgstr "ટેલસ્ટ્રા બીગપોન્ડ કેબલ નેટવર્ક ક્લાઈન્ટ"
+
+#. GST_ROLE_TELSTRA_BIGPOND_NETWORK_CLIENT
+#: ../src/services/service.c:102
+msgid "Hardware monitor"
+msgstr "હાર્ડવેર મોનીટર"
+
+#. GST_ROLE_HARDWARE_MONITORING
+#: ../src/services/service.c:103
+msgid "System monitor"
+msgstr "સિસ્ટમ મોનીટર"
+
+#. GST_ROLE_SYSTEM_MONITORING
+#: ../src/services/service.c:104
+msgid "Virtual Machine management"
+msgstr "વર્ચ્યુઅલ મશીન વ્યવસ્થાપન"
+
+#: ../src/services/mate-services.desktop.in.in.h:1
+msgid "Services"
+msgstr "સેવાઓ"
+
+#: ../src/services/mate-services.desktop.in.in.h:2
+msgid "Configure which services will be run when the system starts"
+msgstr "જ્યારે સિસ્ટમ શરુ થાય ત્યારે કઈ સેવા ચાલુ થાય તે રુપરેખાંકિત કરો"
+
+#: ../src/services/service-settings-table.c:73
+#: ../src/services/service-settings-table.c:97
+#: ../src/services/service-settings-table.c:109
+msgid "Start"
+msgstr "શરૂ કરો"
+
+#: ../src/services/service-settings-table.c:79
+#: ../src/services/service-settings-table.c:99
+#: ../src/services/service-settings-table.c:111
+msgid "Stop"
+msgstr "અટકાવો"
+
+#: ../src/services/service-settings-table.c:85
+#: ../src/services/service-settings-table.c:102
+msgid "Ignore"
+msgstr "અવગણો"
+
+#: ../src/services/service-settings-table.c:175
+msgid "Runlevel"
+msgstr "રનલેવલ"
+
+#: ../src/services/service-settings-table.c:192
+msgid "Status"
+msgstr "પરિસ્થિતિ"
+
+#: ../src/services/service-settings-table.c:211
+msgid "Priority"
+msgstr "પ્રાધાન્ય"
+
+#: ../src/services/services-tool.c:106
+msgid "Services Settings"
+msgstr "સેવાઓ સુયોજનો"
+
+#: ../src/shares/callbacks.c:196
+msgid "Are you sure you want to delete this share?"
+msgstr "શું તમે ખરેખર આ વહેંચાયેલને કાઢી નાંખવા માંગો છો?"
+
+#: ../src/shares/callbacks.c:198
+msgid "Other computers in your network will stop viewing this."
+msgstr "તમારા નેટવર્કમાંના અન્ય કમ્પ્યૂટરો આને જોવાનું બંધ કરશે."
+
+#: ../src/shares/main.c:103
+msgid "Add a shared path, modifies it if it already exists"
+msgstr "વહેંચાયેલ પથ ઉમેરો, જો તે પહેલાથી જ હાજર હોય તો તેને સુધારે છે"
+
+#: ../src/shares/main.c:103
+msgid "PATH"
+msgstr "PATH"
+
+#: ../src/shares/caja/caja-shares.c:151
+msgid "_Share Folder..."
+msgstr "ફોલ્ડર વહેંચો (_S)..."
+
+#: ../src/shares/caja/caja-shares.c:152
+msgid "Share this folder with other computers"
+msgstr "અન્ય કમ્પ્યૂટરો સાથે આ ફોલ્ડરોને વહેંચો"
+
+#: ../src/shares/nfs-acl-table.c:50
+msgid "Allowed host/network"
+msgstr "માન્ય યજમાન/નેટવર્ક"
+
+#: ../src/shares/share-nfs-add-hosts.c:117
+msgid "Specify hostname"
+msgstr "યજમાનનામ સ્પષ્ટ કરો"
+
+#: ../src/shares/share-nfs-add-hosts.c:124
+msgid "Specify IP address"
+msgstr "IP સરનામું સ્પષ્ટ કરો"
+
+#: ../src/shares/share-nfs-add-hosts.c:131
+msgid "Specify network"
+msgstr "નેટવર્ક સ્પષ્ટ કરો"
+
+#: ../src/shares/mate-shares.desktop.in.in.h:2
+msgid "Configure which folders are available for your network neighborhood"
+msgstr "તમારા નેટવર્કની પડોશમાં કયા ફોલ્ડરો તમારા માટે ઉપ્લબ્ધ છે તે રૂપરેખાંકિત કરો"
+
+#: ../src/shares/share-settings.c:61
+msgid "File System"
+msgstr "ફાઈલ સિસ્ટમ"
+
+#: ../src/shares/share-settings.c:144
+msgid "Do not share"
+msgstr "વહેંચો નહિં"
+
+#: ../src/shares/share-settings.c:152
+msgid "Windows networks (SMB)"
+msgstr "વિન્ડોઝ નેટવર્કો (SMB)"
+
+#: ../src/shares/share-settings.c:160
+msgid "Unix networks (NFS)"
+msgstr "યુનિક્સ નેટવર્કો (NFS)"
+
+#: ../src/shares/share-settings.c:462
+#, c-format
+msgid "Settings for folder '%s'"
+msgstr "ફોલ્ડર '%s' માટે સુયોજનો"
+
+#: ../src/shares/share-settings.c:469
+msgid "Share Folder"
+msgstr "વહેંચણી ફોલ્ડર"
+
+#: ../src/shares/shares-tool.c:152
+msgid "Sharing services are not installed"
+msgstr "વહેંચાયેલ સેવાઓ સ્થાપિત થયેલ નથી"
+
+#: ../src/shares/shares-tool.c:154
+msgid ""
+"You need to install at least either Samba or NFS in order to share your "
+"folders."
+msgstr "તમારે ઓછામાં ઓછું ક્યાં તો Samba અથવા NFS ને તમારા ફોલ્ડરો વહેંચવા માટે સ્થાપિત કરવું જોઈએ."
+
+#: ../src/time/e-map/e-map.c:620
+msgid "World Map"
+msgstr ""
+
+#: ../src/time/e-map/e-map.c:622
+msgid ""
+"Mouse-based interactive map widget for selecting timezone. Keyboard users "
+"should instead select the timezone from the drop-down combination box below."
+msgstr ""
+
+#: ../src/time/mate-time.desktop.in.in.h:1
+msgid "Time and Date"
+msgstr "સમય અને તારીખ"
+
+#: ../src/time/mate-time.desktop.in.in.h:2
+msgid "Change system time, date, and timezone"
+msgstr "સિસ્ટમ સમય, તારીખ, અને ટાઈમ ઝોન બદલો"
+
+#: ../src/time/time-tool.c:398
+msgid "NTP support is not installed"
+msgstr "NTP નો આધાર સ્થાપિત નથી"
+
+#: ../src/time/time-tool.c:400
+msgid ""
+"Please install and activate NTP support in the system to enable "
+"synchronization of your local time server with internet time servers."
+msgstr "તમારા સ્થાનિક સમય સર્વરને ઈન્ટરનેટ સમય સર્વરો સાથે સુમેળ તમારી સિસ્ટમમાં સક્રિય કરવા માટે મહેરબાની કરીને NTP આધાર સ્થાપિત અને સક્રિય કરો."
+
+#: ../src/time/time-tool.c:429
+msgid "Enabling NTP"
+msgstr "NTP સક્રિય કરવાનું"
+
+#: ../src/time/time-tool.c:429
+msgid "Disabling NTP"
+msgstr "NTP નિષ્ક્રિય કરવાનું"
+
+#: ../src/time/time-tool.c:441
+msgid "Synchronizing system clock"
+msgstr "સિસ્ટમ ઘડિયાળ સાથે સુમેળ કરવાનું"
+
+#: ../src/time/time-tool.c:521
+msgid "Keep synchronized with Internet servers"
+msgstr "ઈન્ટરનેટ સર્વરો સાથે સુમેળ થયેલ રાખો"
+
+#: ../src/time/time-tool.c:522
+msgid "Manual"
+msgstr "જાતે"
+
+#: ../src/time/time-tool.c:665
+msgid "Time and Date Settings"
+msgstr "સમય અને તારીખ સુયોજનો"
+
+#: ../src/users/group-settings.c:55
+msgid "Administrator group can not be deleted"
+msgstr "સંચાલક જૂથ કાઢી શકાતું નથી"
+
+#: ../src/users/group-settings.c:58 ../src/users/group-settings.c:221
+#: ../src/users/group-settings.c:258 ../src/users/user-settings.c:88
+#: ../src/users/user-settings.c:605
+msgid "This would leave the system unusable."
+msgstr "આ સિસ્ટમને વાપરી શકાય નહિં તેમ છોડી દેશે."
+
+#: ../src/users/group-settings.c:71
+#, c-format
+msgid "Are you sure you want to delete group \"%s\"?"
+msgstr "શું તમે ખરેખર જૂથ \"%s\" કાઢી નાંખવા માંગો છો?"
+
+#: ../src/users/group-settings.c:74
+msgid "This may leave files with invalid group ID in the filesystem."
+msgstr "આ ફાઈલ સિસ્ટમમાં માન્ય નહિં હોય એવા જૂથ ID વાળી ફાઈલો છોડી દેશે."
+
+#: ../src/users/group-settings.c:144
+msgid "New group"
+msgstr "નવું જૂથ"
+
+#: ../src/users/group-settings.c:151
+#, c-format
+msgid "Group '%s' Properties"
+msgstr "જૂથ '%s' ગુણધર્મો"
+
+#: ../src/users/group-settings.c:217
+msgid "Group name is empty"
+msgstr "જૂથ નામ ખાલી છે"
+
+#: ../src/users/group-settings.c:218
+msgid "A group name must be specified."
+msgstr "જૂથ નામ સ્પષ્ટ કરેલ હોવું જ જોઈએ."
+
+#: ../src/users/group-settings.c:220
+msgid "Group name of the administrator group user should not be modified"
+msgstr "સંચાલક જૂથનું જૂથ નામ સુધારેલ હોવું જોઈએ નહિં"
+
+#: ../src/users/group-settings.c:223
+msgid "Group name has invalid characters"
+msgstr "જૂથ નામ પાસે અમાન્ય અક્ષરો છે"
+
+#: ../src/users/group-settings.c:224
+msgid ""
+"Please set a valid group name consisting of a lower case letter followed by "
+"lower case letters and numbers."
+msgstr "મહેરબાની કરીને માન્ય વપરાશકર્તા નામ સુયોજિત કરો કે જે નાના અક્ષરોને સમાવે છે જે નાના અક્ષરો અને સંખ્યાઓને અનુસરે છે."
+
+#: ../src/users/group-settings.c:229
+#, c-format
+msgid "Group \"%s\" already exists"
+msgstr "જૂથ \"%s\" પહેલાથી જ હાજર છે"
+
+#: ../src/users/group-settings.c:230
+msgid "Please choose a different group name."
+msgstr "મહેરબાની કરીને વિવિધ જૂથ નામને પસંદ કરો."
+
+#: ../src/users/group-settings.c:257
+msgid "Group ID of the Administrator account should not be modified"
+msgstr "સંચાલક ખાતાનું જૂથ ID સુધારેલ હોવું જોઈએ નહિં"
+
+#. check that GID is free
+#: ../src/users/group-settings.c:261
+#, c-format
+msgid "Group ID %d is already used by group \"%s\""
+msgstr ""
+
+#: ../src/users/group-settings.c:264
+msgid "Please choose a different numeric identifier for the new group."
+msgstr ""
+
+#: ../src/users/group-settings.c:266
+#, c-format
+msgid "Please choose a different numeric identifier for group \"%s\"."
+msgstr ""
+
+#: ../src/users/groups-table.c:44
+msgid "Group name"
+msgstr "જૂથ નામ"
+
+#. TRANSLATORS:  This applies to a password. Keep the string short.
+#: ../src/users/main.c:74 ../src/users/user-settings.c:347
+msgid "Not asked on login"
+msgstr ""
+
+#: ../src/users/main.c:74 ../src/users/user-settings.c:349
+msgid "Asked on login"
+msgstr ""
+
+#: ../src/users/privileges-table.c:53
+msgid "Monitor system logs"
+msgstr "સિસ્ટમ લોગ મોનીટર કરો"
+
+#: ../src/users/privileges-table.c:54
+msgid "Administer the system"
+msgstr "સિસ્ટમ સંચાલિત કરો"
+
+#: ../src/users/privileges-table.c:55
+msgid "Use audio devices"
+msgstr "ઓડિયો ઉપકરણો વાપરો"
+
+#: ../src/users/privileges-table.c:56
+msgid "Use CD-ROM drives"
+msgstr "CD-ROM ડ્રાઈવો વાપરો"
+
+#: ../src/users/privileges-table.c:57
+msgid "Burn CDs / DVDs"
+msgstr "CDs / DVDs ને બર્ન કરો"
+
+#: ../src/users/privileges-table.c:58
+msgid "Use modems"
+msgstr "મોડેમો વાપરો"
+
+#: ../src/users/privileges-table.c:59
+msgid "Connect to Internet using a modem"
+msgstr "ઈન્ટરનેટ સાથે મોડેમની મદદથી જોડો"
+
+#: ../src/users/privileges-table.c:60
+msgid "Send and receive faxes"
+msgstr "ફેક્સો મોકલો અને મેળવો"
+
+#: ../src/users/privileges-table.c:61
+msgid "Use floppy drives"
+msgstr "ફ્લોપી ડ્રાઈવો વાપરો"
+
+#: ../src/users/privileges-table.c:62
+msgid "Mount user-space filesystems (FUSE)"
+msgstr ""
+
+#: ../src/users/privileges-table.c:63
+msgid "Configure printers"
+msgstr ""
+
+#: ../src/users/privileges-table.c:64
+msgid "Connect to wireless and ethernet networks"
+msgstr ""
+
+#: ../src/users/privileges-table.c:65
+msgid "Access external storage devices automatically"
+msgstr "બાહ્ય સંગ્રહ ઉપકરણો આપોઆપ વાપરો"
+
+#: ../src/users/privileges-table.c:66
+msgid "Suspend and hibernate the computer"
+msgstr ""
+
+#: ../src/users/privileges-table.c:67
+msgid "Access /proc filesystem"
+msgstr "/proc ફાઇલસિસ્ટમમાં પ્રવેશો"
+
+#: ../src/users/privileges-table.c:68
+msgid "Use scanners"
+msgstr "સ્કેનરો વાપરો"
+
+#: ../src/users/privileges-table.c:69
+msgid "Use tape drives"
+msgstr "ટેપ ડ્રાઈવો વાપરો"
+
+#: ../src/users/privileges-table.c:70
+msgid "Use USB devices"
+msgstr "USB ઉપકરણો વાપરો"
+
+#: ../src/users/privileges-table.c:71
+msgid "Use VirtualBox virtualization solution"
+msgstr ""
+
+#: ../src/users/privileges-table.c:72
+msgid "Use video devices"
+msgstr "વિડીયો ઉપકરણો વાપરો"
+
+#: ../src/users/privileges-table.c:73
+msgid "Be able to get administrator privileges"
+msgstr "સંચાલક વિશેષાધિકારો મેળવવામાં સમર્થ"
+
+#: ../src/users/user-profiles.conf.in.h:1
+msgid "Desktop user"
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:2
+msgid ""
+"Can perform common tasks. Can't install software or change settings "
+"affecting all users."
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:3
+msgid "Administrator"
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:4
+msgid ""
+"Can change anything on the system, including installing and upgrading "
+"software."
+msgstr ""
+
+#: ../src/users/run-passwd.c:421
+msgid "Authentication failed"
+msgstr ""
+
+#: ../src/users/run-passwd.c:498
+#, c-format
+msgid "The new password is too short"
+msgstr ""
+
+#: ../src/users/run-passwd.c:504
+#, c-format
+msgid "The new password is too simple"
+msgstr ""
+
+#: ../src/users/run-passwd.c:510
+#, c-format
+msgid "The old and new passwords are too similar"
+msgstr ""
+
+#: ../src/users/run-passwd.c:513
+#, c-format
+msgid "The new password must contain numeric or special characters"
+msgstr ""
+
+#: ../src/users/run-passwd.c:517
+#, c-format
+msgid "The old and new passwords are the same"
+msgstr ""
+
+#: ../src/users/run-passwd.c:520
+#, c-format
+msgid "The new password has already been used recently."
+msgstr ""
+
+#: ../src/users/run-passwd.c:524
+#, c-format
+msgid "Your password has been changed since you initially authenticated!"
+msgstr ""
+
+#: ../src/users/run-passwd.c:528
+#, c-format
+msgid "Unknown error"
+msgstr ""
+
+#: ../src/users/mate-users.desktop.in.in.h:1
+msgid "Users and Groups"
+msgstr "વપરાશકર્તાઓ અને જૂથો"
+
+#: ../src/users/mate-users.desktop.in.in.h:2
+msgid "Add or remove users and groups"
+msgstr "વપરાશકર્તાઓ અને જૂથો ઉમેરો અથવા દૂર કરો"
+
+#: ../src/users/user-password.c:97
+msgid "Password is too short"
+msgstr "પાસવર્ડ ખૂબ ટૂંકો છે"
+
+#: ../src/users/user-password.c:98
+msgid ""
+"User passwords must be longer than 5 characters and preferably formed by "
+"numbers, letters and special characters."
+msgstr ""
+
+#: ../src/users/user-password.c:101
+msgid "Password confirmation is not correct"
+msgstr "પાસવર્ડ ખાતરી બરાબર નથી"
+
+#: ../src/users/user-password.c:102
+msgid "Check that you have provided the same password in both text fields."
+msgstr "ચકાસો કે તમને પૂરો પાડેલો પાસવર્ડ બંને લખાણના ક્ષેત્રોમાં સરખો છે."
+
+#: ../src/users/user-password.c:445
+msgid "Please choose another password."
+msgstr ""
+
+#: ../src/users/user-password.c:456
+msgid "Please type again your current password."
+msgstr ""
+
+#: ../src/users/user-password.c:463
+msgid "Password could not be changed"
+msgstr ""
+
+#: ../src/users/user-settings.c:85
+msgid "Administrator account cannot be deleted"
+msgstr "સંચાલક ખાતું કાઢી શકાતું નથી"
+
+#: ../src/users/user-settings.c:96
+#, c-format
+msgid "%s is currently using this computer"
+msgstr ""
+
+#: ../src/users/user-settings.c:99
+msgid "Please ensure the user has logged out before deleting this account."
+msgstr ""
+
+#: ../src/users/user-settings.c:109
+msgid "Can't delete the only administrator account"
+msgstr ""
+
+#: ../src/users/user-settings.c:111
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Deleting this account would "
+"lock you out of administrating the system."
+msgstr ""
+
+#: ../src/users/user-settings.c:121
+#, c-format
+msgid "Remove home folder for %s?"
+msgstr ""
+
+#: ../src/users/user-settings.c:124
+#, c-format
+msgid ""
+"Files owned by user %s in <tt>%s</tt> can be completely removed if you don't"
+" need them anymore. You may want to back them up before deleting the "
+"account, or keep them so that an administrator can save them later."
+msgstr ""
+
+#: ../src/users/user-settings.c:132
+msgid "Keep Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:133
+msgid "Don't Remove Account"
+msgstr ""
+
+#: ../src/users/user-settings.c:134
+msgid "Delete Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:330
+msgid "Superuser"
+msgstr ""
+
+#: ../src/users/user-settings.c:335
+msgid "Custom"
+msgstr ""
+
+#. TRANSLATORS: This applies to a password.
+#: ../src/users/user-settings.c:344
+msgid "None"
+msgstr ""
+
+#: ../src/users/user-settings.c:393
+#, c-format
+msgid "Invalid character \"%c\" in comment"
+msgstr "ટિપ્પળીમાં અયોગ્ય અક્ષર \"%c\" છે"
+
+#: ../src/users/user-settings.c:394
+msgid "Check that this character is not used."
+msgstr "ચકાસો કે આ અક્ષર વપરાયેલ નથી."
+
+#: ../src/users/user-settings.c:426
+msgid "Incomplete path in home directory"
+msgstr "ઘર ડિરેક્ટરીમાં અપૂર્ણ પથ"
+
+#: ../src/users/user-settings.c:427
+msgid ""
+"Please enter full path for home directory\n"
+"<span size=\"smaller\">i.e.: /home/john</span>."
+msgstr ""
+
+#: ../src/users/user-settings.c:447 ../src/users/user-settings.c:491
+msgid "New home directory already exists, use it?"
+msgstr ""
+
+#: ../src/users/user-settings.c:449
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or copy the contents of <tt>%s</tt> to the new home, overwriting it?\n"
+"\n"
+"In doubt, use the new directory to avoid losing data, and copy files from the old directory later."
+msgstr ""
+
+#: ../src/users/user-settings.c:461
+msgid "_Replace With Old Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:462 ../src/users/user-settings.c:504
+#: ../src/users/user-settings.c:540
+msgid "_Cancel Change"
+msgstr ""
+
+#. TRANSLATORS: This means "use the files from the new location",
+#. * as opposed to those from the old location.
+#: ../src/users/user-settings.c:465
+msgid "_Use New Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:470 ../src/users/user-settings.c:510
+msgid "Make user the _owner of the new home directory"
+msgstr ""
+
+#: ../src/users/user-settings.c:473 ../src/users/user-settings.c:547
+msgid "_Delete old home directory"
+msgstr ""
+
+#: ../src/users/user-settings.c:493
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or delete all its contents and use a completely empty home directory?\n"
+"\n"
+"In doubt, keep the files, and remove them later if needed."
+msgstr ""
+
+#: ../src/users/user-settings.c:503
+msgid "_Delete Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:505
+msgid "_Use Existing Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:526
+msgid "Copy old home directory to new location?"
+msgstr ""
+
+#: ../src/users/user-settings.c:528
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which doesn't exist. Do you want to copy the contents of the old home directory (<tt>%s</tt>), or use a completely empty home directory?\n"
+"\n"
+"If you choose to copy the files to the new location, it's safe to delete the old directory."
+msgstr ""
+
+#: ../src/users/user-settings.c:539
+msgid "_Use Empty Directory"
+msgstr ""
+
+#. TRANSLATORS: This means "copy files from the old home directory".
+#: ../src/users/user-settings.c:542
+msgid "Co_py Old Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:604
+msgid "ID for the root user should not be modified"
+msgstr ""
+
+#. check that UID is free
+#: ../src/users/user-settings.c:608
+#, c-format
+msgid "User ID %d is already used by user %s"
+msgstr ""
+
+#: ../src/users/user-settings.c:610
+#, c-format
+msgid "Please choose a different numeric identifier for %s."
+msgstr ""
+
+#: ../src/users/user-settings.c:628
+msgid "Incomplete path in shell"
+msgstr "શેલમાં અપૂર્ણ પથ"
+
+#: ../src/users/user-settings.c:629
+msgid ""
+"Please enter full path for shell\n"
+"<span size=\"smaller\">i.e.: /bin/bash</span>."
+msgstr ""
+
+#: ../src/users/user-settings.c:663
+msgid "Can't revoke administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:666
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Revoking administration "
+"rights for this account would lock you out of administrating the system."
+msgstr ""
+
+#: ../src/users/user-settings.c:683
+msgid "You are about to revoke your own administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:686
+#, c-format
+msgid ""
+"%s will no longer be able to perform administrative tasks. This account "
+"won't be allowed to get administration rights back on its own."
+msgstr ""
+
+#: ../src/users/user-settings.c:691
+msgid "Give up administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:1469
+msgid "Applying changes to user settings..."
+msgstr ""
+
+#: ../src/users/users-tool.c:288
+msgid "Users Settings"
+msgstr "વપરાશકર્તાઓ સુયોજનો"

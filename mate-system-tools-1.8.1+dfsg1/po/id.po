@@ -1,0 +1,2118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ahmad Riza H Nst  <rizahnst@gnome.org>, 2006
+# andjeng, 2013
+# Mohammad DAMT <mdamt@bisnisweb.com>, 2004
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-15 09:46+0100\n"
+"PO-Revision-Date: 2013-03-11 09:13+0000\n"
+"Last-Translator: andjeng\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/MATE/language/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../interfaces/network.ui.h:1
+msgid "Off"
+msgstr "Mati"
+
+#: ../interfaces/network.ui.h:2
+msgid "Low"
+msgstr "Rendah"
+
+#: ../interfaces/network.ui.h:3
+msgid "Medium"
+msgstr "Sedang"
+
+#: ../interfaces/network.ui.h:4
+msgid "Loud"
+msgstr "Keras"
+
+#: ../interfaces/network.ui.h:5
+msgid "Tones"
+msgstr "Nada"
+
+#: ../interfaces/network.ui.h:6
+msgid "Pulses"
+msgstr "Gelombang"
+
+#: ../interfaces/network.ui.h:7
+msgid "Plain (ASCII)"
+msgstr "Datar (ASCII)"
+
+#: ../interfaces/network.ui.h:8
+msgid "Hexadecimal"
+msgstr "Heksadesimal"
+
+#: ../interfaces/network.ui.h:9
+msgid "Location:"
+msgstr "Lokasi:"
+
+#: ../interfaces/network.ui.h:10
+msgid "Save current network configuration as a location"
+msgstr "Simpan konfigurasi jaringan saat ini sebagai lokasi"
+
+#: ../interfaces/network.ui.h:11
+msgid "Delete current location"
+msgstr "Hapus lokasi saat ini"
+
+#: ../interfaces/network.ui.h:12
+msgid "Connections"
+msgstr "Sambungan"
+
+#: ../interfaces/network.ui.h:13
+msgid "_Host name:"
+msgstr "Nama _host:"
+
+#: ../interfaces/network.ui.h:14
+msgid "D_omain name:"
+msgstr "Nama ranah/d_omain:"
+
+#: ../interfaces/network.ui.h:15
+msgid "Host Settings"
+msgstr "Pengaturan Host"
+
+#: ../interfaces/network.ui.h:16 ../interfaces/users.ui.h:30
+msgid "General"
+msgstr "Umum"
+
+#: ../interfaces/network.ui.h:17
+msgid "DNS Servers"
+msgstr "Server DNS"
+
+#: ../interfaces/network.ui.h:18
+msgid "Search Domains"
+msgstr "Pencarian Ranah/Domain"
+
+#: ../interfaces/network.ui.h:19
+msgid "DNS"
+msgstr "DNS"
+
+#: ../interfaces/network.ui.h:20
+msgid "Hosts"
+msgstr "Host"
+
+#: ../interfaces/network.ui.h:21
+msgid "Interface properties"
+msgstr "Pengaturan perangkat"
+
+#: ../interfaces/network.ui.h:22
+msgid "E_nable this connection"
+msgstr "Aktifka_n koneksi ini"
+
+#: ../interfaces/network.ui.h:23
+msgid "E_nable roaming mode"
+msgstr "Fungsikan mode pe_njelajahan"
+
+#: ../interfaces/network.ui.h:24
+msgid "Connection type:"
+msgstr "Tipe sambungan:"
+
+#: ../interfaces/network.ui.h:25
+msgid "Network name (_ESSID):"
+msgstr "Nama jaringan (_ESSID):"
+
+#: ../interfaces/network.ui.h:26
+msgid "Network _password:"
+msgstr "Kata sandi _jaringan:"
+
+#: ../interfaces/network.ui.h:27
+msgid "Password _type:"
+msgstr "Jenis _Kata Sandi:"
+
+#: ../interfaces/network.ui.h:28
+msgid "Wireless Settings"
+msgstr "Setting Nirkabel"
+
+#: ../interfaces/network.ui.h:29
+msgid "Con_figuration:"
+msgstr "Kon_figurasi:"
+
+#: ../interfaces/network.ui.h:30
+msgid "_IP address:"
+msgstr "Alamat _IP:"
+
+#: ../interfaces/network.ui.h:31
+msgid "_Subnet mask:"
+msgstr "Mask _subnet:"
+
+#: ../interfaces/network.ui.h:32
+msgid "_Gateway address:"
+msgstr "Alamat _gateway:"
+
+#: ../interfaces/network.ui.h:33
+msgid "Connection Settings"
+msgstr "Seting Sambungan"
+
+#: ../interfaces/network.ui.h:34
+msgid "_Local IP:"
+msgstr "IP _lokal:"
+
+#: ../interfaces/network.ui.h:35
+msgid "_Remote IP:"
+msgstr "IP _remote:"
+
+#: ../interfaces/network.ui.h:36
+msgid "_Phone number:"
+msgstr "Nomor tele_pon:"
+
+#: ../interfaces/network.ui.h:37
+msgid "_Dial prefix:"
+msgstr "_Nomor awalan:"
+
+#: ../interfaces/network.ui.h:38 ../src/network/ifaces-list.c:326
+msgid "Access point name:"
+msgstr "APN:"
+
+#: ../interfaces/network.ui.h:39
+msgid "Internet service provider data"
+msgstr "Data Penyelenggara Jasa Internet"
+
+#: ../interfaces/network.ui.h:40 ../interfaces/users.ui.h:56
+msgid "_Username:"
+msgstr "Nama _User:"
+
+#: ../interfaces/network.ui.h:41
+msgid "P_assword"
+msgstr "K_ata sandi"
+
+#: ../interfaces/network.ui.h:42
+msgid "Account data"
+msgstr "Data akun"
+
+#: ../interfaces/network.ui.h:43
+msgid "_Modem port:"
+msgstr "Port _modem:"
+
+#: ../interfaces/network.ui.h:44
+msgid "_Dial type:"
+msgstr "Tipe _dial:"
+
+#. TRANSLATORS: Volume as in loudness
+#: ../interfaces/network.ui.h:46
+msgid "_Volume:"
+msgstr "_Suara modem:"
+
+#: ../interfaces/network.ui.h:47
+msgid "_Autodetect"
+msgstr "Deteksi _otomatis"
+
+#: ../interfaces/network.ui.h:48 ../src/network/ifaces-list.c:335
+msgid "Ethernet interface:"
+msgstr "Antarmuka Ethernet:"
+
+#: ../interfaces/network.ui.h:49
+msgid "Modem Settings"
+msgstr "Seting Modem"
+
+#: ../interfaces/network.ui.h:50
+msgid "Modem"
+msgstr "Modem"
+
+#: ../interfaces/network.ui.h:51
+msgid "_Set modem as default route to internet"
+msgstr "Gunakan modem sebagai _rute utama ke Internet"
+
+#: ../interfaces/network.ui.h:52
+msgid "Use the Internet service provider nameservers"
+msgstr "Gunakan server nama (NS) penyedia jasa Internet"
+
+#: ../interfaces/network.ui.h:53
+msgid "_Retry if the connection breaks or fails to start"
+msgstr "_Ulangi bila koneksi putus atau gagal"
+
+#: ../interfaces/network.ui.h:54
+msgid "Options"
+msgstr "Pilihan"
+
+#: ../interfaces/network.ui.h:55
+msgid "Host Alias Properties"
+msgstr "Properti Host Alias"
+
+#: ../interfaces/network.ui.h:56 ../interfaces/shares.ui.h:13
+msgid "IP address:"
+msgstr "Alamat IP:"
+
+#: ../interfaces/network.ui.h:57
+msgid "Aliases:"
+msgstr "Alias:"
+
+#: ../interfaces/services.ui.h:1
+msgid "Select the services that you wish to activate:"
+msgstr "Pilih layanan yang hendak diaktifkan:"
+
+#: ../interfaces/services.ui.h:2
+msgid "Advanced settings:"
+msgstr "Pengaturan tambahan:"
+
+#: ../interfaces/shares.ui.h:1
+msgid "_Path:"
+msgstr "_Path:"
+
+#: ../interfaces/shares.ui.h:2
+msgid "Share through:"
+msgstr "Kongsikan melalui:"
+
+#: ../interfaces/shares.ui.h:3
+msgid "Shared Folder"
+msgstr "Folder Terkongsi"
+
+#: ../interfaces/shares.ui.h:4
+msgid "Comment:"
+msgstr "Keterangan:"
+
+#: ../interfaces/shares.ui.h:5
+msgid "Name:"
+msgstr "Nama:"
+
+#: ../interfaces/shares.ui.h:6
+msgid "_Read only"
+msgstr "_Baca saja"
+
+#: ../interfaces/shares.ui.h:7
+msgid "Share Properties"
+msgstr "Pengaturan Kongsi"
+
+#: ../interfaces/shares.ui.h:8
+msgid "Allowed Hosts"
+msgstr "Host yang Dibolehkan"
+
+#: ../interfaces/shares.ui.h:9
+msgid "Share"
+msgstr "Bagikan"
+
+#: ../interfaces/shares.ui.h:10
+msgid "Add allowed hosts"
+msgstr "Masukkan host"
+
+#: ../interfaces/shares.ui.h:11
+msgid "Allowed hosts:"
+msgstr "Host yang dibolehkan:"
+
+#: ../interfaces/shares.ui.h:12
+msgid "Host name:"
+msgstr "Nama host:"
+
+#: ../interfaces/shares.ui.h:14
+msgid "Network:"
+msgstr "Jaringan:"
+
+#: ../interfaces/shares.ui.h:15
+msgid "Netmask:"
+msgstr "Netmask:"
+
+#: ../interfaces/shares.ui.h:16 ../src/shares/nfs-acl-table.c:56
+msgid "Read only"
+msgstr "Baca saja"
+
+#: ../interfaces/shares.ui.h:17
+msgid "Hosts Settings"
+msgstr "Pengaturan Host"
+
+#: ../interfaces/shares.ui.h:18 ../src/shares/mate-shares.desktop.in.in.h:1
+#: ../src/shares/shares-tool.c:237
+msgid "Shared Folders"
+msgstr "Folder Terkongsi"
+
+#: ../interfaces/shares.ui.h:19
+msgid "Domain / _Workgroup:"
+msgstr "Ranah/Domain / _Kelompok kerja:"
+
+#: ../interfaces/shares.ui.h:20
+msgid "This computer is a _WINS server"
+msgstr "Komputer ini adalah server _WINS"
+
+#: ../interfaces/shares.ui.h:21
+msgid "WINS _server:"
+msgstr "_Server WINS:"
+
+#: ../interfaces/shares.ui.h:22
+msgid "Windows sharing"
+msgstr "Kongsi Windows"
+
+#: ../interfaces/shares.ui.h:23
+msgid "General Properties"
+msgstr "Pengaturan Umum"
+
+#: ../interfaces/shares.ui.h:24
+msgid "Users"
+msgstr "Pengguna"
+
+#: ../interfaces/shares.ui.h:25
+msgid "Enter password for user"
+msgstr "Masukkan sandi untuk pengguna"
+
+#: ../interfaces/shares.ui.h:26
+msgid "Enter password for user:"
+msgstr "Masukkan sandi untuk pengguna:"
+
+#: ../interfaces/time.ui.h:1
+msgid "Time zone"
+msgstr "Zona waktu"
+
+#: ../interfaces/time.ui.h:2
+msgid "Time Zone"
+msgstr "Zona Waktu"
+
+#: ../interfaces/time.ui.h:3
+msgid "Time zone:"
+msgstr "Zona waktu:"
+
+#: ../interfaces/time.ui.h:4
+msgid "Selection"
+msgstr "Pilihan"
+
+#: ../interfaces/time.ui.h:5
+msgid "Time servers"
+msgstr "Server waktu"
+
+#: ../interfaces/time.ui.h:6
+msgid "NTP server"
+msgstr "Server NTP"
+
+#: ../interfaces/time.ui.h:7
+msgid "Add NTP Server"
+msgstr "Tambahkan Server NTP"
+
+#: ../interfaces/time.ui.h:8
+msgid "Unconfigured"
+msgstr "Belum terkonfigurasi"
+
+#: ../interfaces/time.ui.h:9
+msgid "_Configuration:"
+msgstr "_Configurasi:"
+
+#: ../interfaces/time.ui.h:10
+msgid "Time servers:"
+msgstr "Server waktu:"
+
+#: ../interfaces/time.ui.h:11
+msgid "Se_lect Servers"
+msgstr "Pi_lih Server"
+
+#: ../interfaces/time.ui.h:12
+msgid "_Time:"
+msgstr "_Jam:"
+
+#: ../interfaces/time.ui.h:13
+msgid "_Date:"
+msgstr "Tan_ggal:"
+
+#: ../interfaces/time.ui.h:14
+msgid "Synchronize now"
+msgstr "Sinkronisasi sekarang"
+
+#: ../interfaces/users.ui.h:1
+msgid "_Manage Groups"
+msgstr "Kelola Kelo_mpok"
+
+#: ../interfaces/users.ui.h:2
+msgid "Account _type:"
+msgstr "_Tipe akun:"
+
+#: ../interfaces/users.ui.h:3
+msgid "_Change..."
+msgstr "Ganti"
+
+#: ../interfaces/users.ui.h:4
+msgid "_Password:"
+msgstr "_Kata Sandi:"
+
+#: ../interfaces/users.ui.h:5
+msgid "_Advanced Settings"
+msgstr "Pengaturan Det_ail"
+
+#: ../interfaces/users.ui.h:6
+msgid "This account is disabled."
+msgstr "Akun ini dinon-aktifkan"
+
+#: ../interfaces/users.ui.h:7
+msgid "_Enable Account"
+msgstr "Aktifk_en Akun"
+
+#: ../interfaces/users.ui.h:8
+msgid "Group properties"
+msgstr "Pengaturan kelompok"
+
+#: ../interfaces/users.ui.h:9
+msgid "Basic Settings"
+msgstr "Pengaturan Dasar"
+
+#: ../interfaces/users.ui.h:10
+msgid "Group _name:"
+msgstr "_Nama kelompok:"
+
+#: ../interfaces/users.ui.h:11
+msgid "Group _ID:"
+msgstr "_ID Kelompok (GID):"
+
+#: ../interfaces/users.ui.h:12
+msgid "Group Members"
+msgstr "Keanggotaan Kelompok"
+
+#: ../interfaces/users.ui.h:13
+msgid "Profile Settings"
+msgstr "Seting Profil"
+
+#: ../interfaces/users.ui.h:14
+msgid "Profile _name:"
+msgstr "Nama profil:"
+
+#: ../interfaces/users.ui.h:15
+msgid "_Comments"
+msgstr "_Komentar"
+
+#: ../interfaces/users.ui.h:16
+msgid "System Defaults"
+msgstr "Konfigurasi Awal Sistem"
+
+#: ../interfaces/users.ui.h:17
+msgid "_Home directory:"
+msgstr "Direktori _home:"
+
+#: ../interfaces/users.ui.h:18
+msgid "Default _shell:"
+msgstr "_Shell utama:"
+
+#: ../interfaces/users.ui.h:19
+msgid "Default _group:"
+msgstr "_Kelompok utama:"
+
+#: ../interfaces/users.ui.h:20
+msgid "Password Settings"
+msgstr "Pengaturan Sandi"
+
+#: ../interfaces/users.ui.h:21
+msgid "Number of days that a password may be used:"
+msgstr "Jumlah hari penggunaan sandi:"
+
+#: ../interfaces/users.ui.h:22
+msgid "Minimum days allowed between password changes:"
+msgstr "Jumlah hari minimum periode penggantian sandi:"
+
+#: ../interfaces/users.ui.h:23
+msgid "Days between warning and password expiration:"
+msgstr "Jarak hari antara peringatan dan kadaluwarsa sandi:"
+
+#: ../interfaces/users.ui.h:24
+msgid "Assign a random password by default"
+msgstr "Beri kata sandi acak pada pemakai ini"
+
+#: ../interfaces/users.ui.h:25
+msgid "Automatic UID/GID"
+msgstr "UID/GID Otomatis"
+
+#: ../interfaces/users.ui.h:26
+msgid "Maximum UID:"
+msgstr "UID maksimum:"
+
+#: ../interfaces/users.ui.h:27
+msgid "Maximum GID:"
+msgstr "GID Maksimum:"
+
+#: ../interfaces/users.ui.h:28
+msgid "Minimum UID:"
+msgstr "UID minimum:"
+
+#: ../interfaces/users.ui.h:29
+msgid "Minimum GID:"
+msgstr "GID minimum:"
+
+#: ../interfaces/users.ui.h:31
+msgid "Privileges"
+msgstr "Hak akses"
+
+#: ../interfaces/users.ui.h:32
+msgid "User profiles"
+msgstr "Profil pemakai"
+
+#: ../interfaces/users.ui.h:33
+msgid "_Add Profile"
+msgstr "T_ambahkan Profil"
+
+#: ../interfaces/users.ui.h:34
+msgid "Groups settings"
+msgstr "Pengaturan kelompok"
+
+#: ../interfaces/users.ui.h:35
+msgid "Groups available on the system:"
+msgstr "Grup yang tersedia pada sistem:"
+
+#: ../interfaces/users.ui.h:36
+msgid "Change User Name"
+msgstr "Ganti nama pengguna"
+
+#: ../interfaces/users.ui.h:37
+msgid "Full _Name:"
+msgstr "_Nama Lengkap"
+
+#: ../interfaces/users.ui.h:38
+msgid "Changing user name for:"
+msgstr "Ganti nama pengguna untuk :"
+
+#: ../interfaces/users.ui.h:39
+msgid "Change User Password"
+msgstr "Ubah Sandi Pengguna"
+
+#: ../interfaces/users.ui.h:40
+msgid "Con_firmation:"
+msgstr "Kon_firmasi:"
+
+#: ../interfaces/users.ui.h:41
+msgid "Password set to: "
+msgstr "Kata sandi baru:"
+
+#: ../interfaces/users.ui.h:42
+msgid "_Generate"
+msgstr "_Tetapkan"
+
+#: ../interfaces/users.ui.h:43
+msgid "Set password b_y hand"
+msgstr "Tulis sandi _manual"
+
+#: ../interfaces/users.ui.h:44
+msgid "New _password:"
+msgstr "_Password Baru"
+
+#: ../interfaces/users.ui.h:45
+msgid "Generate _random password"
+msgstr "Buat kata sandi _acak"
+
+#: ../interfaces/users.ui.h:46
+msgid "Changing user password for:"
+msgstr "Ubah password pengguna untuk:"
+
+#: ../interfaces/users.ui.h:47
+msgid "Don't ask for password on _login"
+msgstr "Jangan tanya santuk ketika _login"
+
+#: ../interfaces/users.ui.h:48
+msgid "_Current password:"
+msgstr "Sandi sekarang"
+
+#: ../interfaces/users.ui.h:49
+msgid "Change User Account Type"
+msgstr "Ubah Jenis Akun Pengguna"
+
+#: ../interfaces/users.ui.h:50
+msgid "Changing user account type for:"
+msgstr "Ubah tipe akun pengguna untuk:"
+
+#: ../interfaces/users.ui.h:51
+msgid "_Custom"
+msgstr "_Custom"
+
+#: ../interfaces/users.ui.h:52
+msgid ""
+"This account is using special settings that have been defined manually. Use "
+"the <i>Advanced Settings</i> dialog to tune them."
+msgstr "Akun ini menggunakan seting khusus yang sudah ditentukan secara manual. Guanakan dialog <i> Setting Detail</i>  untuk menyetingnya."
+
+#: ../interfaces/users.ui.h:53
+msgid "Create New User"
+msgstr "Buat Pengguna Baru"
+
+#: ../interfaces/users.ui.h:54
+msgid "_Name:"
+msgstr "_Nama:"
+
+#: ../interfaces/users.ui.h:55
+msgid "Create a new user"
+msgstr "Buat pengguna baru"
+
+#. No item should exceed a length of 40 characters, to avoid wrapping on two
+#. lines. Better simplifying than making it hard to read!
+#: ../interfaces/users.ui.h:58
+msgid ""
+"Username must consist of:\n"
+"  ➣ lower case letters from the English alphabet\n"
+"  ➣ digits\n"
+"  ➣ any of the characters \".\", \"-\" and \"_\""
+msgstr "nama Pengguna harus terdiri dari: f:⏎ ➣ huruf kecil dari abjad Latinf⏎ ➣ digit angka⏎ ➣ dan karakter berikut \".\", \"-\" and \"_\""
+
+#: ../interfaces/users.ui.h:62
+msgid ""
+"A user with this name already exists. Please choose a different name for the"
+" new user."
+msgstr "Pngguna dengan nama ini sudah ada. Silakan memilih nama lain untuk pengguna baru."
+
+#: ../interfaces/users.ui.h:63
+msgid "Username must start with a letter!"
+msgstr "Nama pengguna harus dimulai dari huruf!"
+
+#: ../interfaces/users.ui.h:64
+msgid "_Encrypt home folder to protect sensitive data"
+msgstr "_Enkrip folder home untuk menjaga data personal"
+
+#: ../interfaces/users.ui.h:65
+msgid ""
+"Encrypt all your files with your login password to strongly protect them "
+"from people with physical access to your computer, at the expense of a "
+"slightly reduced performance."
+msgstr "Enkripsi semua berkas anda menggunakan sandi login anda untuk memproteksi berkas dari orang orang dengan akses fisik ke komputer anda, dengan timbalbalik performa yang sedikit menurun."
+
+#: ../interfaces/users.ui.h:66
+msgid "Change Advanced User Settings"
+msgstr "Mengubah Pengaturan Detail Pengguna"
+
+#: ../interfaces/users.ui.h:67
+msgid "Changing advanced settings for:"
+msgstr "Mengubah Pengaturan tambahan untuk:"
+
+#: ../interfaces/users.ui.h:68
+msgid "O_ffice location:"
+msgstr "_Lokasi kantor:"
+
+#: ../interfaces/users.ui.h:69
+msgid "_Work phone:"
+msgstr "Telepon _kantor:"
+
+#: ../interfaces/users.ui.h:70
+msgid "_Home phone:"
+msgstr "Telepon _rumah:"
+
+#: ../interfaces/users.ui.h:71
+msgid "Contact Information"
+msgstr "Informasi Kontak"
+
+#: ../interfaces/users.ui.h:72
+msgid "User Privileges"
+msgstr "Hak akses Pemakai"
+
+#: ../interfaces/users.ui.h:73
+msgid "Advanced Settings"
+msgstr "Pengaturan Detil"
+
+#: ../interfaces/users.ui.h:74
+msgid "_Shell:"
+msgstr "_Shell:"
+
+#: ../interfaces/users.ui.h:75
+msgid "_Main group:"
+msgstr "Kelompok uta_ma:"
+
+#: ../interfaces/users.ui.h:76
+msgid "User ID:"
+msgstr "ID Pemakai:"
+
+#: ../interfaces/users.ui.h:77
+msgid "You can't change user ID while the user is logged in."
+msgstr "Anda tidak dapat mengubah ID pengguna ketika pengguna tersebut sedang login."
+
+#: ../interfaces/users.ui.h:78
+msgid "Disable _account"
+msgstr "Matikan _akun"
+
+#: ../interfaces/users.ui.h:79
+msgid "Optional Settings"
+msgstr "Pilihan Tambahan"
+
+#: ../interfaces/users.ui.h:80
+msgid "Mi_nimum days between password changes:"
+msgstr "Jumlah hari mi_nimal penggantian kata sandi:"
+
+#: ../interfaces/users.ui.h:81
+msgid "Ma_ximum days a password may be used:"
+msgstr "Juml_ah hari maksimum pemakaian sandi:"
+
+#: ../interfaces/users.ui.h:82
+msgid "_Days between warning and password expiration:"
+msgstr "_Jumlah hari antara peringatan dan tanggal kadaluwarsa sandi:"
+
+#: ../interfaces/users.ui.h:83
+msgid "Advanced"
+msgstr "Lanjutan"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:1
+msgid "Show system users"
+msgstr "Tunjukan pengguna sistem"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:2
+msgid ""
+"Whether the users-admin tool should show system users in the users list."
+msgstr "Menentukan apakah peralatan user-admin harus menunjukkan pengguna sistem pada daftar pengguna."
+
+#: ../org.mate.system-tools.gschema.xml.in.h:3
+msgid "Show root user"
+msgstr "Tunjukkan Pengguna Root"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:4
+msgid ""
+"Whether the users-admin tool should show the root user in the users list."
+msgstr "Apakah peralatan pengguna-admin harus menunjukkan pengguna root pada daftar pengguna."
+
+#: ../src/common/gst-platform-dialog.c:179
+msgid "The platform you are running is not supported by this tool"
+msgstr "Platform yang sedang anda gunakan tidak didukung oleh alat ini"
+
+#. label
+#: ../src/common/gst-platform-dialog.c:185
+msgid ""
+"If you know for sure that it works like one of the platforms listed below, "
+"you can select that and continue. Note, however, that this might damage the "
+"system configuration or downright cripple your computer."
+msgstr "Bila Anda yakin dengan pilihan sistem operasi yang Anda pilih, silakan lanjutkan. Harap diperhatikan bahwa tindakan ini bisa saja merusak atau memperlambat komputer Anda."
+
+#: ../src/common/gst-platform-dialog.c:212
+msgid "Unsupported platform"
+msgstr "Sistem Tidak Didukung"
+
+#: ../src/common/gst-tool.c:188
+msgid "The configuration could not be loaded"
+msgstr "Konfigurasi tidak dapat dimuat"
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:190
+msgid "The configuration could not be saved"
+msgstr "Konfigurasi tidak dapat disimpan"
+
+#: ../src/common/gst-tool.c:194
+msgid "You are not allowed to access the system configuration."
+msgstr "Anda tidak diijinkan untuk mengakses konfigurasi sistem"
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:196 ../src/common/gst-tool.c:685
+msgid "You are not allowed to modify the system configuration."
+msgstr "Anda tidak diijinkan untuk memodifikasi sistem konfigurasi."
+
+#: ../src/common/gst-tool.c:199
+msgid "Invalid data was found."
+msgstr "Data tak valid diketemukan."
+
+#. OOBS_RESULT_ERROR
+#: ../src/common/gst-tool.c:201
+msgid "An unknown error occurred."
+msgstr "Galat tak dikenal terjadi."
+
+#: ../src/common/gst-tool.c:422
+msgid "Could not display help"
+msgstr "Tidak dapat menampilkan bantuan"
+
+#: ../src/common/gst-tool.c:616
+msgid "The system configuration has potentially changed."
+msgstr "Konfigurasi sistem berpotensi berubah."
+
+#: ../src/common/gst-tool.c:618
+msgid "Update content? This will lose any modification in course."
+msgstr "Update isi? Hal ini akan menghapus perubahan yang terjadi."
+
+#: ../src/common/gst-tool.c:687
+#, c-format
+msgid ""
+"An error occurred while checking for authorizations: %s\n"
+"You may report this as a bug."
+msgstr "Galat terjadi ketika memeriksa otorisasi: %s ⏎ Anda dapat melaporkan hal ini sebagai kutu."
+
+#: ../src/network/address-list.c:76 ../src/network/hosts.c:31
+#: ../src/shares/table.c:38 ../src/users/table.c:40
+msgid "_Add"
+msgstr "T_ambahkan"
+
+#: ../src/network/address-list.c:77 ../src/network/hosts.c:33
+#: ../src/shares/table.c:40 ../src/users/table.c:42
+msgid "_Delete"
+msgstr "_Hapus"
+
+#: ../src/network/address-list.c:485
+msgid "Type address"
+msgstr "Masukkan alamat"
+
+#: ../src/network/callbacks.c:237 ../src/network/callbacks.c:487
+msgid "Changing interface configuration"
+msgstr "Mengganti konfigurasi antar muka"
+
+#: ../src/network/callbacks.c:299
+msgid "Could not autodetect modem device"
+msgstr "Tidak dapat mendeteksi perangkat modem"
+
+#: ../src/network/callbacks.c:302
+msgid ""
+"Check that the device is not busy and that is correctly attached to the "
+"computer."
+msgstr "Periksa apakah perangkat tersebut sedang dipakai atau telah disambungkan dengan benar ke dalam komputer atau tidak."
+
+#: ../src/network/callbacks.c:523
+msgid "The host name has changed"
+msgstr "Nama host telah dirubah"
+
+#: ../src/network/callbacks.c:526
+msgid ""
+"This will prevent you from launching new applications, and so you will have "
+"to log in again. Continue anyway?"
+msgstr "Anda harus login ulang apabila ingin menjalankan aplikasi lain. Apakah ingin melanjutkan?"
+
+#: ../src/network/callbacks.c:532
+msgid "Change _Host name"
+msgstr "Ubah nama _host"
+
+#: ../src/network/connection.c:40
+msgid "Automatic configuration (DHCP)"
+msgstr "Konfigurasi otomatis (DHCP)"
+
+#: ../src/network/connection.c:41
+msgid "Local Zeroconf network (IPv4 LL)"
+msgstr "Jaringan Lokal Zeroconf (IPv4 LL)"
+
+#: ../src/network/connection.c:42
+msgid "Static IP address"
+msgstr "Alamat IP Statis"
+
+#: ../src/network/connection.c:46
+msgid "WEP key (ascii)"
+msgstr "Kunci WEP (ascii)"
+
+#: ../src/network/connection.c:47
+msgid "WEP key (hexadecimal)"
+msgstr "Kunci WEP (heksadesimal)"
+
+#: ../src/network/connection.c:48
+msgid "WPA Personal"
+msgstr "Personal WPA"
+
+#: ../src/network/connection.c:49
+msgid "WPA2 Personal"
+msgstr "WPA2 Personal"
+
+#: ../src/network/connection.c:53
+msgid "GPRS/UMTS"
+msgstr "GPRS/UMTS"
+
+#: ../src/network/connection.c:54
+msgid "ISDN modem"
+msgstr "ISDN modem"
+
+#: ../src/network/connection.c:55
+msgid "Serial modem"
+msgstr "Nomor seri modem"
+
+#: ../src/network/connection.c:56
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../src/network/connection.c:769
+#, c-format
+msgid "%s Properties"
+msgstr "Properti %s"
+
+#: ../src/network/hosts.c:32 ../src/network/ifaces-list.c:33
+#: ../src/shares/table.c:39 ../src/users/table.c:41
+msgid "_Properties"
+msgstr "_Properti"
+
+#: ../src/network/hosts.c:89
+msgid "IP Address"
+msgstr "Alamat IP"
+
+#: ../src/network/hosts.c:97
+msgid "Aliases"
+msgstr "Alias"
+
+#: ../src/network/ifaces-list.c:280
+msgid "This network interface is not configured"
+msgstr "Antar muka jaringan belum dikonfigurasikan"
+
+#: ../src/network/ifaces-list.c:282
+msgid "Roaming mode enabled"
+msgstr "Mode penjelajahan diaktifkan"
+
+#: ../src/network/ifaces-list.c:289
+#, c-format
+msgid "<b>Essid:</b> %s "
+msgstr "<b>Essid:</b> %s"
+
+#: ../src/network/ifaces-list.c:296 ../src/network/ifaces-list.c:301
+#: ../src/network/ifaces-list.c:306
+msgid "Address:"
+msgstr "Alamat:"
+
+#: ../src/network/ifaces-list.c:298
+msgid "Subnet mask:"
+msgstr "Mask subnet:"
+
+#: ../src/network/ifaces-list.c:308
+msgid "Remote address:"
+msgstr "Alamat remote:"
+
+#: ../src/network/ifaces-list.c:320 ../src/network/ifaces-list.c:325
+#: ../src/network/ifaces-list.c:334 ../src/network/ifaces-list.c:339
+msgid "Type:"
+msgstr "Jenis:"
+
+#: ../src/network/ifaces-list.c:321
+msgid "Phone number:"
+msgstr "Nomor telepon:"
+
+#: ../src/network/ifaces-list.c:356
+msgid "Wireless connection"
+msgstr "Koneksi nirkabel"
+
+#: ../src/network/ifaces-list.c:358
+msgid "Infrared connection"
+msgstr "Koneksi infra merah"
+
+#: ../src/network/ifaces-list.c:360
+msgid "Wired connection"
+msgstr "Koneksi kabel"
+
+#: ../src/network/ifaces-list.c:362
+msgid "Parallel port connection"
+msgstr "Koneksi port paralel"
+
+#: ../src/network/ifaces-list.c:364
+msgid "Point to point connection"
+msgstr "Koneksi Point ke Point"
+
+#: ../src/network/locations-combo.c:221
+msgid "Changing network location"
+msgstr "Mengganti lokasi jaringan"
+
+#: ../src/network/locations-combo.c:265
+msgid "There is already a location with the same name"
+msgstr "Sudah tersedia lokasi dengan nama yang sama"
+
+#: ../src/network/locations-combo.c:267
+msgid "Overwrite it?"
+msgstr "Timpa?"
+
+#: ../src/network/locations-combo.c:355
+msgid "Save location"
+msgstr "SImpan lokasi"
+
+#: ../src/network/locations-combo.c:370
+msgid "_Location name:"
+msgstr "Nama _Lokasi"
+
+#: ../src/network/locations-combo.c:422
+#, c-format
+msgid "Do you want to delete location \"%s\"?"
+msgstr "Apakah anda ingin menghapus lokasi \"%s\"?"
+
+#: ../src/network/main.c:135
+msgid "The interface does not exist"
+msgstr "Perangkat tidak ada"
+
+#: ../src/network/main.c:137
+msgid ""
+"Check that it is correctly typed and that it is correctly supported by your "
+"system."
+msgstr "Periksa apakah telah ditulis dengan benar atau dapat diterima sistem atau tidak."
+
+#: ../src/network/main.c:183
+msgid "Configure a network interface"
+msgstr "Atur antarmuka jaringan"
+
+#: ../src/network/main.c:183
+msgid "INTERFACE"
+msgstr "INTERFACE"
+
+#: ../src/network/main.c:184
+msgid "Configure the first network interface with a specific type"
+msgstr "Atur jenis perangkat jaringan utama"
+
+#: ../src/network/main.c:184
+msgid "TYPE"
+msgstr "TYPE"
+
+#: ../src/network/mate-network.desktop.in.in.h:1
+msgid "Network"
+msgstr "Jaringan"
+
+#: ../src/network/mate-network.desktop.in.in.h:2
+msgid "Configure network devices and connections"
+msgstr "Atur perangkat dan koneksi jaringan"
+
+#: ../src/network/network-tool.c:280
+msgid "Network Settings"
+msgstr "Pengaturan Jaringan"
+
+#: ../src/services/callbacks.c:65
+#, c-format
+msgid "Settings for service \"%s\""
+msgstr "Konfigurasi untuk layanan \"%s\""
+
+#: ../src/services/callbacks.c:122
+#, c-format
+msgid "Are you sure you want to deactivate %s?"
+msgstr "Apakah benar ingin mematikan %s?"
+
+#: ../src/services/callbacks.c:126
+msgid ""
+"This may affect your system behavior in several ways, possibly leading to "
+"data loss."
+msgstr "Ini mungkin berakibat buruk pada sistem dalam berbagai cara, misalnya akan ada data yang hilang"
+
+#: ../src/services/service.c:32
+msgid "Web server"
+msgstr "Server web"
+
+#: ../src/services/service.c:32
+msgid "Shares your web pages over the Internet"
+msgstr "Bagikan halaman web anda melalui Internet"
+
+#. GST_ROLE_WEB_SERVER
+#: ../src/services/service.c:33
+msgid "Actions scheduler"
+msgstr "Penjadwal aksi"
+
+#: ../src/services/service.c:33
+msgid "Executes scheduled actions"
+msgstr "Jalankan aksi yang sudah terjadwal"
+
+#. GST_ROLE_COMMAND_SCHEDULER
+#: ../src/services/service.c:34
+msgid "Printer service"
+msgstr "Layanan pencetak"
+
+#: ../src/services/service.c:34
+msgid "Allows applications to use printers"
+msgstr "Perbolehkan aplikasi untuk mengakses pencetak"
+
+#. GST_ROLE_PRINTER_SERVICE
+#: ../src/services/service.c:35
+msgid "Mail agent"
+msgstr "Program email"
+
+#: ../src/services/service.c:35
+msgid "Delivers your outgoing mail"
+msgstr "Antarkan surat kiriman anda"
+
+#. GST_ROLE_MTA
+#: ../src/services/service.c:36
+msgid "MTA authentication service"
+msgstr "Otentikasi layanan MTA"
+
+#. GST_ROLE_MTA_AUTH
+#: ../src/services/service.c:37
+msgid "Mail fetcher"
+msgstr "Penarik email"
+
+#: ../src/services/service.c:37
+msgid "Downloads your mail from remote accounts"
+msgstr "Unduk email dari akun server"
+
+#. GST_ROLE_MAIL_FETCHER
+#: ../src/services/service.c:38
+msgid "Graphical login manager"
+msgstr "Pengatur login grafis"
+
+#: ../src/services/service.c:38
+msgid "Allows users to login graphically"
+msgstr "Perbolehkan pengguna untuk masuk ke sistem secara grafis"
+
+#. GST_ROLE_DISPLAY_MANAGER
+#: ../src/services/service.c:39
+msgid "Database server"
+msgstr "Server basis data"
+
+#: ../src/services/service.c:39
+msgid "Data storage system"
+msgstr "Sistem penyimpanan data"
+
+#. GST_ROLE_DATABASE_SERVER
+#. GST_ROLE_FILE_SERVER_SMB
+#. GST_ROLE_FILE_SERVER_FTP
+#: ../src/services/service.c:40 ../src/services/service.c:41
+#: ../src/services/service.c:43
+msgid "Folder sharing service"
+msgstr "Layanan perkongsian folder (folder sharing)"
+
+#: ../src/services/service.c:40 ../src/services/service.c:41
+msgid "Shares folders over your network"
+msgstr "Kongsikan folder dalam jaringan anda"
+
+#. GST_ROLE_FILE_SERVER_NFS
+#: ../src/services/service.c:42
+msgid "FTP service"
+msgstr "Layanan FTP"
+
+#: ../src/services/service.c:42 ../src/services/service.c:43
+msgid "Shares folders over the Internet"
+msgstr "Bagikan folder melalui Internet"
+
+#. GST_ROLE_FILE_SERVER_TFTP
+#: ../src/services/service.c:44
+msgid "Clock synchronization service"
+msgstr "Layanan sinkronisasi jam sistem"
+
+#: ../src/services/service.c:44
+msgid "Synchronizes your computer clock with Internet time servers"
+msgstr "Cocokkan waktu komputer anda dengan server waktu di Internet"
+
+#. GST_ROLE_NTP_SERVER
+#: ../src/services/service.c:46
+msgid "Antivirus"
+msgstr "Antivirus"
+
+#: ../src/services/service.c:46
+msgid "Analyzes your incoming mail for virus"
+msgstr "Analisa email masuk terhadap virus"
+
+#. GST_ROLE_ANTIVIRUS
+#: ../src/services/service.c:47
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../src/services/service.c:47
+msgid "Blocks undesired network access to your computer"
+msgstr "Blok akses jaringan yang tidak diinginkan ke komputer anda"
+
+#. GST_ROLE_FIREWALL_MANAGEMENT
+#: ../src/services/service.c:49
+msgid "Dictionary server"
+msgstr "Server kamus"
+
+#. GST_ROLE_DICTIONARY_SERVER
+#: ../src/services/service.c:50
+msgid "Speech synthesis support"
+msgstr "Dukungan sintesis suara"
+
+#. GST_ROLE_SPEECH_SYNTHESIS
+#: ../src/services/service.c:51
+msgid "Computer activity logger"
+msgstr "Pencatat aktivitas komputer"
+
+#: ../src/services/service.c:51
+msgid "Keeps a log of your computer activity"
+msgstr "Catat aktivitas komputer"
+
+#. GST_ROLE_SYSTEM_LOGGER
+#: ../src/services/service.c:52
+msgid "Remote backup server"
+msgstr "Server backup jarak jauh"
+
+#. GST_ROLE_REMOTE_BACKUP
+#: ../src/services/service.c:53
+msgid "Spam filter"
+msgstr "Filter spam"
+
+#. GST_ROLE_SPAM_FILTER
+#: ../src/services/service.c:54
+msgid "Remote shell server"
+msgstr "Server shell jarak jauh"
+
+#: ../src/services/service.c:54
+msgid "Secure shell server"
+msgstr "Layanan shell terenkripsi"
+
+#. GST_ROLE_SECURE_SHELL_SERVER
+#: ../src/services/service.c:55
+msgid "Application server"
+msgstr "Server aplikasi"
+
+#. GST_ROLE_APPLICATION_SERVER
+#: ../src/services/service.c:56
+msgid "Automated crash reports support"
+msgstr "Dukungan laporan galat terotomatisasi"
+
+#. GST_ROLE_AUTOMATED_CRASH_REPORTS_MANAGEMENT
+#: ../src/services/service.c:57
+msgid "System communication bus"
+msgstr "bus komunikasi sistem"
+
+#. GST_ROLE_DBUS,
+#: ../src/services/service.c:58
+msgid "System configuration manager"
+msgstr "Manajer Konfigurasi Sistem"
+
+#. GST_ROLE_SYSTEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:59
+msgid "School management platform"
+msgstr "Platform manajemen sekolah"
+
+#. GST_ROLE_SCHOOL_MANAGEMENT_PLATFORM
+#: ../src/services/service.c:60
+msgid "Network security auditor"
+msgstr "Auditor keamanan jaringan"
+
+#. GST_ROLE_SECURITY_AUDITING
+#: ../src/services/service.c:61
+msgid "Web calendar server"
+msgstr "Server kalender web"
+
+#. GST_ROLE_WEB_CALENDAR_SERVER
+#: ../src/services/service.c:62
+msgid "OEM configuration manager"
+msgstr "Manajer konfigurasi OEM"
+
+#. GST_ROLE_OEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:63
+msgid "Terminal multiplexor"
+msgstr "Pengganda Terminal"
+
+#. GST_ROLE_TERMINAL_MULTIPLEXOR
+#: ../src/services/service.c:64
+msgid "Disk quota activation"
+msgstr "Aktivasi kuota diska"
+
+#. GST_ROLE_QUOTA_MANAGEMENT
+#: ../src/services/service.c:65
+msgid "Package index monitor"
+msgstr "Monitor indeks paket"
+
+#. GST_ROLE_PACKAGE_INDEX_MONITORING
+#: ../src/services/service.c:66
+msgid "Network service"
+msgstr "Dukungan Jaringan"
+
+#. GST_ROLE_NETWORK
+#: ../src/services/service.c:67
+msgid "Dynamic DNS services updater"
+msgstr "Updater dukungan DNS Dinamis"
+
+#. GST_ROLE_DYNAMIC_DNS_SERVICE
+#: ../src/services/service.c:68
+msgid "DHCP server"
+msgstr "Server DHCP"
+
+#. GST_ROLE_DHCP_SERVER
+#: ../src/services/service.c:69
+msgid "Domain name server"
+msgstr "Domain Name Server"
+
+#. GST_ROLE_DNS
+#: ../src/services/service.c:70
+msgid "Proxy cache service"
+msgstr "Layanan proksi"
+
+#. GST_ROLE_PROXY_CACHE
+#: ../src/services/service.c:71
+msgid "LDAP server"
+msgstr "Server LDAP"
+
+#. GST_ROLE_LDAP_SERVER
+#: ../src/services/service.c:72
+msgid "Mailing lists manager"
+msgstr "Manajer Milis"
+
+#. GST_ROLE_MAILING_LISTS_MANAGER
+#: ../src/services/service.c:73
+msgid "Multicast DNS service discovery"
+msgstr "Penemuan layanan DNS multicast"
+
+#. GST_ROLE_RENDEZVOUS
+#: ../src/services/service.c:74
+msgid "Account information resolver"
+msgstr "Penyelesaian informasi akun"
+
+#. GST_ROLE_NSS
+#: ../src/services/service.c:75
+msgid "Virtual Private Network server"
+msgstr "Server VPN"
+
+#. GST_ROLE_VPN_SERVER
+#: ../src/services/service.c:76
+msgid "Router advertisement server"
+msgstr "Server Router"
+
+#. GST_ROLE_ROUTER_ADVERTISEMENT_SERVER
+#: ../src/services/service.c:77
+msgid "IPSec key exchange server"
+msgstr "Server pergantian kunci IPSec"
+
+#. GST_ROLE_IPSEC_KEY_EXCHANGE_SERVER
+#: ../src/services/service.c:78
+msgid "Disk server"
+msgstr "Server Diska"
+
+#. GST_ROLE_DISK_SERVER
+#: ../src/services/service.c:79
+msgid "Disk client"
+msgstr "Klien Diska"
+
+#. GST_ROLE_DISK_CLIENT
+#: ../src/services/service.c:80
+msgid "Route server"
+msgstr "Server Rute"
+
+#. GST_ROLE_ROUTE_SERVER
+#: ../src/services/service.c:81
+msgid "RPC mapper"
+msgstr "Mapper RPC"
+
+#. GST_ROLE_RPC_MAPPER
+#: ../src/services/service.c:82
+msgid "SNMP server"
+msgstr "SNMP server"
+
+#. GST_ROLE_SNMP_SERVER
+#: ../src/services/service.c:83
+msgid "Terminal server client"
+msgstr "Klien terminal server"
+
+#. GST_ROLE_LTSP_CLIENT
+#: ../src/services/service.c:84
+msgid "Audio settings management"
+msgstr "Manajemen pengaturan audio"
+
+#. GST_ROLE_AUDIO_MANAGEMENT
+#: ../src/services/service.c:85
+msgid "Volumes mounter"
+msgstr "Pengkait volume"
+
+#: ../src/services/service.c:85
+msgid "Mounts your volumes automatically"
+msgstr "Kaitkan volume secara otomatis"
+
+#. GST_ROLE_AUTOMOUNTER
+#: ../src/services/service.c:86
+msgid "Infrared port management"
+msgstr "Manajemen porta inframerah"
+
+#. GST_ROLE_INFRARED_MANAGEMENT
+#: ../src/services/service.c:87
+msgid "Braille display management"
+msgstr "Manajemen penampil Braille"
+
+#. GST_ROLE_BRAILLE_DISPLAY_MANAGEMENT
+#: ../src/services/service.c:88
+msgid "Bluetooth device management"
+msgstr "Manajemen divais Bluetooth"
+
+#. GST_ROLE_BLUETOOTH_MANAGEMENT
+#: ../src/services/service.c:89
+msgid "Hard disk tuning"
+msgstr "Pengaturan cakram diska"
+
+#. GST_ROLE_HDD_MANAGEMENT
+#: ../src/services/service.c:90
+msgid "Hotkeys management"
+msgstr "Manajemen Hotkey"
+
+#. GST_ROLE_HOTKEYS_MANAGEMENT
+#: ../src/services/service.c:91
+msgid "Power management"
+msgstr "Manajemen Daya"
+
+#. GST_ROLE_POWER_MANAGEMENT
+#: ../src/services/service.c:92
+msgid "Logical volume management"
+msgstr "Manajemen volume logis"
+
+#. GST_ROLE_LVM_MANAGEMENT
+#: ../src/services/service.c:93
+msgid "Cluster management tool"
+msgstr "Peralatan manajemen cluster"
+
+#. GST_ROLE_CLUSTER_MANAGEMENT
+#: ../src/services/service.c:94
+msgid "Fax settings management"
+msgstr "Manajemen pengaturan Fax"
+
+#. GST_ROLE_FAX_MANAGEMENT
+#: ../src/services/service.c:95
+msgid "RAID disks management"
+msgstr "Manajemen diska RAID"
+
+#. GST_ROLE_RAID_MANAGEMENT
+#: ../src/services/service.c:96
+msgid "Graphic tablets management"
+msgstr "Manajemen tablet grafis"
+
+#. GST_ROLE_GRAPHIC_TABLETS_MANAGEMENT
+#: ../src/services/service.c:97
+msgid "CPU Frequency manager"
+msgstr "Manajer Frekuensi CPU"
+
+#. GST_ROLE_CPUFREQ_MANAGEMENT
+#: ../src/services/service.c:98
+msgid "Eagle USB ADSL modems manager"
+msgstr "Manajer modem USB ASDL Eagle"
+
+#. GST_ROLE_EAGLE_USB_MODEMS_MANAGEMENT
+#: ../src/services/service.c:99
+msgid "Serial port settings management"
+msgstr "Manajemen pengaturan serial porta "
+
+#. GST_ROLE_SERIAL_PORTS_MANAGEMENT
+#: ../src/services/service.c:100
+msgid "ISDN modems manager"
+msgstr "Manajer modem ISDN"
+
+#. GST_ROLE_ISDN_MANAGEMENT
+#: ../src/services/service.c:101
+msgid "Telstra Bigpond Cable Network client"
+msgstr "Klient Telstra Bigpond Cable Network"
+
+#. GST_ROLE_TELSTRA_BIGPOND_NETWORK_CLIENT
+#: ../src/services/service.c:102
+msgid "Hardware monitor"
+msgstr "Monitor Hardware"
+
+#. GST_ROLE_HARDWARE_MONITORING
+#: ../src/services/service.c:103
+msgid "System monitor"
+msgstr "Sistem monitor"
+
+#. GST_ROLE_SYSTEM_MONITORING
+#: ../src/services/service.c:104
+msgid "Virtual Machine management"
+msgstr "Manajemen Virtual Machine"
+
+#: ../src/services/mate-services.desktop.in.in.h:1
+msgid "Services"
+msgstr "Layanan"
+
+#: ../src/services/mate-services.desktop.in.in.h:2
+msgid "Configure which services will be run when the system starts"
+msgstr "Atur layanan yang akan dijalankan saat komputer dinyalakan"
+
+#: ../src/services/service-settings-table.c:73
+#: ../src/services/service-settings-table.c:97
+#: ../src/services/service-settings-table.c:109
+msgid "Start"
+msgstr "Jalankan"
+
+#: ../src/services/service-settings-table.c:79
+#: ../src/services/service-settings-table.c:99
+#: ../src/services/service-settings-table.c:111
+msgid "Stop"
+msgstr "Hentikan"
+
+#: ../src/services/service-settings-table.c:85
+#: ../src/services/service-settings-table.c:102
+msgid "Ignore"
+msgstr "Acuhkan"
+
+#: ../src/services/service-settings-table.c:175
+msgid "Runlevel"
+msgstr "Runlevel"
+
+#: ../src/services/service-settings-table.c:192
+msgid "Status"
+msgstr "Status"
+
+#: ../src/services/service-settings-table.c:211
+msgid "Priority"
+msgstr "Prioritas"
+
+#: ../src/services/services-tool.c:106
+msgid "Services Settings"
+msgstr "Pengaturan Layanan"
+
+#: ../src/shares/callbacks.c:196
+msgid "Are you sure you want to delete this share?"
+msgstr "Apakah benar ingin menghapus kongsi ini?"
+
+#: ../src/shares/callbacks.c:198
+msgid "Other computers in your network will stop viewing this."
+msgstr "Komputer lain dalam jaringan tidak lagi melihat ini."
+
+#: ../src/shares/main.c:103
+msgid "Add a shared path, modifies it if it already exists"
+msgstr "Masukkan path bersama (shared), ubah bila sudah ada"
+
+#: ../src/shares/main.c:103
+msgid "PATH"
+msgstr "PATH"
+
+#: ../src/shares/caja/caja-shares.c:151
+msgid "_Share Folder..."
+msgstr "Kong_sikan Folder...."
+
+#: ../src/shares/caja/caja-shares.c:152
+msgid "Share this folder with other computers"
+msgstr "Kongsikan folder ini dengan komputer lain"
+
+#: ../src/shares/nfs-acl-table.c:50
+msgid "Allowed host/network"
+msgstr "Host/jaringan yang diperbolehkan"
+
+#: ../src/shares/share-nfs-add-hosts.c:117
+msgid "Specify hostname"
+msgstr "Masukkan nama host"
+
+#: ../src/shares/share-nfs-add-hosts.c:124
+msgid "Specify IP address"
+msgstr "Masukkan alamat IP"
+
+#: ../src/shares/share-nfs-add-hosts.c:131
+msgid "Specify network"
+msgstr "Masukkan nama jaringan"
+
+#: ../src/shares/mate-shares.desktop.in.in.h:2
+msgid "Configure which folders are available for your network neighborhood"
+msgstr "Konfigurasikan folder yang hendak dibuka aksesnya dalam jaringan"
+
+#: ../src/shares/share-settings.c:61
+msgid "File System"
+msgstr "Sistem Berkas"
+
+#: ../src/shares/share-settings.c:144
+msgid "Do not share"
+msgstr "Jangan dibuka"
+
+#: ../src/shares/share-settings.c:152
+msgid "Windows networks (SMB)"
+msgstr "Jaringan Windows (SMB)"
+
+#: ../src/shares/share-settings.c:160
+msgid "Unix networks (NFS)"
+msgstr "Jaringan Unix (NFS)"
+
+#: ../src/shares/share-settings.c:462
+#, c-format
+msgid "Settings for folder '%s'"
+msgstr "Pengaturan untuk folder '%s'"
+
+#: ../src/shares/share-settings.c:469
+msgid "Share Folder"
+msgstr "Folder Kongsi"
+
+#: ../src/shares/shares-tool.c:152
+msgid "Sharing services are not installed"
+msgstr "Dukungan Perkongsian belum terpasang"
+
+#: ../src/shares/shares-tool.c:154
+msgid ""
+"You need to install at least either Samba or NFS in order to share your "
+"folders."
+msgstr "Anda harus memasang setidaknya Samba atau NFS agar bisa mengkongsikan folder anda."
+
+#: ../src/time/e-map/e-map.c:620
+msgid "World Map"
+msgstr "Peta Dunia"
+
+#: ../src/time/e-map/e-map.c:622
+msgid ""
+"Mouse-based interactive map widget for selecting timezone. Keyboard users "
+"should instead select the timezone from the drop-down combination box below."
+msgstr "Widget yang berdasarkan tetikus interaktif untuk memilih zona waktu. Pengguna keyboard harus memilih zona waktu dari kombinasi kotak dibawah."
+
+#: ../src/time/mate-time.desktop.in.in.h:1
+msgid "Time and Date"
+msgstr "Tanggal dan Waktu"
+
+#: ../src/time/mate-time.desktop.in.in.h:2
+msgid "Change system time, date, and timezone"
+msgstr "Ubah tanggal, waktu, dan zona waktu komputer"
+
+#: ../src/time/time-tool.c:398
+msgid "NTP support is not installed"
+msgstr "Dukungan NTP belum terpasang"
+
+#: ../src/time/time-tool.c:400
+msgid ""
+"Please install and activate NTP support in the system to enable "
+"synchronization of your local time server with internet time servers."
+msgstr "Pasang dan jalankan dukungan NTP di komputer ini untuk mengaktifkan sinkronisasi waktu lokal anda dengan server waktu server Internet."
+
+#: ../src/time/time-tool.c:429
+msgid "Enabling NTP"
+msgstr "Memfungsikan NTP"
+
+#: ../src/time/time-tool.c:429
+msgid "Disabling NTP"
+msgstr "Nonaktifkan NTP"
+
+#: ../src/time/time-tool.c:441
+msgid "Synchronizing system clock"
+msgstr "Sinkroniasasi jam sistem"
+
+#: ../src/time/time-tool.c:521
+msgid "Keep synchronized with Internet servers"
+msgstr "Selalu sinkronkan dengan server internet"
+
+#: ../src/time/time-tool.c:522
+msgid "Manual"
+msgstr "Manual"
+
+#: ../src/time/time-tool.c:665
+msgid "Time and Date Settings"
+msgstr "Pengaturan Tanggal dan Waktu"
+
+#: ../src/users/group-settings.c:55
+msgid "Administrator group can not be deleted"
+msgstr "Kelompok administrator tidak bisa dihapus"
+
+#: ../src/users/group-settings.c:58 ../src/users/group-settings.c:221
+#: ../src/users/group-settings.c:258 ../src/users/user-settings.c:88
+#: ../src/users/user-settings.c:605
+msgid "This would leave the system unusable."
+msgstr "Komputer nantinya akan tidak dapat dipakai."
+
+#: ../src/users/group-settings.c:71
+#, c-format
+msgid "Are you sure you want to delete group \"%s\"?"
+msgstr "Benar ingin menghapus kelompok \"%s\"?"
+
+#: ../src/users/group-settings.c:74
+msgid "This may leave files with invalid group ID in the filesystem."
+msgstr "Berkas dalam komputer akan memiliki kode kelompok yang salah."
+
+#: ../src/users/group-settings.c:144
+msgid "New group"
+msgstr "Kelompok Baru"
+
+#: ../src/users/group-settings.c:151
+#, c-format
+msgid "Group '%s' Properties"
+msgstr "Pengaturan kelompok '%s'"
+
+#: ../src/users/group-settings.c:217
+msgid "Group name is empty"
+msgstr "Nama kelompok masih kosong"
+
+#: ../src/users/group-settings.c:218
+msgid "A group name must be specified."
+msgstr "Nama kelompok harus dijelaskan."
+
+#: ../src/users/group-settings.c:220
+msgid "Group name of the administrator group user should not be modified"
+msgstr "Nama kelompok dari administrator tidak boleh diubah"
+
+#: ../src/users/group-settings.c:223
+msgid "Group name has invalid characters"
+msgstr "Ada karakter aneh dalam nama kelompok "
+
+#: ../src/users/group-settings.c:224
+msgid ""
+"Please set a valid group name consisting of a lower case letter followed by "
+"lower case letters and numbers."
+msgstr "Silakan isikan nama kelompok dengan huruf kecil saja dan diikuti dengan huruf kecil atau angka."
+
+#: ../src/users/group-settings.c:229
+#, c-format
+msgid "Group \"%s\" already exists"
+msgstr "Kelompok \"%s\" sudah ada"
+
+#: ../src/users/group-settings.c:230
+msgid "Please choose a different group name."
+msgstr "Silakan pilih nama grup yang berbeda"
+
+#: ../src/users/group-settings.c:257
+msgid "Group ID of the Administrator account should not be modified"
+msgstr "ID kelompok pemakai administrator tidak boleh dirubah"
+
+#. check that GID is free
+#: ../src/users/group-settings.c:261
+#, c-format
+msgid "Group ID %d is already used by group \"%s\""
+msgstr "ID Grup %d sudah digunakan oleh grup \"%s\""
+
+#: ../src/users/group-settings.c:264
+msgid "Please choose a different numeric identifier for the new group."
+msgstr "Silakan pilih identifair angka yang berbeda untuk grup yang baru."
+
+#: ../src/users/group-settings.c:266
+#, c-format
+msgid "Please choose a different numeric identifier for group \"%s\"."
+msgstr "Silakan pilih angka identifair yang lain untuk grup \"%s\""
+
+#: ../src/users/groups-table.c:44
+msgid "Group name"
+msgstr "Nama kelompok"
+
+#. TRANSLATORS:  This applies to a password. Keep the string short.
+#: ../src/users/main.c:74 ../src/users/user-settings.c:347
+msgid "Not asked on login"
+msgstr "Tidak ditanya ketika login"
+
+#: ../src/users/main.c:74 ../src/users/user-settings.c:349
+msgid "Asked on login"
+msgstr "Ditanya ketika login"
+
+#: ../src/users/privileges-table.c:53
+msgid "Monitor system logs"
+msgstr "Pantau catatan system"
+
+#: ../src/users/privileges-table.c:54
+msgid "Administer the system"
+msgstr "Administrasi sistem"
+
+#: ../src/users/privileges-table.c:55
+msgid "Use audio devices"
+msgstr "Pergunakan perangkat audio"
+
+#: ../src/users/privileges-table.c:56
+msgid "Use CD-ROM drives"
+msgstr "Pergunakan drive CD-ROM"
+
+#: ../src/users/privileges-table.c:57
+msgid "Burn CDs / DVDs"
+msgstr "Bakar CD / DVD"
+
+#: ../src/users/privileges-table.c:58
+msgid "Use modems"
+msgstr "Pergunakan modems"
+
+#: ../src/users/privileges-table.c:59
+msgid "Connect to Internet using a modem"
+msgstr "Sambung ke internet menggunakan modem"
+
+#: ../src/users/privileges-table.c:60
+msgid "Send and receive faxes"
+msgstr "Kirim dan terima fax"
+
+#: ../src/users/privileges-table.c:61
+msgid "Use floppy drives"
+msgstr "Pergunakan drive floppy"
+
+#: ../src/users/privileges-table.c:62
+msgid "Mount user-space filesystems (FUSE)"
+msgstr "Menempelkan sistem berkas dari user-space (FUSE)"
+
+#: ../src/users/privileges-table.c:63
+msgid "Configure printers"
+msgstr "Konfigurasikan pencetak"
+
+#: ../src/users/privileges-table.c:64
+msgid "Connect to wireless and ethernet networks"
+msgstr "Sambungkan ke jaringan nirkabel dan ethernet"
+
+#: ../src/users/privileges-table.c:65
+msgid "Access external storage devices automatically"
+msgstr "Akses perangkat penyimpanan luar secara otomatis"
+
+#: ../src/users/privileges-table.c:66
+msgid "Suspend and hibernate the computer"
+msgstr "Tunda dan Hibernasi komputer"
+
+#: ../src/users/privileges-table.c:67
+msgid "Access /proc filesystem"
+msgstr "Akses sistem berkas /proc"
+
+#: ../src/users/privileges-table.c:68
+msgid "Use scanners"
+msgstr "Pergunakan scanner"
+
+#: ../src/users/privileges-table.c:69
+msgid "Use tape drives"
+msgstr "Pergunakan perangkat tape"
+
+#: ../src/users/privileges-table.c:70
+msgid "Use USB devices"
+msgstr "Gunakan divais USB"
+
+#: ../src/users/privileges-table.c:71
+msgid "Use VirtualBox virtualization solution"
+msgstr "Gunakan solusi pemvirtualan VirtualBox"
+
+#: ../src/users/privileges-table.c:72
+msgid "Use video devices"
+msgstr "Gunakan divais video"
+
+#: ../src/users/privileges-table.c:73
+msgid "Be able to get administrator privileges"
+msgstr "Bisa mendapatkan hak administrator"
+
+#: ../src/users/user-profiles.conf.in.h:1
+msgid "Desktop user"
+msgstr "Pengguna Desktop"
+
+#: ../src/users/user-profiles.conf.in.h:2
+msgid ""
+"Can perform common tasks. Can't install software or change settings "
+"affecting all users."
+msgstr "Dapat melakukan tugas umum. Tidak dapat memasang perangkat lunak atau mengubah pengaturan yang berdampak pada semua pengguna."
+
+#: ../src/users/user-profiles.conf.in.h:3
+msgid "Administrator"
+msgstr "Administator"
+
+#: ../src/users/user-profiles.conf.in.h:4
+msgid ""
+"Can change anything on the system, including installing and upgrading "
+"software."
+msgstr "Dapat mengubah apapun padas sistem, termasuk memasang dan meningkatkan perangkat lunak."
+
+#: ../src/users/run-passwd.c:421
+msgid "Authentication failed"
+msgstr "Autentikasi gagal"
+
+#: ../src/users/run-passwd.c:498
+#, c-format
+msgid "The new password is too short"
+msgstr "Sandi yang baru terlalu singkat"
+
+#: ../src/users/run-passwd.c:504
+#, c-format
+msgid "The new password is too simple"
+msgstr "Sandi yang baru terlalu sederhana"
+
+#: ../src/users/run-passwd.c:510
+#, c-format
+msgid "The old and new passwords are too similar"
+msgstr "Sandi lama dan baru terlalu mirip"
+
+#: ../src/users/run-passwd.c:513
+#, c-format
+msgid "The new password must contain numeric or special characters"
+msgstr "Sandi yang baru harus mengandung angka dan karakter istimewa"
+
+#: ../src/users/run-passwd.c:517
+#, c-format
+msgid "The old and new passwords are the same"
+msgstr "Sandi lama dan baru sama."
+
+#: ../src/users/run-passwd.c:520
+#, c-format
+msgid "The new password has already been used recently."
+msgstr "Sandi baru telah pernah dipakai baru-baru ini."
+
+#: ../src/users/run-passwd.c:524
+#, c-format
+msgid "Your password has been changed since you initially authenticated!"
+msgstr "Sandi anda sudah diganti sejak anda pertama kali diotentikasi!"
+
+#: ../src/users/run-passwd.c:528
+#, c-format
+msgid "Unknown error"
+msgstr "Galat tak dikenal"
+
+#: ../src/users/mate-users.desktop.in.in.h:1
+msgid "Users and Groups"
+msgstr "Pemakai dan Kelompoknya"
+
+#: ../src/users/mate-users.desktop.in.in.h:2
+msgid "Add or remove users and groups"
+msgstr "Tambah atau hapus pemakai dan kelompoknya"
+
+#: ../src/users/user-password.c:97
+msgid "Password is too short"
+msgstr "Sandi terlalu singkat"
+
+#: ../src/users/user-password.c:98
+msgid ""
+"User passwords must be longer than 5 characters and preferably formed by "
+"numbers, letters and special characters."
+msgstr "Sandi pengguna harus lebih panjang dari 5 karakter dan sandi yang terdiri dari angka, huruf dan karakter spesial lebih disukai."
+
+#: ../src/users/user-password.c:101
+msgid "Password confirmation is not correct"
+msgstr "Sandi konfirmasi tidak sama"
+
+#: ../src/users/user-password.c:102
+msgid "Check that you have provided the same password in both text fields."
+msgstr "Periksa apakah sudah mengetikkan sandi yang sama pada kedua kotak isian."
+
+#: ../src/users/user-password.c:445
+msgid "Please choose another password."
+msgstr "Silakan pilih sandi yang lain"
+
+#: ../src/users/user-password.c:456
+msgid "Please type again your current password."
+msgstr "Silakan menulis ulang sandi anda saat ini."
+
+#: ../src/users/user-password.c:463
+msgid "Password could not be changed"
+msgstr "Sandi tidak dapat dirubah"
+
+#: ../src/users/user-settings.c:85
+msgid "Administrator account cannot be deleted"
+msgstr "Akun administrator tidak dapat dihapus"
+
+#: ../src/users/user-settings.c:96
+#, c-format
+msgid "%s is currently using this computer"
+msgstr "%s merupakan pengguna komputer saat ini"
+
+#: ../src/users/user-settings.c:99
+msgid "Please ensure the user has logged out before deleting this account."
+msgstr "Silakan pastikan pengguna sudah keluar sebelum menghapus akun ini."
+
+#: ../src/users/user-settings.c:109
+msgid "Can't delete the only administrator account"
+msgstr "Tidak dapat menghapus akun administrator saja."
+
+#: ../src/users/user-settings.c:111
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Deleting this account would "
+"lock you out of administrating the system."
+msgstr "%s merupakan satu-satunya administrator pada komputer ini. Menghapus akun ini dapat mengakibatkan anda tidak bisa mengadministrasi sistem."
+
+#: ../src/users/user-settings.c:121
+#, c-format
+msgid "Remove home folder for %s?"
+msgstr "Hapus folder home untuk %s?"
+
+#: ../src/users/user-settings.c:124
+#, c-format
+msgid ""
+"Files owned by user %s in <tt>%s</tt> can be completely removed if you don't"
+" need them anymore. You may want to back them up before deleting the "
+"account, or keep them so that an administrator can save them later."
+msgstr "Berkas yang dimiliki user %s pada <tt>%s</tt> dapat sepenuhnya dihapus bila anda tidak benar benar membutuhkannya. Anda mungkin ingin membackup sebelum menghapus akun ini, atau tetap menyimpannya sehingga administrator dapat menyimpannya kemudian."
+
+#: ../src/users/user-settings.c:132
+msgid "Keep Files"
+msgstr "Simpan Berkas"
+
+#: ../src/users/user-settings.c:133
+msgid "Don't Remove Account"
+msgstr "Jangan Hapus Akun"
+
+#: ../src/users/user-settings.c:134
+msgid "Delete Files"
+msgstr "Hapus Berkas"
+
+#: ../src/users/user-settings.c:330
+msgid "Superuser"
+msgstr "Superuser"
+
+#: ../src/users/user-settings.c:335
+msgid "Custom"
+msgstr "Ubahan"
+
+#. TRANSLATORS: This applies to a password.
+#: ../src/users/user-settings.c:344
+msgid "None"
+msgstr "Nihil"
+
+#: ../src/users/user-settings.c:393
+#, c-format
+msgid "Invalid character \"%c\" in comment"
+msgstr "Karakter \"%c\" aneh terdapat pada keterangan"
+
+#: ../src/users/user-settings.c:394
+msgid "Check that this character is not used."
+msgstr "Periksa apakah karakter ini tidak digunakan"
+
+#: ../src/users/user-settings.c:426
+msgid "Incomplete path in home directory"
+msgstr "Path direktori home tidak lengkap"
+
+#: ../src/users/user-settings.c:427
+msgid ""
+"Please enter full path for home directory\n"
+"<span size=\"smaller\">i.e.: /home/john</span>."
+msgstr "Silakan masukan lokasi penuh ke direktori home ⏎ <span size=\"smaller\">mis.: /home/john</span>."
+
+#: ../src/users/user-settings.c:447 ../src/users/user-settings.c:491
+msgid "New home directory already exists, use it?"
+msgstr "Direktori baru home sudah ada, gunakan ini?"
+
+#: ../src/users/user-settings.c:449
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or copy the contents of <tt>%s</tt> to the new home, overwriting it?\n"
+"\n"
+"In doubt, use the new directory to avoid losing data, and copy files from the old directory later."
+msgstr "Direktori home untuk %s sudah diatur untuk <tt>%s</tt>, yang sudah ada. Apakah anda ingin menggunakan berkas berkas yang ada pada direktori ini, atau menyalink isi dari <tt> %s </tt> ke home baru, atau menimpanya?⏎ ⏎ Jika anda ragu, gunakan direktori baru untuk menghindari kehilangan data, dan kemudian menyalin berkas dari direktori lama."
+
+#: ../src/users/user-settings.c:461
+msgid "_Replace With Old Files"
+msgstr "Ganti dengan Be_rkas Lama"
+
+#: ../src/users/user-settings.c:462 ../src/users/user-settings.c:504
+#: ../src/users/user-settings.c:540
+msgid "_Cancel Change"
+msgstr "Batalkan Perubahan"
+
+#. TRANSLATORS: This means "use the files from the new location",
+#. * as opposed to those from the old location.
+#: ../src/users/user-settings.c:465
+msgid "_Use New Files"
+msgstr "G_unakan Berkas Baru"
+
+#: ../src/users/user-settings.c:470 ../src/users/user-settings.c:510
+msgid "Make user the _owner of the new home directory"
+msgstr "Jadikan pengguna pemilik direktori  h_ome yang baru"
+
+#: ../src/users/user-settings.c:473 ../src/users/user-settings.c:547
+msgid "_Delete old home directory"
+msgstr "Hapus _Direktori home yang lama"
+
+#: ../src/users/user-settings.c:493
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or delete all its contents and use a completely empty home directory?\n"
+"\n"
+"In doubt, keep the files, and remove them later if needed."
+msgstr "Direktori home untuk %s sudah diatur untuk <tt> %s </tt>, yang dimana sudah ada. Apakah andan ingin menggunakan berkas dari direktori ini, atau menghapus isinya dan menggunakan direktori home yang benar-benar kosong? ⏎ ⏎ Jika ragu, simpan berkas, dan hapus kemudian jika diperlukan."
+
+#: ../src/users/user-settings.c:503
+msgid "_Delete Files"
+msgstr "Hapus Berkas"
+
+#: ../src/users/user-settings.c:505
+msgid "_Use Existing Files"
+msgstr "G_unakan berkas yang sudah ada"
+
+#: ../src/users/user-settings.c:526
+msgid "Copy old home directory to new location?"
+msgstr "Salin direktori home yang lama ke lokasi yang baru?"
+
+#: ../src/users/user-settings.c:528
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which doesn't exist. Do you want to copy the contents of the old home directory (<tt>%s</tt>), or use a completely empty home directory?\n"
+"\n"
+"If you choose to copy the files to the new location, it's safe to delete the old directory."
+msgstr "Direktori home untuk %s sudah diatur untuk <tt>%s</tt>, yang sudah ada. Apakah anda ingin menyalin isi dari direktori home yang lama (<tt>%s</tt>), atau menggunakan direktori home yang benar benar kosong?⏎ ⏎ Jika anda ingin menyalin berkas ke lokasi yang baru, menghapus direktori lama merupakan hal yang aman."
+
+#: ../src/users/user-settings.c:539
+msgid "_Use Empty Directory"
+msgstr "G_unakan Direktori Kosong"
+
+#. TRANSLATORS: This means "copy files from the old home directory".
+#: ../src/users/user-settings.c:542
+msgid "Co_py Old Files"
+msgstr "Salin Berkas Lama"
+
+#: ../src/users/user-settings.c:604
+msgid "ID for the root user should not be modified"
+msgstr "ID untuk user root tidak boleh dimodifikasi"
+
+#. check that UID is free
+#: ../src/users/user-settings.c:608
+#, c-format
+msgid "User ID %d is already used by user %s"
+msgstr "ID Pengguna %d sudah dipakai oleh pengguna %s"
+
+#: ../src/users/user-settings.c:610
+#, c-format
+msgid "Please choose a different numeric identifier for %s."
+msgstr "Silakan pilih angka identifair yang lain untuk %s."
+
+#: ../src/users/user-settings.c:628
+msgid "Incomplete path in shell"
+msgstr "Path shell tidak lengkap"
+
+#: ../src/users/user-settings.c:629
+msgid ""
+"Please enter full path for shell\n"
+"<span size=\"smaller\">i.e.: /bin/bash</span>."
+msgstr "Silakan masukkan lokasi penuh ke shell ⏎ <span size=\"smaller\">mis:/bin/bash</span>"
+
+#: ../src/users/user-settings.c:663
+msgid "Can't revoke administration rights"
+msgstr "Tidak dapat menghilangkan hak administrasi"
+
+#: ../src/users/user-settings.c:666
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Revoking administration "
+"rights for this account would lock you out of administrating the system."
+msgstr "%s merupakan administrator satu-satunya pada komputer ini. Menghilangkan hak administrator pada akun ini dapat mengakibatkan anda tidak dapat mengadministrasi sistem."
+
+#: ../src/users/user-settings.c:683
+msgid "You are about to revoke your own administration rights"
+msgstr "Anda akan menghapus hak administrasi anda sendiri"
+
+#: ../src/users/user-settings.c:686
+#, c-format
+msgid ""
+"%s will no longer be able to perform administrative tasks. This account "
+"won't be allowed to get administration rights back on its own."
+msgstr "%s tidak akan lagi dapat menjalankan tugas administratif. Akun ini tidak diperbolehkan untuk mendapatkan haknya kembali."
+
+#: ../src/users/user-settings.c:691
+msgid "Give up administration rights"
+msgstr "Serahkan hak administrasi"
+
+#: ../src/users/user-settings.c:1469
+msgid "Applying changes to user settings..."
+msgstr "Menerapkan perubahan pada pengaturan sistem......"
+
+#: ../src/users/users-tool.c:288
+msgid "Users Settings"
+msgstr "Pengaturan Pengguna"

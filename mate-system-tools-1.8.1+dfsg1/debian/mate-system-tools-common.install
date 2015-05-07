@@ -1,0 +1,6 @@
+etc/
+usr/share/glib-2.0/
+usr/share/icons/
+usr/share/locale/
+usr/share/mate-system-tools/
+debian/org.debian.pkexec.mate-system-tools.policy /usr/share/polkit-1/actions/

@@ -1,0 +1,15 @@
+mate-system-tools (1.8.1+dfsg1-2) unstable; urgency=medium
+
+  [ Logan Rosen ]
+  * debian/patches:
+    + Add 1004_include-cstdlib.patch. Fix implicit declaration and conversion
+      to pointer of bsearch. (Closes: 773338).
+
+ -- Mike Gabriel <sunweaver@debian.org>  Fri, 16 Jan 2015 11:38:58 +0100
+
+mate-system-tools (1.8.1+dfsg1-1) unstable; urgency=low
+
+  [ Stefano Karapetsas ]
+  * Initial release. (Closes: #734959).
+
+ -- Mike Gabriel <sunweaver@debian.org>  Sat, 25 Oct 2014 04:38:21 +0200

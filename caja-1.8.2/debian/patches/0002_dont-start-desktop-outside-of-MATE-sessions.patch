@@ -1,0 +1,22 @@
+From 23b75dadd35f039a8cd93111528a8a66dde8888e Mon Sep 17 00:00:00 2001
+From: Stefano Karapetsas <stefano@karapetsas.com>
+Date: Wed, 21 Jan 2015 14:53:39 +0100
+Subject: [PATCH] Disable desktop if we arent inside MATE
+
+---
+ src/caja-main.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+--- a/src/caja-main.c
++++ b/src/caja-main.c
+@@ -467,6 +467,10 @@
+         no_default_window = TRUE;
+         no_desktop = FALSE;
+     }
++    else if (g_strcmp0 (g_getenv ("XDG_CURRENT_DESKTOP"), "MATE") != 0)
++    {
++        no_desktop = TRUE;
++    }
+ 
+     if (perform_self_check && remaining != NULL)
+     {

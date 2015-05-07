@@ -1,0 +1,14 @@
+prefix=@prefix@
+exec_prefix=
+libdir=
+includedir=
+
+pixmapsdir=/usr/share/mate-system-tools/pixmaps
+backenddir=/usr/share/system-tools-backends-2.0/scripts
+
+Name: gst
+Description: Mate System Tools
+Version: @VERSION@
+Requires:
+Libs:
+Cflags:

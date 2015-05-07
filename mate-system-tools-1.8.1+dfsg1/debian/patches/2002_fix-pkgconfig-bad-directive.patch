@@ -1,0 +1,16 @@
+Description: Use hard-coded paths (instead of invalid @pixmapsdir@, @scriptsdir@)
+Author: Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
+
+--- a/mate-system-tools.pc.in
++++ b/mate-system-tools.pc.in
+@@ -3,8 +3,8 @@
+ libdir=
+ includedir=
+ 
+-pixmapsdir=@pixmapsdir@
+-backenddir=@scriptsdir@
++pixmapsdir=/usr/share/mate-system-tools/pixmaps
++backenddir=/usr/share/system-tools-backends-2.0/scripts
+ 
+ Name: gst
+ Description: Mate System Tools

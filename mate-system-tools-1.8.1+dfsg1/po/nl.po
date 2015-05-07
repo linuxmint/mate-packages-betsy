@@ -1,0 +1,2119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Michael Steenbeek <m.o.steenbeek@gmail.com>, 2012.
+# Ronald Bultje <rbultje@ronald.bitfreak.net>, 2002.
+# Tino Meinen <a.t.meinen@chello.nl>, 2003, 2004, 2005, 2006, 2008.
+# Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>, 2003.
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-03-15 09:46+0100\n"
+"PO-Revision-Date: 2012-06-24 08:22+0000\n"
+"Last-Translator: Michael Steenbeek <m.o.steenbeek@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/MATE/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../interfaces/network.ui.h:1
+msgid "Off"
+msgstr "Uit"
+
+#: ../interfaces/network.ui.h:2
+msgid "Low"
+msgstr "Laag"
+
+#: ../interfaces/network.ui.h:3
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: ../interfaces/network.ui.h:4
+msgid "Loud"
+msgstr "Hard"
+
+#: ../interfaces/network.ui.h:5
+msgid "Tones"
+msgstr "Tonen"
+
+#: ../interfaces/network.ui.h:6
+msgid "Pulses"
+msgstr "Pulsen"
+
+#: ../interfaces/network.ui.h:7
+msgid "Plain (ASCII)"
+msgstr "Standaard (ASCII)"
+
+#: ../interfaces/network.ui.h:8
+msgid "Hexadecimal"
+msgstr "Hexadecimaal"
+
+#: ../interfaces/network.ui.h:9
+msgid "Location:"
+msgstr "Locatie:"
+
+#: ../interfaces/network.ui.h:10
+msgid "Save current network configuration as a location"
+msgstr "Huidige netwerkconfiguratie opslaan als een locatie"
+
+#: ../interfaces/network.ui.h:11
+msgid "Delete current location"
+msgstr "Huidige locatie verwijderen"
+
+#: ../interfaces/network.ui.h:12
+msgid "Connections"
+msgstr "Verbindingen"
+
+#: ../interfaces/network.ui.h:13
+msgid "_Host name:"
+msgstr "_Hostnaam:"
+
+#: ../interfaces/network.ui.h:14
+msgid "D_omain name:"
+msgstr "_Domeinnaam:"
+
+#: ../interfaces/network.ui.h:15
+msgid "Host Settings"
+msgstr "Host-instellingen"
+
+#: ../interfaces/network.ui.h:16 ../interfaces/users.ui.h:30
+msgid "General"
+msgstr "Algemeen"
+
+#: ../interfaces/network.ui.h:17
+msgid "DNS Servers"
+msgstr "DNS-servers"
+
+#: ../interfaces/network.ui.h:18
+msgid "Search Domains"
+msgstr "Zoekdomeinen"
+
+#: ../interfaces/network.ui.h:19
+msgid "DNS"
+msgstr "DNS"
+
+#: ../interfaces/network.ui.h:20
+msgid "Hosts"
+msgstr "Hosts"
+
+#: ../interfaces/network.ui.h:21
+msgid "Interface properties"
+msgstr "Interface-eigenschappen"
+
+#: ../interfaces/network.ui.h:22
+msgid "E_nable this connection"
+msgstr "Deze verbinding _activeren"
+
+#: ../interfaces/network.ui.h:23
+msgid "E_nable roaming mode"
+msgstr "_Roaming modus aanzetten"
+
+#: ../interfaces/network.ui.h:24
+msgid "Connection type:"
+msgstr "Verbindingstype:"
+
+#: ../interfaces/network.ui.h:25
+msgid "Network name (_ESSID):"
+msgstr "Netwerknaam (_ESSID):"
+
+#: ../interfaces/network.ui.h:26
+msgid "Network _password:"
+msgstr "Netwerk _wachtwoord:"
+
+#: ../interfaces/network.ui.h:27
+msgid "Password _type:"
+msgstr "Wachtwoord_type:"
+
+#: ../interfaces/network.ui.h:28
+msgid "Wireless Settings"
+msgstr "Draadloze instellingen"
+
+#: ../interfaces/network.ui.h:29
+msgid "Con_figuration:"
+msgstr "_Configuratie:"
+
+#: ../interfaces/network.ui.h:30
+msgid "_IP address:"
+msgstr "_IP-adres:"
+
+#: ../interfaces/network.ui.h:31
+msgid "_Subnet mask:"
+msgstr "_Subnetmasker:"
+
+#: ../interfaces/network.ui.h:32
+msgid "_Gateway address:"
+msgstr "_Gateway-adres:"
+
+#: ../interfaces/network.ui.h:33
+msgid "Connection Settings"
+msgstr "Verbindingsinstellingen"
+
+#: ../interfaces/network.ui.h:34
+msgid "_Local IP:"
+msgstr "_Lokale IP:"
+
+#: ../interfaces/network.ui.h:35
+msgid "_Remote IP:"
+msgstr "IP aan ande_re kant:"
+
+#: ../interfaces/network.ui.h:36
+msgid "_Phone number:"
+msgstr "_Telefoonnummer:"
+
+#: ../interfaces/network.ui.h:37
+msgid "_Dial prefix:"
+msgstr "_Uitbelcijfer:"
+
+#: ../interfaces/network.ui.h:38 ../src/network/ifaces-list.c:326
+msgid "Access point name:"
+msgstr "Accesspoint-naam:"
+
+#: ../interfaces/network.ui.h:39
+msgid "Internet service provider data"
+msgstr "Internetprovider-gegevens"
+
+#: ../interfaces/network.ui.h:40 ../interfaces/users.ui.h:56
+msgid "_Username:"
+msgstr "_Gebruikersnaam:"
+
+#: ../interfaces/network.ui.h:41
+msgid "P_assword"
+msgstr "_Wachtwoord"
+
+#: ../interfaces/network.ui.h:42
+msgid "Account data"
+msgstr "Accountgegevens"
+
+#: ../interfaces/network.ui.h:43
+msgid "_Modem port:"
+msgstr "_Modempoort:"
+
+#: ../interfaces/network.ui.h:44
+msgid "_Dial type:"
+msgstr "_Inbeltype:"
+
+#. TRANSLATORS: Volume as in loudness
+#: ../interfaces/network.ui.h:46
+msgid "_Volume:"
+msgstr "_Geluidsniveau:"
+
+#: ../interfaces/network.ui.h:47
+msgid "_Autodetect"
+msgstr "_Automatisch detecteren"
+
+#: ../interfaces/network.ui.h:48 ../src/network/ifaces-list.c:335
+msgid "Ethernet interface:"
+msgstr "Ethernetverbinding"
+
+#: ../interfaces/network.ui.h:49
+msgid "Modem Settings"
+msgstr "Modeminstellingen"
+
+#: ../interfaces/network.ui.h:50
+msgid "Modem"
+msgstr "Modem"
+
+#: ../interfaces/network.ui.h:51
+msgid "_Set modem as default route to internet"
+msgstr "_Modem instellen als standaardroute naar het internet"
+
+#: ../interfaces/network.ui.h:52
+msgid "Use the Internet service provider nameservers"
+msgstr "De nameservers van de internetprovider gebruiken"
+
+#: ../interfaces/network.ui.h:53
+msgid "_Retry if the connection breaks or fails to start"
+msgstr "P_robeer opnieuw als de verbinding wegvalt of niet goed start"
+
+#: ../interfaces/network.ui.h:54
+msgid "Options"
+msgstr "Opties"
+
+#: ../interfaces/network.ui.h:55
+msgid "Host Alias Properties"
+msgstr "Host-alias instellingen"
+
+#: ../interfaces/network.ui.h:56 ../interfaces/shares.ui.h:13
+msgid "IP address:"
+msgstr "IP-adres:"
+
+#: ../interfaces/network.ui.h:57
+msgid "Aliases:"
+msgstr "Aliassen:"
+
+#: ../interfaces/services.ui.h:1
+msgid "Select the services that you wish to activate:"
+msgstr "Selecteer de systeemdiensten die u wilt activeren:"
+
+#: ../interfaces/services.ui.h:2
+msgid "Advanced settings:"
+msgstr "Geavanceerde instellingen:"
+
+#: ../interfaces/shares.ui.h:1
+msgid "_Path:"
+msgstr "_Pad:"
+
+#: ../interfaces/shares.ui.h:2
+msgid "Share through:"
+msgstr "Delen via:"
+
+#: ../interfaces/shares.ui.h:3
+msgid "Shared Folder"
+msgstr "Gedeelde map"
+
+#: ../interfaces/shares.ui.h:4
+msgid "Comment:"
+msgstr "Opmerking:"
+
+#: ../interfaces/shares.ui.h:5
+msgid "Name:"
+msgstr "Naam:"
+
+#: ../interfaces/shares.ui.h:6
+msgid "_Read only"
+msgstr "Alleen _lezen"
+
+#: ../interfaces/shares.ui.h:7
+msgid "Share Properties"
+msgstr "Delen-eigenschappen"
+
+#: ../interfaces/shares.ui.h:8
+msgid "Allowed Hosts"
+msgstr "Toegestane hosts"
+
+#: ../interfaces/shares.ui.h:9
+msgid "Share"
+msgstr "Delen"
+
+#: ../interfaces/shares.ui.h:10
+msgid "Add allowed hosts"
+msgstr "Toegestane hosts toevoegen"
+
+#: ../interfaces/shares.ui.h:11
+msgid "Allowed hosts:"
+msgstr "Toegestane hosts:"
+
+#: ../interfaces/shares.ui.h:12
+msgid "Host name:"
+msgstr "Hostnaam:"
+
+#: ../interfaces/shares.ui.h:14
+msgid "Network:"
+msgstr "Netwerk:"
+
+#: ../interfaces/shares.ui.h:15
+msgid "Netmask:"
+msgstr "Netmasker:"
+
+#: ../interfaces/shares.ui.h:16 ../src/shares/nfs-acl-table.c:56
+msgid "Read only"
+msgstr "Alleen lezen"
+
+#: ../interfaces/shares.ui.h:17
+msgid "Hosts Settings"
+msgstr "Hosts-instellingen"
+
+#: ../interfaces/shares.ui.h:18 ../src/shares/mate-shares.desktop.in.in.h:1
+#: ../src/shares/shares-tool.c:237
+msgid "Shared Folders"
+msgstr "Gedeelde mappen"
+
+#: ../interfaces/shares.ui.h:19
+msgid "Domain / _Workgroup:"
+msgstr "Domein / _Werkgroep:"
+
+#: ../interfaces/shares.ui.h:20
+msgid "This computer is a _WINS server"
+msgstr "Deze computer is een _WINS-server"
+
+#: ../interfaces/shares.ui.h:21
+msgid "WINS _server:"
+msgstr "WINS-_server:"
+
+#: ../interfaces/shares.ui.h:22
+msgid "Windows sharing"
+msgstr "Windows delen"
+
+#: ../interfaces/shares.ui.h:23
+msgid "General Properties"
+msgstr "Algemene eigenschappen"
+
+#: ../interfaces/shares.ui.h:24
+msgid "Users"
+msgstr "Gebruikers"
+
+#: ../interfaces/shares.ui.h:25
+msgid "Enter password for user"
+msgstr "Geef wachtwoord voor gebruiker"
+
+#: ../interfaces/shares.ui.h:26
+msgid "Enter password for user:"
+msgstr "Wachtwoord"
+
+#: ../interfaces/time.ui.h:1
+msgid "Time zone"
+msgstr "Tijdzone"
+
+#: ../interfaces/time.ui.h:2
+msgid "Time Zone"
+msgstr "Tijdzone"
+
+#: ../interfaces/time.ui.h:3
+msgid "Time zone:"
+msgstr "Tijdzone:"
+
+#: ../interfaces/time.ui.h:4
+msgid "Selection"
+msgstr "Selectie"
+
+#: ../interfaces/time.ui.h:5
+msgid "Time servers"
+msgstr "Tijd-servers"
+
+#: ../interfaces/time.ui.h:6
+msgid "NTP server"
+msgstr "NTP-server"
+
+#: ../interfaces/time.ui.h:7
+msgid "Add NTP Server"
+msgstr "NTP-server toevoegen"
+
+#: ../interfaces/time.ui.h:8
+msgid "Unconfigured"
+msgstr "(niet ingesteld)"
+
+#: ../interfaces/time.ui.h:9
+msgid "_Configuration:"
+msgstr "_Configuratie:"
+
+#: ../interfaces/time.ui.h:10
+msgid "Time servers:"
+msgstr "Tijd-servers"
+
+#: ../interfaces/time.ui.h:11
+msgid "Se_lect Servers"
+msgstr "S_ervers selecteren"
+
+#: ../interfaces/time.ui.h:12
+msgid "_Time:"
+msgstr "_Tijd:"
+
+#: ../interfaces/time.ui.h:13
+msgid "_Date:"
+msgstr "_Datum:"
+
+#: ../interfaces/time.ui.h:14
+msgid "Synchronize now"
+msgstr "Nu synchronizeren"
+
+#: ../interfaces/users.ui.h:1
+msgid "_Manage Groups"
+msgstr "_Groepen beheren"
+
+#: ../interfaces/users.ui.h:2
+msgid "Account _type:"
+msgstr "Account_type:"
+
+#: ../interfaces/users.ui.h:3
+msgid "_Change..."
+msgstr "Wijzigen..."
+
+#: ../interfaces/users.ui.h:4
+msgid "_Password:"
+msgstr "_Wachtwoord:"
+
+#: ../interfaces/users.ui.h:5
+msgid "_Advanced Settings"
+msgstr "Ge_avanceerde instellingen"
+
+#: ../interfaces/users.ui.h:6
+msgid "This account is disabled."
+msgstr "Deze account is uitgeschakeld."
+
+#: ../interfaces/users.ui.h:7
+msgid "_Enable Account"
+msgstr "Account inschak_elen"
+
+#: ../interfaces/users.ui.h:8
+msgid "Group properties"
+msgstr "Groepseigenschappen"
+
+#: ../interfaces/users.ui.h:9
+msgid "Basic Settings"
+msgstr "Basisinstellingen"
+
+#: ../interfaces/users.ui.h:10
+msgid "Group _name:"
+msgstr "_Groepsnaam:"
+
+#: ../interfaces/users.ui.h:11
+msgid "Group _ID:"
+msgstr "Groeps-_ID:"
+
+#: ../interfaces/users.ui.h:12
+msgid "Group Members"
+msgstr "Groepsleden"
+
+#: ../interfaces/users.ui.h:13
+msgid "Profile Settings"
+msgstr "Profielinstellingen"
+
+#: ../interfaces/users.ui.h:14
+msgid "Profile _name:"
+msgstr "Profiel_naam:"
+
+#: ../interfaces/users.ui.h:15
+msgid "_Comments"
+msgstr "_Commentaar"
+
+#: ../interfaces/users.ui.h:16
+msgid "System Defaults"
+msgstr "Systeemstandaarden"
+
+#: ../interfaces/users.ui.h:17
+msgid "_Home directory:"
+msgstr "_Persoonlijke map:"
+
+#: ../interfaces/users.ui.h:18
+msgid "Default _shell:"
+msgstr "Standaard-_shell:"
+
+#: ../interfaces/users.ui.h:19
+msgid "Default _group:"
+msgstr "Standaard_groep:"
+
+#: ../interfaces/users.ui.h:20
+msgid "Password Settings"
+msgstr "Wachtwoordinstellingen"
+
+#: ../interfaces/users.ui.h:21
+msgid "Number of days that a password may be used:"
+msgstr "Aantal dagen dat een wachtwoord gebruikt mag worden"
+
+#: ../interfaces/users.ui.h:22
+msgid "Minimum days allowed between password changes:"
+msgstr "Minimum aantal dagen tussen wachtwoordwijzigingen:"
+
+#: ../interfaces/users.ui.h:23
+msgid "Days between warning and password expiration:"
+msgstr "Dagen tussen waarschuwing en verval van het wachtwoord:"
+
+#: ../interfaces/users.ui.h:24
+msgid "Assign a random password by default"
+msgstr "Standaard een willekeurig wachtwoord toekennen"
+
+#: ../interfaces/users.ui.h:25
+msgid "Automatic UID/GID"
+msgstr "Automatische UID/GID"
+
+#: ../interfaces/users.ui.h:26
+msgid "Maximum UID:"
+msgstr "Maximale UID:"
+
+#: ../interfaces/users.ui.h:27
+msgid "Maximum GID:"
+msgstr "Maximale GID:"
+
+#: ../interfaces/users.ui.h:28
+msgid "Minimum UID:"
+msgstr "Minimale UID:"
+
+#: ../interfaces/users.ui.h:29
+msgid "Minimum GID:"
+msgstr "Minimale GID:"
+
+#: ../interfaces/users.ui.h:31
+msgid "Privileges"
+msgstr "Rechten"
+
+#: ../interfaces/users.ui.h:32
+msgid "User profiles"
+msgstr "Gebruikersprofielen"
+
+#: ../interfaces/users.ui.h:33
+msgid "_Add Profile"
+msgstr "Profiel _toevoegen"
+
+#: ../interfaces/users.ui.h:34
+msgid "Groups settings"
+msgstr "Groepen instellingen"
+
+#: ../interfaces/users.ui.h:35
+msgid "Groups available on the system:"
+msgstr "Beschikbare groepen op dit systeem:"
+
+#: ../interfaces/users.ui.h:36
+msgid "Change User Name"
+msgstr "Gebruikersnaam veranderen"
+
+#: ../interfaces/users.ui.h:37
+msgid "Full _Name:"
+msgstr "Volledige _naam:"
+
+#: ../interfaces/users.ui.h:38
+msgid "Changing user name for:"
+msgstr "Gebruikersnaam veranderen voor:"
+
+#: ../interfaces/users.ui.h:39
+msgid "Change User Password"
+msgstr "Wachtwoord gebruiker veranderen"
+
+#: ../interfaces/users.ui.h:40
+msgid "Con_firmation:"
+msgstr "_Bevestiging:"
+
+#: ../interfaces/users.ui.h:41
+msgid "Password set to: "
+msgstr "Wachtwoord verandert in:"
+
+#: ../interfaces/users.ui.h:42
+msgid "_Generate"
+msgstr "_Genereren"
+
+#: ../interfaces/users.ui.h:43
+msgid "Set password b_y hand"
+msgstr "Wachtwoord handmatig ins_tellen"
+
+#: ../interfaces/users.ui.h:44
+msgid "New _password:"
+msgstr "Nieuw wachtwoord:"
+
+#: ../interfaces/users.ui.h:45
+msgid "Generate _random password"
+msgstr "_Willekeurig wachtwoord aanmaken"
+
+#: ../interfaces/users.ui.h:46
+msgid "Changing user password for:"
+msgstr "Gebruikerswachtwoord veranderen voor:"
+
+#: ../interfaces/users.ui.h:47
+msgid "Don't ask for password on _login"
+msgstr "Bij aanme_lden niet om wachtwoord vragen"
+
+#: ../interfaces/users.ui.h:48
+msgid "_Current password:"
+msgstr "Huidig wachtwoord:"
+
+#: ../interfaces/users.ui.h:49
+msgid "Change User Account Type"
+msgstr "Accounttype gebruiker veranderen"
+
+#: ../interfaces/users.ui.h:50
+msgid "Changing user account type for:"
+msgstr "Accounttype veranderen voor:"
+
+#: ../interfaces/users.ui.h:51
+msgid "_Custom"
+msgstr "Aangepast"
+
+#: ../interfaces/users.ui.h:52
+msgid ""
+"This account is using special settings that have been defined manually. Use "
+"the <i>Advanced Settings</i> dialog to tune them."
+msgstr "Deze account gebruikt speciale instellingen die handmatig gedefinieerd zijn. Gebruik het venster <i>Geavanceerde instellingen</i> om deze in te stellen."
+
+#: ../interfaces/users.ui.h:53
+msgid "Create New User"
+msgstr "Nieuwe gebruiker maken"
+
+#: ../interfaces/users.ui.h:54
+msgid "_Name:"
+msgstr "_Naam:"
+
+#: ../interfaces/users.ui.h:55
+msgid "Create a new user"
+msgstr "Een nieuwe gebruiker aanmaken"
+
+#. No item should exceed a length of 40 characters, to avoid wrapping on two
+#. lines. Better simplifying than making it hard to read!
+#: ../interfaces/users.ui.h:58
+msgid ""
+"Username must consist of:\n"
+"  ➣ lower case letters from the English alphabet\n"
+"  ➣ digits\n"
+"  ➣ any of the characters \".\", \"-\" and \"_\""
+msgstr "Gebruikersnaam mag bestaan uit:\n  ➣ kleine letters uit het Nederlandse alfabet\n  ➣ cijfers\n  ➣ de tekens \".\", \"-\" en \"_\""
+
+#: ../interfaces/users.ui.h:62
+msgid ""
+"A user with this name already exists. Please choose a different name for the"
+" new user."
+msgstr "Er bestaat al een gebruiker met deze naam. Kies een andere naam voor de nieuwe gebruiker."
+
+#: ../interfaces/users.ui.h:63
+msgid "Username must start with a letter!"
+msgstr "Gebruikersnaam moet met een letter beginnen."
+
+#: ../interfaces/users.ui.h:64
+msgid "_Encrypt home folder to protect sensitive data"
+msgstr "Gebruikersmap versl_eutelen om gevoelige gegevens te beveiligen"
+
+#: ../interfaces/users.ui.h:65
+msgid ""
+"Encrypt all your files with your login password to strongly protect them "
+"from people with physical access to your computer, at the expense of a "
+"slightly reduced performance."
+msgstr "Versleutel al uw bestanden met uw inlogwachtwoord om ze goed te beveiligen tegen personen met fysieke toegang tot uw computer. Dit gaat enigszins ten koste van de prestaties."
+
+#: ../interfaces/users.ui.h:66
+msgid "Change Advanced User Settings"
+msgstr "Geavanceerde gebruikersinstellingen wijzigen"
+
+#: ../interfaces/users.ui.h:67
+msgid "Changing advanced settings for:"
+msgstr "Geavanceerde instellingen wijzigen voor:"
+
+#: ../interfaces/users.ui.h:68
+msgid "O_ffice location:"
+msgstr "_Kantoorlocatie:"
+
+#: ../interfaces/users.ui.h:69
+msgid "_Work phone:"
+msgstr "_Werktelefoon:"
+
+#: ../interfaces/users.ui.h:70
+msgid "_Home phone:"
+msgstr "_Huistelefoon:"
+
+#: ../interfaces/users.ui.h:71
+msgid "Contact Information"
+msgstr "Contactinformatie"
+
+#: ../interfaces/users.ui.h:72
+msgid "User Privileges"
+msgstr "Gebruikersrechten"
+
+#: ../interfaces/users.ui.h:73
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: ../interfaces/users.ui.h:74
+msgid "_Shell:"
+msgstr "_Shell:"
+
+#: ../interfaces/users.ui.h:75
+msgid "_Main group:"
+msgstr "Hoofd_groep:"
+
+#: ../interfaces/users.ui.h:76
+msgid "User ID:"
+msgstr "Gebruikers-ID:"
+
+#: ../interfaces/users.ui.h:77
+msgid "You can't change user ID while the user is logged in."
+msgstr "U kunt de gebruikers-ID niet wijzigen wanneer de gebruiker is ingelogd."
+
+#: ../interfaces/users.ui.h:78
+msgid "Disable _account"
+msgstr "_Account uitschakelen"
+
+#: ../interfaces/users.ui.h:79
+msgid "Optional Settings"
+msgstr "Optionele instellingen"
+
+#: ../interfaces/users.ui.h:80
+msgid "Mi_nimum days between password changes:"
+msgstr "Mi_nimum aantal dagen tussen wachtwoordwijzigingen:"
+
+#: ../interfaces/users.ui.h:81
+msgid "Ma_ximum days a password may be used:"
+msgstr "Ma_ximum aantal dagen dat een wachtwoord gebruikt mag worden:"
+
+#: ../interfaces/users.ui.h:82
+msgid "_Days between warning and password expiration:"
+msgstr "_Dagen tussen waarschuwing en verval van het wachtwoord:"
+
+#: ../interfaces/users.ui.h:83
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:1
+msgid "Show system users"
+msgstr "Systeemgebruikers tonen"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:2
+msgid ""
+"Whether the users-admin tool should show system users in the users list."
+msgstr "Of het hulpmiddel users-admin systeemgebruikers moet tonen in de gebruikerslijst."
+
+#: ../org.mate.system-tools.gschema.xml.in.h:3
+msgid "Show root user"
+msgstr "Rootgebruiker tonen"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:4
+msgid ""
+"Whether the users-admin tool should show the root user in the users list."
+msgstr "Of het hulpmiddel users-admin root moet tonen in de gebruikerslijst."
+
+#: ../src/common/gst-platform-dialog.c:179
+msgid "The platform you are running is not supported by this tool"
+msgstr "Het door u gebruikte platform wordt niet ondersteund door dit programma"
+
+#. label
+#: ../src/common/gst-platform-dialog.c:185
+msgid ""
+"If you know for sure that it works like one of the platforms listed below, "
+"you can select that and continue. Note, however, that this might damage the "
+"system configuration or downright cripple your computer."
+msgstr "Als u zeker weet dat het net zo werkt als een van de ondergenoemden, selecteer deze om door te gaan. Dit zou echter de systeem configuratie kunnen beschadigen of de computer kapot maken."
+
+#: ../src/common/gst-platform-dialog.c:212
+msgid "Unsupported platform"
+msgstr "Platform wordt niet ondersteund"
+
+#: ../src/common/gst-tool.c:188
+msgid "The configuration could not be loaded"
+msgstr "De configuratie kon niet worden geladen"
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:190
+msgid "The configuration could not be saved"
+msgstr "De configuratie kon niet worden opgeslagen"
+
+#: ../src/common/gst-tool.c:194
+msgid "You are not allowed to access the system configuration."
+msgstr "U heeft geen toegang tot de systeemconfiguratie."
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:196 ../src/common/gst-tool.c:685
+msgid "You are not allowed to modify the system configuration."
+msgstr "U heeft geen toestemming de systeemconfiguratie te wijzigen."
+
+#: ../src/common/gst-tool.c:199
+msgid "Invalid data was found."
+msgstr "Ongeldige gegevens gevonden"
+
+#. OOBS_RESULT_ERROR
+#: ../src/common/gst-tool.c:201
+msgid "An unknown error occurred."
+msgstr "Er is een onbekende fout opgetreden"
+
+#: ../src/common/gst-tool.c:422
+msgid "Could not display help"
+msgstr "Kan hulp niet weergeven"
+
+#: ../src/common/gst-tool.c:616
+msgid "The system configuration has potentially changed."
+msgstr "De systeemconfiguratie is mogelijk gewijzigd."
+
+#: ../src/common/gst-tool.c:618
+msgid "Update content? This will lose any modification in course."
+msgstr "Inhoud bijwerken? De bestaande wijzigingen zullen verloren gaan."
+
+#: ../src/common/gst-tool.c:687
+#, c-format
+msgid ""
+"An error occurred while checking for authorizations: %s\n"
+"You may report this as a bug."
+msgstr "Er is een fout opgetreden tijdens het controleren op authorisatie: %s\nU kunt dit als bug rapporteren"
+
+#: ../src/network/address-list.c:76 ../src/network/hosts.c:31
+#: ../src/shares/table.c:38 ../src/users/table.c:40
+msgid "_Add"
+msgstr "_Toevoegen"
+
+#: ../src/network/address-list.c:77 ../src/network/hosts.c:33
+#: ../src/shares/table.c:40 ../src/users/table.c:42
+msgid "_Delete"
+msgstr "_Verwijderen"
+
+#: ../src/network/address-list.c:485
+msgid "Type address"
+msgstr "Soort adres"
+
+#: ../src/network/callbacks.c:237 ../src/network/callbacks.c:487
+msgid "Changing interface configuration"
+msgstr "Wijzigen van de interfaceconfiguratie"
+
+#: ../src/network/callbacks.c:299
+msgid "Could not autodetect modem device"
+msgstr "Kon modem niet automatisch detecteren"
+
+#: ../src/network/callbacks.c:302
+msgid ""
+"Check that the device is not busy and that is correctly attached to the "
+"computer."
+msgstr "Controleer of het apparaat niet bezet is en dat het op de juiste wijze aangesloten is."
+
+#: ../src/network/callbacks.c:523
+msgid "The host name has changed"
+msgstr "De hostnaam is gewijzigd"
+
+#: ../src/network/callbacks.c:526
+msgid ""
+"This will prevent you from launching new applications, and so you will have "
+"to log in again. Continue anyway?"
+msgstr "Hierdoor zult u geen nieuwe programma's kunnen starten en zult u zich dus opnieuw moeten aanmelden. Toch doorgaan?"
+
+#: ../src/network/callbacks.c:532
+msgid "Change _Host name"
+msgstr "_Hostnaam wijzigen"
+
+#: ../src/network/connection.c:40
+msgid "Automatic configuration (DHCP)"
+msgstr "Automatisch configuratie (DHCP)"
+
+#: ../src/network/connection.c:41
+msgid "Local Zeroconf network (IPv4 LL)"
+msgstr "Lokaal zeroconf netwerk (IPv4 LL)"
+
+#: ../src/network/connection.c:42
+msgid "Static IP address"
+msgstr "Statisch IP-adres"
+
+#: ../src/network/connection.c:46
+msgid "WEP key (ascii)"
+msgstr "WEP-sleutel (ascii)"
+
+#: ../src/network/connection.c:47
+msgid "WEP key (hexadecimal)"
+msgstr "WEP-sleutel (hexadecimaal)"
+
+#: ../src/network/connection.c:48
+msgid "WPA Personal"
+msgstr "WPA-persoonlijk"
+
+#: ../src/network/connection.c:49
+msgid "WPA2 Personal"
+msgstr "WPA2-persoonlijk"
+
+#: ../src/network/connection.c:53
+msgid "GPRS/UMTS"
+msgstr "GPRS/UMTS"
+
+#: ../src/network/connection.c:54
+msgid "ISDN modem"
+msgstr "ISDN-modem"
+
+#: ../src/network/connection.c:55
+msgid "Serial modem"
+msgstr "Serieel modem"
+
+#: ../src/network/connection.c:56
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../src/network/connection.c:769
+#, c-format
+msgid "%s Properties"
+msgstr "%s eigenschappen"
+
+#: ../src/network/hosts.c:32 ../src/network/ifaces-list.c:33
+#: ../src/shares/table.c:39 ../src/users/table.c:41
+msgid "_Properties"
+msgstr "_Eigenschappen"
+
+#: ../src/network/hosts.c:89
+msgid "IP Address"
+msgstr "IP-adres"
+
+#: ../src/network/hosts.c:97
+msgid "Aliases"
+msgstr "Aliassen"
+
+#: ../src/network/ifaces-list.c:280
+msgid "This network interface is not configured"
+msgstr "Deze netwerkinterface is niet geconfigureerd"
+
+#: ../src/network/ifaces-list.c:282
+msgid "Roaming mode enabled"
+msgstr "Roaming mode aangezet"
+
+#: ../src/network/ifaces-list.c:289
+#, c-format
+msgid "<b>Essid:</b> %s "
+msgstr "<b>ESSID:</b> %s"
+
+#: ../src/network/ifaces-list.c:296 ../src/network/ifaces-list.c:301
+#: ../src/network/ifaces-list.c:306
+msgid "Address:"
+msgstr "Adres:"
+
+#: ../src/network/ifaces-list.c:298
+msgid "Subnet mask:"
+msgstr "Subnetmasker:"
+
+#: ../src/network/ifaces-list.c:308
+msgid "Remote address:"
+msgstr "Adres op afstand:"
+
+#: ../src/network/ifaces-list.c:320 ../src/network/ifaces-list.c:325
+#: ../src/network/ifaces-list.c:334 ../src/network/ifaces-list.c:339
+msgid "Type:"
+msgstr "Type:"
+
+#: ../src/network/ifaces-list.c:321
+msgid "Phone number:"
+msgstr "Telefoonnummer:"
+
+#: ../src/network/ifaces-list.c:356
+msgid "Wireless connection"
+msgstr "Draadloze verbinding"
+
+#: ../src/network/ifaces-list.c:358
+msgid "Infrared connection"
+msgstr "Infraroodverbinding"
+
+#: ../src/network/ifaces-list.c:360
+msgid "Wired connection"
+msgstr "Draadverbinding"
+
+#: ../src/network/ifaces-list.c:362
+msgid "Parallel port connection"
+msgstr "Paralelle poort-verbinding"
+
+#: ../src/network/ifaces-list.c:364
+msgid "Point to point connection"
+msgstr "Point-to-point verbinding"
+
+#: ../src/network/locations-combo.c:221
+msgid "Changing network location"
+msgstr "Netwerklocatie wijzigen"
+
+#: ../src/network/locations-combo.c:265
+msgid "There is already a location with the same name"
+msgstr "Er is al een locatie met die naam"
+
+#: ../src/network/locations-combo.c:267
+msgid "Overwrite it?"
+msgstr "Overschrijven?"
+
+#: ../src/network/locations-combo.c:355
+msgid "Save location"
+msgstr "Locatie opslaan"
+
+#: ../src/network/locations-combo.c:370
+msgid "_Location name:"
+msgstr "_Locatienaam:"
+
+#: ../src/network/locations-combo.c:422
+#, c-format
+msgid "Do you want to delete location \"%s\"?"
+msgstr "Wilt u de locatie ‘%s’ verwijderen?"
+
+#: ../src/network/main.c:135
+msgid "The interface does not exist"
+msgstr "De interface bestaat niet"
+
+#: ../src/network/main.c:137
+msgid ""
+"Check that it is correctly typed and that it is correctly supported by your "
+"system."
+msgstr "Controleer of het goed is gespeld en of het systeem het op de juiste wijze ondersteunt."
+
+#: ../src/network/main.c:183
+msgid "Configure a network interface"
+msgstr "Een netwerkinterface instellen"
+
+#: ../src/network/main.c:183
+msgid "INTERFACE"
+msgstr "INTERFACE"
+
+#: ../src/network/main.c:184
+msgid "Configure the first network interface with a specific type"
+msgstr "Het eerste netwerkinterface configureren met een specifiek type"
+
+#: ../src/network/main.c:184
+msgid "TYPE"
+msgstr "TYPE"
+
+#: ../src/network/mate-network.desktop.in.in.h:1
+msgid "Network"
+msgstr "Netwerk"
+
+#: ../src/network/mate-network.desktop.in.in.h:2
+msgid "Configure network devices and connections"
+msgstr "Netwerkapparaten en -verbindingen instellen"
+
+#: ../src/network/network-tool.c:280
+msgid "Network Settings"
+msgstr "Netwerkinstellingen"
+
+#: ../src/services/callbacks.c:65
+#, c-format
+msgid "Settings for service \"%s\""
+msgstr "Instellingen voor systeemdienst ‘%s’"
+
+#: ../src/services/callbacks.c:122
+#, c-format
+msgid "Are you sure you want to deactivate %s?"
+msgstr "Weet u zeker dat u %s wilt deactiveren?"
+
+#: ../src/services/callbacks.c:126
+msgid ""
+"This may affect your system behavior in several ways, possibly leading to "
+"data loss."
+msgstr "Dit kan op meerdere manieren van invloed zijn op het gedrag van uw computer, mogelijk leidend tot dataverlies"
+
+#: ../src/services/service.c:32
+msgid "Web server"
+msgstr "Web-server"
+
+#: ../src/services/service.c:32
+msgid "Shares your web pages over the Internet"
+msgstr "Maakt uw eigen webpagina's toegangkelijk via het internet"
+
+#. GST_ROLE_WEB_SERVER
+#: ../src/services/service.c:33
+msgid "Actions scheduler"
+msgstr "Acties inplannen"
+
+#: ../src/services/service.c:33
+msgid "Executes scheduled actions"
+msgstr "Voert ingeplande acties uit"
+
+#. GST_ROLE_COMMAND_SCHEDULER
+#: ../src/services/service.c:34
+msgid "Printer service"
+msgstr "Printer"
+
+#: ../src/services/service.c:34
+msgid "Allows applications to use printers"
+msgstr "Hierdoor kunnen toepassingen gebruik maken van een printer"
+
+#. GST_ROLE_PRINTER_SERVICE
+#: ../src/services/service.c:35
+msgid "Mail agent"
+msgstr "Mail-agent"
+
+#: ../src/services/service.c:35
+msgid "Delivers your outgoing mail"
+msgstr "Verstuurt uw e-mail"
+
+#. GST_ROLE_MTA
+#: ../src/services/service.c:36
+msgid "MTA authentication service"
+msgstr "MTA-aanmeldingscontrole"
+
+#. GST_ROLE_MTA_AUTH
+#: ../src/services/service.c:37
+msgid "Mail fetcher"
+msgstr "E-mail ophaalprogramma"
+
+#: ../src/services/service.c:37
+msgid "Downloads your mail from remote accounts"
+msgstr "Downloadt uw e-mail van externe accounts"
+
+#. GST_ROLE_MAIL_FETCHER
+#: ../src/services/service.c:38
+msgid "Graphical login manager"
+msgstr "Grafische aanmelding"
+
+#: ../src/services/service.c:38
+msgid "Allows users to login graphically"
+msgstr "Geeft gebruikers de mogelijkheid grafisch aan te melden"
+
+#. GST_ROLE_DISPLAY_MANAGER
+#: ../src/services/service.c:39
+msgid "Database server"
+msgstr "Databaseserver"
+
+#: ../src/services/service.c:39
+msgid "Data storage system"
+msgstr "Dataopslagsysteem"
+
+#. GST_ROLE_DATABASE_SERVER
+#. GST_ROLE_FILE_SERVER_SMB
+#. GST_ROLE_FILE_SERVER_FTP
+#: ../src/services/service.c:40 ../src/services/service.c:41
+#: ../src/services/service.c:43
+msgid "Folder sharing service"
+msgstr "Mappen delen"
+
+#: ../src/services/service.c:40 ../src/services/service.c:41
+msgid "Shares folders over your network"
+msgstr "Deelt mappen via uw netwerk"
+
+#. GST_ROLE_FILE_SERVER_NFS
+#: ../src/services/service.c:42
+msgid "FTP service"
+msgstr "FTP"
+
+#: ../src/services/service.c:42 ../src/services/service.c:43
+msgid "Shares folders over the Internet"
+msgstr "Deelt bestanden via het internet"
+
+#. GST_ROLE_FILE_SERVER_TFTP
+#: ../src/services/service.c:44
+msgid "Clock synchronization service"
+msgstr "Tijdsynchronisatie"
+
+#: ../src/services/service.c:44
+msgid "Synchronizes your computer clock with Internet time servers"
+msgstr "Houdt de klok op uw computer synchroon met tijservers op het internet"
+
+#. GST_ROLE_NTP_SERVER
+#: ../src/services/service.c:46
+msgid "Antivirus"
+msgstr "Antivirus"
+
+#: ../src/services/service.c:46
+msgid "Analyzes your incoming mail for virus"
+msgstr "Analyseert uw binnenkomende e-mail op virussen"
+
+#. GST_ROLE_ANTIVIRUS
+#: ../src/services/service.c:47
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../src/services/service.c:47
+msgid "Blocks undesired network access to your computer"
+msgstr "Blokkeert ongewenst netwerkverkeer naar uw computer"
+
+#. GST_ROLE_FIREWALL_MANAGEMENT
+#: ../src/services/service.c:49
+msgid "Dictionary server"
+msgstr "Woordenboekserver"
+
+#. GST_ROLE_DICTIONARY_SERVER
+#: ../src/services/service.c:50
+msgid "Speech synthesis support"
+msgstr "Spraaksysthese-ondersteuning"
+
+#. GST_ROLE_SPEECH_SYNTHESIS
+#: ../src/services/service.c:51
+msgid "Computer activity logger"
+msgstr "Computeractiviteit loggen"
+
+#: ../src/services/service.c:51
+msgid "Keeps a log of your computer activity"
+msgstr "Hiermee wordt een logboek van de computeractiviteit bijgehouden"
+
+#. GST_ROLE_SYSTEM_LOGGER
+#: ../src/services/service.c:52
+msgid "Remote backup server"
+msgstr "Externe reservekopie-server"
+
+#. GST_ROLE_REMOTE_BACKUP
+#: ../src/services/service.c:53
+msgid "Spam filter"
+msgstr "Spamfilter"
+
+#. GST_ROLE_SPAM_FILTER
+#: ../src/services/service.c:54
+msgid "Remote shell server"
+msgstr "Externe shell"
+
+#: ../src/services/service.c:54
+msgid "Secure shell server"
+msgstr "Beveiligde shell (ssh)"
+
+#. GST_ROLE_SECURE_SHELL_SERVER
+#: ../src/services/service.c:55
+msgid "Application server"
+msgstr "Programmaserver"
+
+#. GST_ROLE_APPLICATION_SERVER
+#: ../src/services/service.c:56
+msgid "Automated crash reports support"
+msgstr "Geautomatiseerd melding maken bij vastlopers"
+
+#. GST_ROLE_AUTOMATED_CRASH_REPORTS_MANAGEMENT
+#: ../src/services/service.c:57
+msgid "System communication bus"
+msgstr "Systeembus voor communicatie"
+
+#. GST_ROLE_DBUS,
+#: ../src/services/service.c:58
+msgid "System configuration manager"
+msgstr "Systeemconfiguratiebeheer"
+
+#. GST_ROLE_SYSTEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:59
+msgid "School management platform"
+msgstr "Schoolbeheerplatform"
+
+#. GST_ROLE_SCHOOL_MANAGEMENT_PLATFORM
+#: ../src/services/service.c:60
+msgid "Network security auditor"
+msgstr "Netwerkbeveiligingscontrole"
+
+#. GST_ROLE_SECURITY_AUDITING
+#: ../src/services/service.c:61
+msgid "Web calendar server"
+msgstr "Web-agendaserver"
+
+#. GST_ROLE_WEB_CALENDAR_SERVER
+#: ../src/services/service.c:62
+msgid "OEM configuration manager"
+msgstr "OEM configuratiebeheer"
+
+#. GST_ROLE_OEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:63
+msgid "Terminal multiplexor"
+msgstr "Terminal multiplexer"
+
+#. GST_ROLE_TERMINAL_MULTIPLEXOR
+#: ../src/services/service.c:64
+msgid "Disk quota activation"
+msgstr "Quota op schijfruimte activeren"
+
+#. GST_ROLE_QUOTA_MANAGEMENT
+#: ../src/services/service.c:65
+msgid "Package index monitor"
+msgstr "Pakketindex-monitor"
+
+#. GST_ROLE_PACKAGE_INDEX_MONITORING
+#: ../src/services/service.c:66
+msgid "Network service"
+msgstr "Netwerk"
+
+#. GST_ROLE_NETWORK
+#: ../src/services/service.c:67
+msgid "Dynamic DNS services updater"
+msgstr "Dynamische DNS-updater"
+
+#. GST_ROLE_DYNAMIC_DNS_SERVICE
+#: ../src/services/service.c:68
+msgid "DHCP server"
+msgstr "DHCP-server"
+
+#. GST_ROLE_DHCP_SERVER
+#: ../src/services/service.c:69
+msgid "Domain name server"
+msgstr "Domeinnaamserver"
+
+#. GST_ROLE_DNS
+#: ../src/services/service.c:70
+msgid "Proxy cache service"
+msgstr "Proxy cache"
+
+#. GST_ROLE_PROXY_CACHE
+#: ../src/services/service.c:71
+msgid "LDAP server"
+msgstr "LDAP-server"
+
+#. GST_ROLE_LDAP_SERVER
+#: ../src/services/service.c:72
+msgid "Mailing lists manager"
+msgstr "Mailinglijstbeheer"
+
+#. GST_ROLE_MAILING_LISTS_MANAGER
+#: ../src/services/service.c:73
+msgid "Multicast DNS service discovery"
+msgstr "Multicast DNS-service opsporen"
+
+#. GST_ROLE_RENDEZVOUS
+#: ../src/services/service.c:74
+msgid "Account information resolver"
+msgstr "Accountinformatie onderzoeker"
+
+#. GST_ROLE_NSS
+#: ../src/services/service.c:75
+msgid "Virtual Private Network server"
+msgstr "Virtual Private Network-server"
+
+#. GST_ROLE_VPN_SERVER
+#: ../src/services/service.c:76
+msgid "Router advertisement server"
+msgstr "Router-aankondigingsserver"
+
+#. GST_ROLE_ROUTER_ADVERTISEMENT_SERVER
+#: ../src/services/service.c:77
+msgid "IPSec key exchange server"
+msgstr "IPSec-sleuteluitwisselingsserver"
+
+#. GST_ROLE_IPSEC_KEY_EXCHANGE_SERVER
+#: ../src/services/service.c:78
+msgid "Disk server"
+msgstr "Schijf-server"
+
+#. GST_ROLE_DISK_SERVER
+#: ../src/services/service.c:79
+msgid "Disk client"
+msgstr "Schijf-cliënt"
+
+#. GST_ROLE_DISK_CLIENT
+#: ../src/services/service.c:80
+msgid "Route server"
+msgstr "Route-server"
+
+#. GST_ROLE_ROUTE_SERVER
+#: ../src/services/service.c:81
+msgid "RPC mapper"
+msgstr "RPC-mapper"
+
+#. GST_ROLE_RPC_MAPPER
+#: ../src/services/service.c:82
+msgid "SNMP server"
+msgstr "SNMP-server"
+
+#. GST_ROLE_SNMP_SERVER
+#: ../src/services/service.c:83
+msgid "Terminal server client"
+msgstr "Terminal server-cliënt"
+
+#. GST_ROLE_LTSP_CLIENT
+#: ../src/services/service.c:84
+msgid "Audio settings management"
+msgstr "Audio-instellingenbeheer"
+
+#. GST_ROLE_AUDIO_MANAGEMENT
+#: ../src/services/service.c:85
+msgid "Volumes mounter"
+msgstr "Volumen aankoppelen"
+
+#: ../src/services/service.c:85
+msgid "Mounts your volumes automatically"
+msgstr "Koppelt uw volumen automatisch aan"
+
+#. GST_ROLE_AUTOMOUNTER
+#: ../src/services/service.c:86
+msgid "Infrared port management"
+msgstr "Infrarood-verbindingenbeheer"
+
+#. GST_ROLE_INFRARED_MANAGEMENT
+#: ../src/services/service.c:87
+msgid "Braille display management"
+msgstr "Braille-apparatenbeheer"
+
+#. GST_ROLE_BRAILLE_DISPLAY_MANAGEMENT
+#: ../src/services/service.c:88
+msgid "Bluetooth device management"
+msgstr "Bluetooth-apparatenbeheer"
+
+#. GST_ROLE_BLUETOOTH_MANAGEMENT
+#: ../src/services/service.c:89
+msgid "Hard disk tuning"
+msgstr "Harde schijfprestaties optimaliseren"
+
+#. GST_ROLE_HDD_MANAGEMENT
+#: ../src/services/service.c:90
+msgid "Hotkeys management"
+msgstr "Sneltoetsenbeheer"
+
+#. GST_ROLE_HOTKEYS_MANAGEMENT
+#: ../src/services/service.c:91
+msgid "Power management"
+msgstr "Energiebeheer"
+
+#. GST_ROLE_POWER_MANAGEMENT
+#: ../src/services/service.c:92
+msgid "Logical volume management"
+msgstr "Logisch volumenbeheer"
+
+#. GST_ROLE_LVM_MANAGEMENT
+#: ../src/services/service.c:93
+msgid "Cluster management tool"
+msgstr "Clusterbeheer"
+
+#. GST_ROLE_CLUSTER_MANAGEMENT
+#: ../src/services/service.c:94
+msgid "Fax settings management"
+msgstr "Fax-instellingenbeheer"
+
+#. GST_ROLE_FAX_MANAGEMENT
+#: ../src/services/service.c:95
+msgid "RAID disks management"
+msgstr "RAID-beheer"
+
+#. GST_ROLE_RAID_MANAGEMENT
+#: ../src/services/service.c:96
+msgid "Graphic tablets management"
+msgstr "Grafische tableaus-beheer"
+
+#. GST_ROLE_GRAPHIC_TABLETS_MANAGEMENT
+#: ../src/services/service.c:97
+msgid "CPU Frequency manager"
+msgstr "CPU-frequentiebeheer"
+
+#. GST_ROLE_CPUFREQ_MANAGEMENT
+#: ../src/services/service.c:98
+msgid "Eagle USB ADSL modems manager"
+msgstr "Eagle USB-ADSL-modemsbeheer"
+
+#. GST_ROLE_EAGLE_USB_MODEMS_MANAGEMENT
+#: ../src/services/service.c:99
+msgid "Serial port settings management"
+msgstr "Seriële poortinstellingen"
+
+#. GST_ROLE_SERIAL_PORTS_MANAGEMENT
+#: ../src/services/service.c:100
+msgid "ISDN modems manager"
+msgstr "ISDN-modemsbeheer"
+
+#. GST_ROLE_ISDN_MANAGEMENT
+#: ../src/services/service.c:101
+msgid "Telstra Bigpond Cable Network client"
+msgstr "Telstra Bigpond Cable Network-cliënt"
+
+#. GST_ROLE_TELSTRA_BIGPOND_NETWORK_CLIENT
+#: ../src/services/service.c:102
+msgid "Hardware monitor"
+msgstr "Hardwaremonitor"
+
+#. GST_ROLE_HARDWARE_MONITORING
+#: ../src/services/service.c:103
+msgid "System monitor"
+msgstr "Systeemmonitor"
+
+#. GST_ROLE_SYSTEM_MONITORING
+#: ../src/services/service.c:104
+msgid "Virtual Machine management"
+msgstr "Beheer van virtuele machine"
+
+#: ../src/services/mate-services.desktop.in.in.h:1
+msgid "Services"
+msgstr "Systeemdiensten"
+
+#: ../src/services/mate-services.desktop.in.in.h:2
+msgid "Configure which services will be run when the system starts"
+msgstr "Configureren welke systeemdiensten bij het starten van de computer geactiveerd worden"
+
+#: ../src/services/service-settings-table.c:73
+#: ../src/services/service-settings-table.c:97
+#: ../src/services/service-settings-table.c:109
+msgid "Start"
+msgstr "Starten"
+
+#: ../src/services/service-settings-table.c:79
+#: ../src/services/service-settings-table.c:99
+#: ../src/services/service-settings-table.c:111
+msgid "Stop"
+msgstr "Stoppen"
+
+#: ../src/services/service-settings-table.c:85
+#: ../src/services/service-settings-table.c:102
+msgid "Ignore"
+msgstr "Negeren"
+
+#: ../src/services/service-settings-table.c:175
+msgid "Runlevel"
+msgstr "Runlevel"
+
+#: ../src/services/service-settings-table.c:192
+msgid "Status"
+msgstr "Status"
+
+#: ../src/services/service-settings-table.c:211
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: ../src/services/services-tool.c:106
+msgid "Services Settings"
+msgstr "Systeemdiensten instellingen"
+
+#: ../src/shares/callbacks.c:196
+msgid "Are you sure you want to delete this share?"
+msgstr "Weet u zeker dat u het delen hiervan wilt uitschakelen?"
+
+#: ../src/shares/callbacks.c:198
+msgid "Other computers in your network will stop viewing this."
+msgstr "Andere computers in uw netwerk zullen dit niet meer zien."
+
+#: ../src/shares/main.c:103
+msgid "Add a shared path, modifies it if it already exists"
+msgstr "Een gedeeld pad toevoegen, wijzigt het indien het al bestaat"
+
+#: ../src/shares/main.c:103
+msgid "PATH"
+msgstr "PAD"
+
+#: ../src/shares/caja/caja-shares.c:151
+msgid "_Share Folder..."
+msgstr "_Map delen..."
+
+#: ../src/shares/caja/caja-shares.c:152
+msgid "Share this folder with other computers"
+msgstr "Deze map delen met andere computers"
+
+#: ../src/shares/nfs-acl-table.c:50
+msgid "Allowed host/network"
+msgstr "Toegestane host/netwerk"
+
+#: ../src/shares/share-nfs-add-hosts.c:117
+msgid "Specify hostname"
+msgstr "Hostnaam opgeven"
+
+#: ../src/shares/share-nfs-add-hosts.c:124
+msgid "Specify IP address"
+msgstr "IP-adres opgeven"
+
+#: ../src/shares/share-nfs-add-hosts.c:131
+msgid "Specify network"
+msgstr "Netwerk opgeven"
+
+#: ../src/shares/mate-shares.desktop.in.in.h:2
+msgid "Configure which folders are available for your network neighborhood"
+msgstr "Instellen welke mappen beschikbaar zijn in uw netwerkomgeving"
+
+#: ../src/shares/share-settings.c:61
+msgid "File System"
+msgstr "Bestandssysteem"
+
+#: ../src/shares/share-settings.c:144
+msgid "Do not share"
+msgstr "Niet delen"
+
+#: ../src/shares/share-settings.c:152
+msgid "Windows networks (SMB)"
+msgstr "Windows netwerk (SMB)"
+
+#: ../src/shares/share-settings.c:160
+msgid "Unix networks (NFS)"
+msgstr "Unix netwerk (NFS)"
+
+#: ../src/shares/share-settings.c:462
+#, c-format
+msgid "Settings for folder '%s'"
+msgstr "Instellingen voor map '%s'"
+
+#: ../src/shares/share-settings.c:469
+msgid "Share Folder"
+msgstr "Map delen"
+
+#: ../src/shares/shares-tool.c:152
+msgid "Sharing services are not installed"
+msgstr "Systeemdiensten voor het delen van mappen zijn niet geïnstalleerd"
+
+#: ../src/shares/shares-tool.c:154
+msgid ""
+"You need to install at least either Samba or NFS in order to share your "
+"folders."
+msgstr "U moet in ieder geval Samba of NFS installeren om mappen te kunnen delen."
+
+#: ../src/time/e-map/e-map.c:620
+msgid "World Map"
+msgstr "Wereldkaart"
+
+#: ../src/time/e-map/e-map.c:622
+msgid ""
+"Mouse-based interactive map widget for selecting timezone. Keyboard users "
+"should instead select the timezone from the drop-down combination box below."
+msgstr "Muisgebaseerde interactieve kaartwidget om tijdzones te selecteren. Toetsenbordgebruikers moeten een tijdzone selecteren uit de uitklapbare keuzelijst eronder."
+
+#: ../src/time/mate-time.desktop.in.in.h:1
+msgid "Time and Date"
+msgstr "Datum en tijd"
+
+#: ../src/time/mate-time.desktop.in.in.h:2
+msgid "Change system time, date, and timezone"
+msgstr "Datum, tijd en tijdzone aanpassen"
+
+#: ../src/time/time-tool.c:398
+msgid "NTP support is not installed"
+msgstr "Er is geen ondersteuning voor NTP geïnstalleerd"
+
+#: ../src/time/time-tool.c:400
+msgid ""
+"Please install and activate NTP support in the system to enable "
+"synchronization of your local time server with internet time servers."
+msgstr "Installeer en activeer NTP-ondersteuning op uw systeem, om uw tijdserver met een tijdserver van het internet te kunnen synchroniseren."
+
+#: ../src/time/time-tool.c:429
+msgid "Enabling NTP"
+msgstr "NTP aanzetten"
+
+#: ../src/time/time-tool.c:429
+msgid "Disabling NTP"
+msgstr "NTP uitzetten"
+
+#: ../src/time/time-tool.c:441
+msgid "Synchronizing system clock"
+msgstr "Gelijkzetten van de systeemklok"
+
+#: ../src/time/time-tool.c:521
+msgid "Keep synchronized with Internet servers"
+msgstr "Klok synchroon houden met internetservers"
+
+#: ../src/time/time-tool.c:522
+msgid "Manual"
+msgstr "Handmatig"
+
+#: ../src/time/time-tool.c:665
+msgid "Time and Date Settings"
+msgstr "Tijd en datum-instellingen"
+
+#: ../src/users/group-settings.c:55
+msgid "Administrator group can not be deleted"
+msgstr "De systeembeheerdersgroep kan niet verwijderd worden"
+
+#: ../src/users/group-settings.c:58 ../src/users/group-settings.c:221
+#: ../src/users/group-settings.c:258 ../src/users/user-settings.c:88
+#: ../src/users/user-settings.c:605
+msgid "This would leave the system unusable."
+msgstr "Dit zou het systeem onbruikbaar maken."
+
+#: ../src/users/group-settings.c:71
+#, c-format
+msgid "Are you sure you want to delete group \"%s\"?"
+msgstr "Weet u zeker dat u de groep ‘%s’ wilt verwijderen?"
+
+#: ../src/users/group-settings.c:74
+msgid "This may leave files with invalid group ID in the filesystem."
+msgstr "Dit laat mogelijk bestanden met een ongeldige groeps-ID achter in het bestandssysteem."
+
+#: ../src/users/group-settings.c:144
+msgid "New group"
+msgstr "Nieuwe groep"
+
+#: ../src/users/group-settings.c:151
+#, c-format
+msgid "Group '%s' Properties"
+msgstr "Eigenschappen groep ‘%s’"
+
+#: ../src/users/group-settings.c:217
+msgid "Group name is empty"
+msgstr "Er is geen naam voor de groep ingevuld"
+
+#: ../src/users/group-settings.c:218
+msgid "A group name must be specified."
+msgstr "Er moet een groepsnaam gegeven worden."
+
+#: ../src/users/group-settings.c:220
+msgid "Group name of the administrator group user should not be modified"
+msgstr "Groepsnaam van de systeembeheerdergroep mag niet gewijzigd worden"
+
+#: ../src/users/group-settings.c:223
+msgid "Group name has invalid characters"
+msgstr "Groepsnaam bevat ongeldige tekens"
+
+#: ../src/users/group-settings.c:224
+msgid ""
+"Please set a valid group name consisting of a lower case letter followed by "
+"lower case letters and numbers."
+msgstr "Een geldige groepsnaam heeft alleen kleine letters en cijfers. Het eerste teken moet een letter zijn."
+
+#: ../src/users/group-settings.c:229
+#, c-format
+msgid "Group \"%s\" already exists"
+msgstr "Groep ‘%s’ bestaat al"
+
+#: ../src/users/group-settings.c:230
+msgid "Please choose a different group name."
+msgstr "Kies een andere groepsnaam."
+
+#: ../src/users/group-settings.c:257
+msgid "Group ID of the Administrator account should not be modified"
+msgstr "Groeps-ID van het account van de systeembeheerder mag niet gewijzigd worden"
+
+#. check that GID is free
+#: ../src/users/group-settings.c:261
+#, c-format
+msgid "Group ID %d is already used by group \"%s\""
+msgstr "Groeps-ID %d wordt al gebruikt door groep '%s'"
+
+#: ../src/users/group-settings.c:264
+msgid "Please choose a different numeric identifier for the new group."
+msgstr "Kies een ander nummer voor de nieuwe groep."
+
+#: ../src/users/group-settings.c:266
+#, c-format
+msgid "Please choose a different numeric identifier for group \"%s\"."
+msgstr "Kies een ander nummer voor groep '%s'."
+
+#: ../src/users/groups-table.c:44
+msgid "Group name"
+msgstr "Groepsnaam"
+
+#. TRANSLATORS:  This applies to a password. Keep the string short.
+#: ../src/users/main.c:74 ../src/users/user-settings.c:347
+msgid "Not asked on login"
+msgstr "Wordt niet gevraagd bij aanmelden"
+
+#: ../src/users/main.c:74 ../src/users/user-settings.c:349
+msgid "Asked on login"
+msgstr "Wordt gevraagd bij aanmelden"
+
+#: ../src/users/privileges-table.c:53
+msgid "Monitor system logs"
+msgstr "Mag systeemlogboeken inkijken"
+
+#: ../src/users/privileges-table.c:54
+msgid "Administer the system"
+msgstr "Mag het systeem beheren"
+
+#: ../src/users/privileges-table.c:55
+msgid "Use audio devices"
+msgstr "Mag gebruik maken van audioapparatuur"
+
+#: ../src/users/privileges-table.c:56
+msgid "Use CD-ROM drives"
+msgstr "Mag gebruik maken van cd-rom stations"
+
+#: ../src/users/privileges-table.c:57
+msgid "Burn CDs / DVDs"
+msgstr "CD's / DVD's branden"
+
+#: ../src/users/privileges-table.c:58
+msgid "Use modems"
+msgstr "Mag gebruik maken van modems"
+
+#: ../src/users/privileges-table.c:59
+msgid "Connect to Internet using a modem"
+msgstr "Mag via het modem het internet op"
+
+#: ../src/users/privileges-table.c:60
+msgid "Send and receive faxes"
+msgstr "Mag faxen verzenden en ontvangen"
+
+#: ../src/users/privileges-table.c:61
+msgid "Use floppy drives"
+msgstr "Mag gebruik maken van diskettestations"
+
+#: ../src/users/privileges-table.c:62
+msgid "Mount user-space filesystems (FUSE)"
+msgstr "Bestandssystemen op gebruikersniveau (FUSE) aankoppelen"
+
+#: ../src/users/privileges-table.c:63
+msgid "Configure printers"
+msgstr "Printers instellen"
+
+#: ../src/users/privileges-table.c:64
+msgid "Connect to wireless and ethernet networks"
+msgstr "Verbinding maken met bedrade en draadloze netwerken"
+
+#: ../src/users/privileges-table.c:65
+msgid "Access external storage devices automatically"
+msgstr "Mag automatisch gebruik maken van externe opslagapparaten"
+
+#: ../src/users/privileges-table.c:66
+msgid "Suspend and hibernate the computer"
+msgstr "De computer in de pauzestand en slaapstand zetten"
+
+#: ../src/users/privileges-table.c:67
+msgid "Access /proc filesystem"
+msgstr "Toegang krijgen tot /proc"
+
+#: ../src/users/privileges-table.c:68
+msgid "Use scanners"
+msgstr "Mag gebruik maken van scanners"
+
+#: ../src/users/privileges-table.c:69
+msgid "Use tape drives"
+msgstr "Mag gebruik maken van tape-drives"
+
+#: ../src/users/privileges-table.c:70
+msgid "Use USB devices"
+msgstr "USB-apparaten gebruiken"
+
+#: ../src/users/privileges-table.c:71
+msgid "Use VirtualBox virtualization solution"
+msgstr "VirtualBox-virtualisatie gebruiken"
+
+#: ../src/users/privileges-table.c:72
+msgid "Use video devices"
+msgstr "Videoapparaten gebruiken"
+
+#: ../src/users/privileges-table.c:73
+msgid "Be able to get administrator privileges"
+msgstr "Mag systeembeheerdersrechten verkrijgen"
+
+#: ../src/users/user-profiles.conf.in.h:1
+msgid "Desktop user"
+msgstr "Desktopgebruiker"
+
+#: ../src/users/user-profiles.conf.in.h:2
+msgid ""
+"Can perform common tasks. Can't install software or change settings "
+"affecting all users."
+msgstr "Kan algemene taken uitvoeren. Kan geen software installeren of instellingen veranderen die invloed hebben op alle gebruikers."
+
+#: ../src/users/user-profiles.conf.in.h:3
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: ../src/users/user-profiles.conf.in.h:4
+msgid ""
+"Can change anything on the system, including installing and upgrading "
+"software."
+msgstr "Kan alles op het systeem veranderen, en software installeren en opwaarderen."
+
+#: ../src/users/run-passwd.c:421
+msgid "Authentication failed"
+msgstr "Authenticatie mislukt"
+
+#: ../src/users/run-passwd.c:498
+#, c-format
+msgid "The new password is too short"
+msgstr "Het nieuwe wachtwoord is te kort"
+
+#: ../src/users/run-passwd.c:504
+#, c-format
+msgid "The new password is too simple"
+msgstr "Het nieuwe wachtwoord is te eenvoudig"
+
+#: ../src/users/run-passwd.c:510
+#, c-format
+msgid "The old and new passwords are too similar"
+msgstr "Het oude en nieuwe wachtwoord lijken teveel op elkaar"
+
+#: ../src/users/run-passwd.c:513
+#, c-format
+msgid "The new password must contain numeric or special characters"
+msgstr "Het nieuwe wachtwoord moet cijfers of speciale tekens bevatten"
+
+#: ../src/users/run-passwd.c:517
+#, c-format
+msgid "The old and new passwords are the same"
+msgstr "Het oude en nieuwe wachtwoord zijn hetzelfde"
+
+#: ../src/users/run-passwd.c:520
+#, c-format
+msgid "The new password has already been used recently."
+msgstr "Het nieuwe wachtwoord is recentelijk al eens gebruikt"
+
+#: ../src/users/run-passwd.c:524
+#, c-format
+msgid "Your password has been changed since you initially authenticated!"
+msgstr "Uw wachtwoord is veranderd sinds u hebt geauthenticeerd."
+
+#: ../src/users/run-passwd.c:528
+#, c-format
+msgid "Unknown error"
+msgstr "Onbekende fout"
+
+#: ../src/users/mate-users.desktop.in.in.h:1
+msgid "Users and Groups"
+msgstr "Gebruikers en groepen"
+
+#: ../src/users/mate-users.desktop.in.in.h:2
+msgid "Add or remove users and groups"
+msgstr "Gebruikers en groepen toevoegen of verwijderen"
+
+#: ../src/users/user-password.c:97
+msgid "Password is too short"
+msgstr "Het wachtwoord is te kort"
+
+#: ../src/users/user-password.c:98
+msgid ""
+"User passwords must be longer than 5 characters and preferably formed by "
+"numbers, letters and special characters."
+msgstr "Gebruikerswachtwoord moeten langer zijn dan 5 tekens en bij voorkeur uit cijfers, letters en speciale tekens bestaan"
+
+#: ../src/users/user-password.c:101
+msgid "Password confirmation is not correct"
+msgstr "Wachtwoordbevestiging is niet juist"
+
+#: ../src/users/user-password.c:102
+msgid "Check that you have provided the same password in both text fields."
+msgstr "Controleer of u in beide tekstvelden hetzelfde wachtwoord heeft gegeven."
+
+#: ../src/users/user-password.c:445
+msgid "Please choose another password."
+msgstr "Kies een ander wachtwoord"
+
+#: ../src/users/user-password.c:456
+msgid "Please type again your current password."
+msgstr "Typ uw huidige wachtwoord opnieuw in."
+
+#: ../src/users/user-password.c:463
+msgid "Password could not be changed"
+msgstr "Kon het wachtwoord niet veranderen"
+
+#: ../src/users/user-settings.c:85
+msgid "Administrator account cannot be deleted"
+msgstr "Het account van de systeembeheerder kan niet verwijderd worden"
+
+#: ../src/users/user-settings.c:96
+#, c-format
+msgid "%s is currently using this computer"
+msgstr "%s gebruikt momenteel deze computer"
+
+#: ../src/users/user-settings.c:99
+msgid "Please ensure the user has logged out before deleting this account."
+msgstr "Verzeker uzelf ervan dat de gebruiker is uitgelogd voordat u deze account verwijdert."
+
+#: ../src/users/user-settings.c:109
+msgid "Can't delete the only administrator account"
+msgstr "Kan de enige beheerdersaccount niet verwijderen"
+
+#: ../src/users/user-settings.c:111
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Deleting this account would "
+"lock you out of administrating the system."
+msgstr "%s is de enige beheerder op deze computer. Het verwijderen van deze account zou u verhinderen het systeem te beheren."
+
+#: ../src/users/user-settings.c:121
+#, c-format
+msgid "Remove home folder for %s?"
+msgstr "Gebruikersmap van %s verwijderen?"
+
+#: ../src/users/user-settings.c:124
+#, c-format
+msgid ""
+"Files owned by user %s in <tt>%s</tt> can be completely removed if you don't"
+" need them anymore. You may want to back them up before deleting the "
+"account, or keep them so that an administrator can save them later."
+msgstr "Bestanden van %s in <tt>%s</tt> kunnen volledig worden verwijderd als u ze niet meer nodig hebt. U wilt er misschien een back-up van maken voordat u de account verwijdert, of ze bewaren zodat een beheerder ze later kan opslaan."
+
+#: ../src/users/user-settings.c:132
+msgid "Keep Files"
+msgstr "Bestanden behouden"
+
+#: ../src/users/user-settings.c:133
+msgid "Don't Remove Account"
+msgstr "Account niet verwijderen"
+
+#: ../src/users/user-settings.c:134
+msgid "Delete Files"
+msgstr "Bestanden verwijderen"
+
+#: ../src/users/user-settings.c:330
+msgid "Superuser"
+msgstr "Supergebruiker"
+
+#: ../src/users/user-settings.c:335
+msgid "Custom"
+msgstr "Aangepast"
+
+#. TRANSLATORS: This applies to a password.
+#: ../src/users/user-settings.c:344
+msgid "None"
+msgstr "Geen"
+
+#: ../src/users/user-settings.c:393
+#, c-format
+msgid "Invalid character \"%c\" in comment"
+msgstr "Ongeldig teken ‘%c’ in opmerking"
+
+#: ../src/users/user-settings.c:394
+msgid "Check that this character is not used."
+msgstr "Controleer dat dit teken niet wordt gebruikt."
+
+#: ../src/users/user-settings.c:426
+msgid "Incomplete path in home directory"
+msgstr "Onvolledig pad voor de persoonlijke map"
+
+#: ../src/users/user-settings.c:427
+msgid ""
+"Please enter full path for home directory\n"
+"<span size=\"smaller\">i.e.: /home/john</span>."
+msgstr "Voer het volledige pad in voor de thuismap.\n<span size=\"smaller\">Voorbeeld: /home/jan</span>"
+
+#: ../src/users/user-settings.c:447 ../src/users/user-settings.c:491
+msgid "New home directory already exists, use it?"
+msgstr "De nieuwe thuismap bestaat al, wilt u deze gebruiken?"
+
+#: ../src/users/user-settings.c:449
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or copy the contents of <tt>%s</tt> to the new home, overwriting it?\n"
+"\n"
+"In doubt, use the new directory to avoid losing data, and copy files from the old directory later."
+msgstr "De thuismap voor %s is ingesteld op <tt>%s</tt>, die al bestaat. Wilt u de bestanden uit deze map gebruiken, of de inhoud van <tt>%s</tt> naar de nieuwe thuismap kopiëren en deze overschrijven?\n\nAls u twijfelt, gebruiker de nieuwe map om te voorkomen dat er bestanden voor overschreven, en kopieer de bestanden uit de oude map op een later tijdstip."
+
+#: ../src/users/user-settings.c:461
+msgid "_Replace With Old Files"
+msgstr "Doo_r oude bestanden vervangen"
+
+#: ../src/users/user-settings.c:462 ../src/users/user-settings.c:504
+#: ../src/users/user-settings.c:540
+msgid "_Cancel Change"
+msgstr "Verandering afbreken"
+
+#. TRANSLATORS: This means "use the files from the new location",
+#. * as opposed to those from the old location.
+#: ../src/users/user-settings.c:465
+msgid "_Use New Files"
+msgstr "Nie_uwe bestanden gebruiken"
+
+#: ../src/users/user-settings.c:470 ../src/users/user-settings.c:510
+msgid "Make user the _owner of the new home directory"
+msgstr "Maak gebruiker de eigenaar van de nieuwe thuismap"
+
+#: ../src/users/user-settings.c:473 ../src/users/user-settings.c:547
+msgid "_Delete old home directory"
+msgstr "Ou_de thuismap verwijderen"
+
+#: ../src/users/user-settings.c:493
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or delete all its contents and use a completely empty home directory?\n"
+"\n"
+"In doubt, keep the files, and remove them later if needed."
+msgstr "De thuismap voor %s is ingesteld op <tt>%s</tt>, die al bestaat. Wilt u de bestanden uit deze map gebruiken, of de complete inhoud verwijderen en een compleet lege thuismap gebruiken?\n\nAls u twijfelt, bewaar dan de bestanden, en verwijder ze op een later tijdstip indien nodig."
+
+#: ../src/users/user-settings.c:503
+msgid "_Delete Files"
+msgstr "Bestan_den verwijderen"
+
+#: ../src/users/user-settings.c:505
+msgid "_Use Existing Files"
+msgstr "Bestaande bestanden gebr_uiken"
+
+#: ../src/users/user-settings.c:526
+msgid "Copy old home directory to new location?"
+msgstr "Oude thuismap kopiëren naar nieuwe locatie?"
+
+#: ../src/users/user-settings.c:528
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which doesn't exist. Do you want to copy the contents of the old home directory (<tt>%s</tt>), or use a completely empty home directory?\n"
+"\n"
+"If you choose to copy the files to the new location, it's safe to delete the old directory."
+msgstr "De thuismap voor %s is ingesteld op <tt>%s</tt>, die niet bestaat. Wilt u de bestanden uit de oude map (<tt>%s</tt>) gebruiken, of wilt een compleet lege thuismap gebruiken?\n\nAls u ervoor kiest de bestanden naar de nieuwe locatie te kopiëren, is het veilig om de oude map te verwijderen."
+
+#: ../src/users/user-settings.c:539
+msgid "_Use Empty Directory"
+msgstr "Lege map gebr_uiken"
+
+#. TRANSLATORS: This means "copy files from the old home directory".
+#: ../src/users/user-settings.c:542
+msgid "Co_py Old Files"
+msgstr "Oude bestanden ko_piëren"
+
+#: ../src/users/user-settings.c:604
+msgid "ID for the root user should not be modified"
+msgstr "ID van root mag niet worden veranderd"
+
+#. check that UID is free
+#: ../src/users/user-settings.c:608
+#, c-format
+msgid "User ID %d is already used by user %s"
+msgstr "Gebruikers-ID %d wordt al gebruikt door gebruiker %s"
+
+#: ../src/users/user-settings.c:610
+#, c-format
+msgid "Please choose a different numeric identifier for %s."
+msgstr "Kies een ander nummer voor %s."
+
+#: ../src/users/user-settings.c:628
+msgid "Incomplete path in shell"
+msgstr "Onvolledig pad in shell"
+
+#: ../src/users/user-settings.c:629
+msgid ""
+"Please enter full path for shell\n"
+"<span size=\"smaller\">i.e.: /bin/bash</span>."
+msgstr "Voer het volledige pad in voor de shell.\n<span size=\"smaller\">Voorbeeld: /bin/bash</span>"
+
+#: ../src/users/user-settings.c:663
+msgid "Can't revoke administration rights"
+msgstr "Kan beheerdersrechten niet intrekken"
+
+#: ../src/users/user-settings.c:666
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Revoking administration "
+"rights for this account would lock you out of administrating the system."
+msgstr "%s is de enige beheerder op deze computer. Het intrekken van beheerdersrechten voor deze account zou u verhinderen het systeem te beheren"
+
+#: ../src/users/user-settings.c:683
+msgid "You are about to revoke your own administration rights"
+msgstr "U staat op het punt uw eigen beheerdersrechten in te trekken"
+
+#: ../src/users/user-settings.c:686
+#, c-format
+msgid ""
+"%s will no longer be able to perform administrative tasks. This account "
+"won't be allowed to get administration rights back on its own."
+msgstr "%s zal niet langer beheerderstaken kunnen uitvoeren. Vanuit deze account zullen de beheerdersrechten niet kunnen worden teruggezet."
+
+#: ../src/users/user-settings.c:691
+msgid "Give up administration rights"
+msgstr "Beheerdersrechten opgeven"
+
+#: ../src/users/user-settings.c:1469
+msgid "Applying changes to user settings..."
+msgstr "Bezig met toepassen van veranderingen op gebruikersinstellingen..."
+
+#: ../src/users/users-tool.c:288
+msgid "Users Settings"
+msgstr "Gebruikersinstellingen"

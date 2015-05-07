@@ -1,0 +1,331 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mate-system-tools
+Upstream-Contact: Stefano Karapetsas <stefano@karapetsas.com>
+Source: http://pub.mate-desktop.org/releases/
+
+Files: src/common/gst-filter.c
+       src/common/gst-filter.h
+       src/common/gst-service-role.c
+       src/common/gst-service-role.h
+       src/network/callbacks.c
+       src/network/callbacks.h
+       src/network/connection.c
+       src/network/connection.h
+       src/network/essid-list.c
+       src/network/essid-list.h
+       src/network/hosts.c
+       src/network/hosts.h
+       src/network/ifaces-list.c
+       src/network/ifaces-list.h
+       src/network/locations-combo.c
+       src/network/locations-combo.h
+       src/network/main.c
+       src/network/network-locations.c
+       src/network/network-locations.h
+       src/network/network-tool.c
+       src/network/network-tool.h
+       src/network/nm-integration.c
+       src/network/nm-integration.h
+       src/services/service-settings-table.c
+       src/services/service-settings-table.h
+       src/services/services-tool.c
+       src/services/services-tool.h
+       src/shares/caja/caja-shares.c
+       src/shares/caja/caja-shares.h
+       src/shares/caja/gst-shares-module.c
+       src/shares/callbacks.c
+       src/shares/callbacks.h
+       src/shares/main.c
+       src/shares/nfs-acl-table.c
+       src/shares/nfs-acl-table.h
+       src/shares/share-nfs-add-hosts.c
+       src/shares/share-nfs-add-hosts.h
+       src/shares/share-settings.c
+       src/shares/share-settings.h
+       src/shares/shares-tool.c
+       src/shares/shares-tool.h
+       src/shares/table.c
+       src/shares/table.h
+       src/shares/users-table.c
+       src/shares/users-table.h
+       src/time/ntp-servers-list.c
+       src/time/ntp-servers-list.h
+       src/time/time-tool.c
+       src/users/group-members-table.c
+       src/users/group-members-table.h
+       src/users/privileges-table.h
+       src/users/test-battery.c
+       src/users/test-battery.h
+       src/users/user-profiles.c
+       src/users/user-profiles.h
+       src/users/users-tool.c
+       src/users/users-tool.h
+Copyright: 2004, 2005, 2006, 2007, Carlos Garnacho
+License: GPL-2+
+
+Files: src/common/gst-dialog.c
+       src/common/gst-dialog.h
+       src/common/gst-platform-dialog.c
+       src/common/gst-platform-dialog.h
+       src/common/gst-tool.c
+       src/common/gst-tool.h
+       src/services/callbacks.c
+       src/services/callbacks.h
+       src/services/main.c
+       src/services/service.c
+       src/services/service.h
+       src/services/table.c
+       src/services/table.h
+       src/time/main.c
+       src/time/tz-map.c
+       src/time/tz-map.h
+       src/time/tz.c
+       src/time/tz.h
+       src/users/callbacks.c
+       src/users/callbacks.h
+       src/users/group-settings.c
+       src/users/group-settings.h
+       src/users/groups-table.c
+       src/users/groups-table.h
+       src/users/main.c
+       src/users/passwd.c
+       src/users/passwd.h
+       src/users/table.c
+       src/users/table.h
+       src/users/user-settings.c
+       src/users/user-settings.h
+       src/users/users-table.c
+       src/users/users-table.h
+Copyright: 2000, 2001, 2002, Ximian, Inc
+License: GPL-2+
+
+Files: src/users/run-passwd.h
+       src/users/user-password.c
+       src/users/user-password.h
+Copyright: 2010, Milan Bouchet-Valat
+License: GPL-2+
+
+Files: icons/16x16/apps/time-admin.png
+       icons/16x16/apps/time-admin.svg
+       icons/22x22/apps/time-admin.png
+       icons/22x22/apps/time-admin.svg
+       icons/24x24/apps/time-admin.png
+       icons/32x32/apps/time-admin.png
+       icons/32x32/apps/time-admin.svg
+       icons/48x48/apps/time-admin.png
+Copyright: *No copyright*
+License: GPL-2
+Comment:
+ License hint to GPL-2 found in .svg files.
+
+Files: .tx/config
+       icons/16x16/Makefile.am
+       icons/16x16/apps/Makefile.am
+       icons/22x22/Makefile.am
+       icons/22x22/apps/Makefile.am
+       icons/24x24/Makefile.am
+       icons/24x24/apps/Makefile.am
+       icons/32x32/Makefile.am
+       icons/32x32/apps/Makefile.am
+       icons/48x48/Makefile.am
+       icons/48x48/apps/Makefile.am
+       icons/48x48/devices/Makefile.am
+       icons/48x48/devices/irda.png
+       icons/48x48/devices/plip.png
+       icons/ChangeLog
+       icons/Makefile.am
+       icons/scalable/Makefile.am
+       icons/scalable/apps/Makefile.am
+       icons/scalable/apps/time-admin.svg
+       interfaces/ChangeLog
+       interfaces/Makefile.am
+       interfaces/common.ui
+       interfaces/network.ui
+       interfaces/services.ui
+       interfaces/shares.ui
+       interfaces/time.ui
+       interfaces/users.ui
+       pixmaps/ChangeLog
+       pixmaps/Makefile.am
+       pixmaps/world_map-960.png
+       po/ChangeLog
+       po/LINGUAS
+       po/POTFILES.in
+       po/POTFILES.skip
+       src/Makefile.am
+       src/common/ChangeLog
+       src/common/CommonMakefile
+       src/common/Makefile.am
+       src/common/gst.h
+       src/network/ChangeLog
+       src/network/Makefile.am
+       src/network/TODO
+       src/network/mate-network.desktop.in.in
+       src/services/ChangeLog
+       src/services/Makefile.am
+       src/services/mate-services.desktop.in.in
+       src/shares/ChangeLog
+       src/shares/Makefile.am
+       src/shares/caja/Makefile.am
+       src/shares/mate-shares.desktop.in.in
+       src/time/ChangeLog
+       src/time/Makefile.am
+       src/time/time-tool.h
+       src/time/e-map/ChangeLog
+       src/time/e-map/Makefile.am
+       src/time/e-map/e-map-marshal.list
+       src/time/mate-time.desktop.in.in
+       src/users/ChangeLog
+       src/users/Makefile.am
+       src/users/TODO
+       src/users/mate-users.desktop.in.in
+       src/users/user-profiles.conf.in
+       AUTHORS
+       BUGS
+       COPYING
+       ChangeLog
+       DirsMakefile
+       HACKING
+       Makefile.am
+       NEWS
+       NEWS.gnome
+       README
+       TODO
+       autogen.sh
+       configure.ac
+       mate-system-tools.pc.in
+       org.mate.system-tools.gschema.xml.in
+Copyright: *No copyright*
+License: GPL-2+
+Comment:
+ Assuming license as found in COPYING file.
+
+Files: po/*.po
+       po/gnome-copyrights.txt
+Copyright:
+ 2001-2010, Free Software Foundation, Inc.
+ 2008, Gnome i18n Project for Vietnamese.
+ 2000, Gaute Hvoslef Kvalnes.
+ 2000, Xoán Pedracova Varela
+ 2002, ximian, inc
+ 2003-2006 Miloslav Trmac <mitr@volny.cz>.
+ 2004-2006 Adam Weinberger and the MATE Foundation
+ 2005, Canonical Ltd.
+ 2005, Sharif FarsiWeb, Inc.
+ 2007–2010 The MATE Project
+ 2004-2009, The Gnome Foundation.
+ 2010, Damyan Ivanov.
+ 2006-2008, Canonical Ltd, and Rosetta Contributors 2006
+ Croatiann team
+ THE PACKAGE'S COPYRIGHT HOLDER
+License: GPL-2+
+Comment:
+ Assuming license as found in COPYING file.
+
+Files: src/network/address-list.c
+       src/network/address-list.h
+Copyright: 2004, Carlos Garnacho Parro
+License: GPL-2+
+
+Files: src/time/e-map/e-map.c
+       src/time/e-map/e-map.h
+Copyright: 1999, 2008, Novell, Inc. (www.novell.com)
+License: LGPL-2 or LGPL-3
+
+Files: src/users/privileges-table.c
+Copyright: 2004, 2005, Carlos Garnacho
+           2005, Sivan Greenberg
+License: GPL-2+
+
+Files: src/users/run-passwd.c
+Copyright: 2002, Diego Gonzalez
+           2006, Johannes H. Jensen
+           2010, Milan Bouchet-Valat
+License: GPL-2+
+
+Files: debian/man/*.1
+Copyright: 2007 Sven Arvidsson <sa@whiz.se>
+           2014, Mike Gabriel <sunweaver@debian.org>
+License: GPL-2+
+
+Files: debian/changelog
+       debian/copyright
+       debian/watch
+       debian/source/format
+       debian/control
+       debian/rules
+       debian/compat
+       debian/patches/*
+       debian/mate-system-tools*
+       debian/org.debian.pkexec.mate-system-tools.policy
+       debian/bin/*
+Copyright: 2011-2014, Stefano Karapetsas <stefano@karapetsas.com>
+           2013-2014, Mike Gabriel <sunweaver@debian.org>
+License: GPL-2+ or LGPL-2 or LGPL-3
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU Genaral Public License for more details.
+ .
+ You should have received a copy og the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+License: GPL-2
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License version 2 as
+ published by the Free Software Foundation.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU Genaral Public License for more details.
+ .
+ You should have received a copy og the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 2 as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version LGPL-2 can be found in "/usr/share/common-licenses/LGPL-2".
+
+License: LGPL-3
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 3 as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version LGPL-3 can be found in "/usr/share/common-licenses/LGPL-3".

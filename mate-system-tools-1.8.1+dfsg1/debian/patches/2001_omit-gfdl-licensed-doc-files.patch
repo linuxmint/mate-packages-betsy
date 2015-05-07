@@ -1,0 +1,26 @@
+Description: Don't build non-DFSG (GFDL 1.1 licensed) help files
+Author: Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
+
+--- a/Makefile.am
++++ b/Makefile.am
+@@ -1,4 +1,4 @@
+-SUBDIRS = doc icons interfaces pixmaps src po
++SUBDIRS = icons interfaces pixmaps src po
+ 
+ distuninstallcheck_listfiles = find . -type f -print | grep -v scrollkeeper
+ 
+--- a/configure.ac
++++ b/configure.ac
+@@ -307,12 +307,6 @@
+ 
+ AC_OUTPUT([
+ Makefile
+-doc/Makefile
+-doc/network/Makefile
+-doc/services/Makefile
+-doc/shares/Makefile
+-doc/time/Makefile
+-doc/users/Makefile
+ icons/Makefile
+ icons/16x16/Makefile
+ icons/16x16/apps/Makefile

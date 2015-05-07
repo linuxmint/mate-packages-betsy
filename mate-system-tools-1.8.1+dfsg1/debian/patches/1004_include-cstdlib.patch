@@ -1,0 +1,16 @@
+Description: Fix implicit declaration and conversion to pointer of bsearch.
+Author: Logan Rosen <logan@ubuntu.com>
+Abstract:
+    Include <stdlib.h> in connection.c to fix implicit declaration and
+    conversion to pointer of bsearch.
+
+--- a/src/network/connection.c
++++ b/src/network/connection.c
+@@ -19,6 +19,7 @@
+  */
+ 
+ #include <string.h>
++#include <stdlib.h>
+ 
+ #include <glib/gi18n.h>
+ #include "gst.h"

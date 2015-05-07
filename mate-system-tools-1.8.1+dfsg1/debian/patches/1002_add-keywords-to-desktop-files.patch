@@ -1,0 +1,44 @@
+Description: Add Keyword= fields to .desktop files.
+Author: Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
+
+--- a/src/services/mate-services.desktop.in.in
++++ b/src/services/mate-services.desktop.in.in
+@@ -12,4 +12,5 @@
+ X-MATE-Bugzilla-Component=runlevel-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+ OnlyShowIn=MATE;XFCE;
++Keywords=system;start;boot;initscripts;services;
+ StartupNotify=true
+--- a/src/shares/mate-shares.desktop.in.in
++++ b/src/shares/mate-shares.desktop.in.in
+@@ -12,5 +12,6 @@
+ X-MATE-Bugzilla-Component=shares-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+ OnlyShowIn=MATE;XFCE;
++Keywords=network;neighbourhood;folders;shares;
+ StartupNotify=true
+ 
+--- a/src/time/mate-time.desktop.in.in
++++ b/src/time/mate-time.desktop.in.in
+@@ -12,4 +12,5 @@
+ X-MATE-Bugzilla-Component=mate-time-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+ OnlyShowIn=MATE;XFCE;
++Keywords=Time;Timezone;system;clock;MATE;mate-system-tools;
+ StartupNotify=true
+--- a/src/users/mate-users.desktop.in.in
++++ b/src/users/mate-users.desktop.in.in
+@@ -12,4 +12,5 @@
+ X-MATE-Bugzilla-Component=users-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+ OnlyShowIn=MATE;XFCE;
++Keywords=manage;users;groups;system;mate-system-tools;
+ StartupNotify=true
+--- a/src/network/mate-network.desktop.in.in
++++ b/src/network/mate-network.desktop.in.in
+@@ -12,4 +12,5 @@
+ X-MATE-Bugzilla-Component=network-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+ OnlyShowIn=MATE;XFCE;
++Keywords=network;devices;connections;mate-system-tools;
+ StartupNotify=true

@@ -1,0 +1,5 @@
+# caja extensions in /usr/lib/*/caja/extensions-2.0/ erroneously trigger
+# debhelper's makeshlibs script
+mate-system-tools: pkg-has-shlibs-control-file-but-no-actual-shared-libs
+mate-system-tools: postinst-has-useless-call-to-ldconfig
+mate-system-tools: postrm-has-useless-call-to-ldconfig

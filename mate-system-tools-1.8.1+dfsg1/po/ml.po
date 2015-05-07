@@ -1,0 +1,2119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ani Peter <apeter@redhat.com>, 2006.
+# FSF-India <locale@gnu.org.in>, 2003.
+# Hari Vishnu <harivishnu@gmail.com>, 2008.
+# Reviewed by Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-03-15 09:46+0100\n"
+"PO-Revision-Date: 2012-03-15 08:51+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../interfaces/network.ui.h:1
+msgid "Off"
+msgstr ""
+
+#: ../interfaces/network.ui.h:2
+msgid "Low"
+msgstr ""
+
+#: ../interfaces/network.ui.h:3
+msgid "Medium"
+msgstr ""
+
+#: ../interfaces/network.ui.h:4
+msgid "Loud"
+msgstr ""
+
+#: ../interfaces/network.ui.h:5
+msgid "Tones"
+msgstr ""
+
+#: ../interfaces/network.ui.h:6
+msgid "Pulses"
+msgstr ""
+
+#: ../interfaces/network.ui.h:7
+msgid "Plain (ASCII)"
+msgstr ""
+
+#: ../interfaces/network.ui.h:8
+msgid "Hexadecimal"
+msgstr ""
+
+#: ../interfaces/network.ui.h:9
+msgid "Location:"
+msgstr "സ്ഥാനം:"
+
+#: ../interfaces/network.ui.h:10
+msgid "Save current network configuration as a location"
+msgstr "നിലവിലുളള ശൃംഖലയുടെ ക്രമീകരണം ഒരു സ്ഥാനമായി സൂക്ഷിയ്ക്കുക"
+
+#: ../interfaces/network.ui.h:11
+msgid "Delete current location"
+msgstr "നിലവിലുള്ള സ്ഥാന പേരു് നീക്കം ചെയ്യുക"
+
+#: ../interfaces/network.ui.h:12
+msgid "Connections"
+msgstr "കണക്ഷനുകള്‍"
+
+#: ../interfaces/network.ui.h:13
+msgid "_Host name:"
+msgstr "_ഹോസ്റ്റ് നെയിം:"
+
+#: ../interfaces/network.ui.h:14
+msgid "D_omain name:"
+msgstr "_ഡൊമയിന്റെ പേരു്:"
+
+#: ../interfaces/network.ui.h:15
+msgid "Host Settings"
+msgstr "ഹോസ്റ്റ് സജ്ജീകരണങ്ങള്‍"
+
+#: ../interfaces/network.ui.h:16 ../interfaces/users.ui.h:30
+msgid "General"
+msgstr "സാധാരണ"
+
+#: ../interfaces/network.ui.h:17
+msgid "DNS Servers"
+msgstr "ഡിഎന്‍എസ് സെര്‍വറുകള്‍"
+
+#: ../interfaces/network.ui.h:18
+msgid "Search Domains"
+msgstr "ഡൊമെയിന്‍ തിരയുക"
+
+#: ../interfaces/network.ui.h:19
+msgid "DNS"
+msgstr "ഡി.എന്‍.എസ്"
+
+#: ../interfaces/network.ui.h:20
+msgid "Hosts"
+msgstr "ഹോസ്റ്റുകള്‍"
+
+#: ../interfaces/network.ui.h:21
+msgid "Interface properties"
+msgstr "വിനിമയതലത്തിന്റെ സവിശേഷതകള്‍"
+
+#: ../interfaces/network.ui.h:22
+msgid "E_nable this connection"
+msgstr "ഈ കണക്ഷന്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക"
+
+#: ../interfaces/network.ui.h:23
+msgid "E_nable roaming mode"
+msgstr "റോമിങ്ങ് ദശ _പ്രാവര്‍ത്തികമാക്കുക"
+
+#: ../interfaces/network.ui.h:24
+msgid "Connection type:"
+msgstr "കണക്ഷന്റെ തരം"
+
+#: ../interfaces/network.ui.h:25
+msgid "Network name (_ESSID):"
+msgstr "ശൃംഖലയുടെ പേര് (_ESSID):"
+
+#: ../interfaces/network.ui.h:26
+msgid "Network _password:"
+msgstr "ശൃംഖലയുപയോഗിയ്ക്കാനുള്ള _അടയാളവാക്കു്:"
+
+#: ../interfaces/network.ui.h:27
+msgid "Password _type:"
+msgstr "ഏത് _തരം അടയാളവാക്കു്:"
+
+#: ../interfaces/network.ui.h:28
+msgid "Wireless Settings"
+msgstr "വയര്‍ലസ്സ് സജ്ജീകരണങ്ങള്‍ "
+
+#: ../interfaces/network.ui.h:29
+msgid "Con_figuration:"
+msgstr "_ക്രമീകരണം:"
+
+#: ../interfaces/network.ui.h:30
+msgid "_IP address:"
+msgstr "_ഐപി വിലാസം:"
+
+#: ../interfaces/network.ui.h:31
+msgid "_Subnet mask:"
+msgstr "_സബ്‌നെറ്റ് മാസ്ക്:"
+
+#: ../interfaces/network.ui.h:32
+msgid "_Gateway address:"
+msgstr "_ഗേറ്റ്‌വെ വിലാസം:"
+
+#: ../interfaces/network.ui.h:33
+msgid "Connection Settings"
+msgstr "കണക്ഷന്‍ സജ്ജീകരണങ്ങള്‍ "
+
+#: ../interfaces/network.ui.h:34
+msgid "_Local IP:"
+msgstr "_ലോക്കല്‍ ഐപി:"
+
+#: ../interfaces/network.ui.h:35
+msgid "_Remote IP:"
+msgstr "_വിദൂര ഐപി:"
+
+#: ../interfaces/network.ui.h:36
+msgid "_Phone number:"
+msgstr "_ഫോണ്‍ നമ്പര്‍:"
+
+#: ../interfaces/network.ui.h:37
+msgid "_Dial prefix:"
+msgstr "_ഡയല്‍ പ്രിഫിക്സ്:"
+
+#: ../interfaces/network.ui.h:38 ../src/network/ifaces-list.c:326
+msgid "Access point name:"
+msgstr "സമീപന സ്ഥാന പേരു്:"
+
+#: ../interfaces/network.ui.h:39
+msgid "Internet service provider data"
+msgstr "ഇന്റര്‍നെറ്റ് സേവന ദാതാക്കളുടെ ഡേറ്റാ"
+
+#: ../interfaces/network.ui.h:40 ../interfaces/users.ui.h:56
+msgid "_Username:"
+msgstr "_ഉപയോഗിയ്ക്കുന്ന പേരു്:"
+
+#: ../interfaces/network.ui.h:41
+msgid "P_assword"
+msgstr "_അടയാളവാക്കു്:"
+
+#: ../interfaces/network.ui.h:42
+msgid "Account data"
+msgstr "അക്കൌണ്ട് ഡേറ്റാ"
+
+#: ../interfaces/network.ui.h:43
+msgid "_Modem port:"
+msgstr "_മോഡം പോര്‍ട്ട്:"
+
+#: ../interfaces/network.ui.h:44
+msgid "_Dial type:"
+msgstr "_ഡയല്‍ രീതികള്‍:"
+
+#. TRANSLATORS: Volume as in loudness
+#: ../interfaces/network.ui.h:46
+msgid "_Volume:"
+msgstr "_വോള്യം:"
+
+#: ../interfaces/network.ui.h:47
+msgid "_Autodetect"
+msgstr "സ്വയം _കണ്ടുപിടിയ്ക്കുക"
+
+#: ../interfaces/network.ui.h:48 ../src/network/ifaces-list.c:335
+msgid "Ethernet interface:"
+msgstr "ഈഥര്‍നെറ്റ് വിനിമയതലം:"
+
+#: ../interfaces/network.ui.h:49
+msgid "Modem Settings"
+msgstr "മോഡത്തിന്റെ സജ്ജീകരണങ്ങള്‍ "
+
+#: ../interfaces/network.ui.h:50
+msgid "Modem"
+msgstr "മോഡം"
+
+#: ../interfaces/network.ui.h:51
+msgid "_Set modem as default route to internet"
+msgstr "ഇന്റര്‍നെറ്റിലേക്കുളള സഹജമായ വഴിയായി മോഡം _സജ്ജീകരിയ്ക്കുക"
+
+#: ../interfaces/network.ui.h:52
+msgid "Use the Internet service provider nameservers"
+msgstr "ഇന്റര്‍നെറ്റ് സേവന ദാതാക്കള്‍ നല്‍കിയ നെയിംസെര്‍വറുകള്‍ ഉപയോഗിയ്ക്കുക"
+
+#: ../interfaces/network.ui.h:53
+msgid "_Retry if the connection breaks or fails to start"
+msgstr "കണക്ഷല്‍ തകരുകയോ തുടങ്ങുന്നതില്‍ പിശകുപറ്റുകയോ ചെയ്താല്‍ _വീണ്ടും ശ്രമിക്കുക"
+
+#: ../interfaces/network.ui.h:54
+msgid "Options"
+msgstr "ഐച്ഛികങ്ങള്‍"
+
+#: ../interfaces/network.ui.h:55
+msgid "Host Alias Properties"
+msgstr "ഹോസ്റ്റിനുള്ള മറ്റ് പേരുകള്‍ക്കുളള സജ്ജീകരണം "
+
+#: ../interfaces/network.ui.h:56 ../interfaces/shares.ui.h:13
+msgid "IP address:"
+msgstr "ഐപി വിലാസം:"
+
+#: ../interfaces/network.ui.h:57
+msgid "Aliases:"
+msgstr "മറ്റ് പേരുകള്‍:"
+
+#: ../interfaces/services.ui.h:1
+msgid "Select the services that you wish to activate:"
+msgstr "നിങ്ങള്‍ക്കു് സജീവമാക്കുവാനുളള സേവനങ്ങള്‍ തെരഞ്ഞെടുക്കുക:"
+
+#: ../interfaces/services.ui.h:2
+msgid "Advanced settings:"
+msgstr "വിശദമായ ക്രമീകരണങ്ങള്‍:"
+
+#: ../interfaces/shares.ui.h:1
+msgid "_Path:"
+msgstr "_പാത്ത്:"
+
+#: ../interfaces/shares.ui.h:2
+msgid "Share through:"
+msgstr "ഇതിലൂടെ പങ്കുവെക്കുക :"
+
+#: ../interfaces/shares.ui.h:3
+msgid "Shared Folder"
+msgstr "പങ്കുവെച്ചിരിയ്ക്കുന്ന ഫോള്‍ഡര്‍"
+
+#: ../interfaces/shares.ui.h:4
+msgid "Comment:"
+msgstr "അഭിപ്രായം:"
+
+#: ../interfaces/shares.ui.h:5
+msgid "Name:"
+msgstr "പേരു്:"
+
+#: ../interfaces/shares.ui.h:6
+msgid "_Read only"
+msgstr "_റീഡ് ഒണ്‍ലി"
+
+#: ../interfaces/shares.ui.h:7
+msgid "Share Properties"
+msgstr "സഹകരണ സവിശേഷതകള്‍"
+
+#: ../interfaces/shares.ui.h:8
+msgid "Allowed Hosts"
+msgstr "അനുവാദമുളള ഹോസ്റ്റുകള്‍"
+
+#: ../interfaces/shares.ui.h:9
+msgid "Share"
+msgstr ""
+
+#: ../interfaces/shares.ui.h:10
+msgid "Add allowed hosts"
+msgstr "അനുവാദമുളള ഹോസ്റ്റുകള്‍ ചേര്‍ക്കുക"
+
+#: ../interfaces/shares.ui.h:11
+msgid "Allowed hosts:"
+msgstr "അനുവാദമുളള ഹോസ്റ്റുകള്‍:"
+
+#: ../interfaces/shares.ui.h:12
+msgid "Host name:"
+msgstr "ഹോസ്റ്റ് നെയിം:"
+
+#: ../interfaces/shares.ui.h:14
+msgid "Network:"
+msgstr "ശൃംഖല:"
+
+#: ../interfaces/shares.ui.h:15
+msgid "Netmask:"
+msgstr "നെറ്റ്മാസ്ക്:"
+
+#: ../interfaces/shares.ui.h:16 ../src/shares/nfs-acl-table.c:56
+msgid "Read only"
+msgstr "റീഡ് ഒണ്‍ലി"
+
+#: ../interfaces/shares.ui.h:17
+msgid "Hosts Settings"
+msgstr "ഹോസ്റ്റ് ക്രമീകരണങ്ങള്‍"
+
+#: ../interfaces/shares.ui.h:18 ../src/shares/mate-shares.desktop.in.in.h:1
+#: ../src/shares/shares-tool.c:237
+msgid "Shared Folders"
+msgstr "പങ്കിട്ട അറകള്‍"
+
+#: ../interfaces/shares.ui.h:19
+msgid "Domain / _Workgroup:"
+msgstr "ഡൊമയിന്‍ / _വര്‍ക്ക് ഗ്രൂപ്പ്:"
+
+#: ../interfaces/shares.ui.h:20
+msgid "This computer is a _WINS server"
+msgstr "ഈ കമ്പ്യൂട്ടര്‍ ഒരു _WINS സെര്‍വര്‍ ആണ്"
+
+#: ../interfaces/shares.ui.h:21
+msgid "WINS _server:"
+msgstr "WINS _സെര്‍വര്‍:"
+
+#: ../interfaces/shares.ui.h:22
+msgid "Windows sharing"
+msgstr "വിന്‍ഡോസുമായുള്ള പങ്കിടല്‍"
+
+#: ../interfaces/shares.ui.h:23
+msgid "General Properties"
+msgstr "സാധാരണ സവിശേഷതകള്‍"
+
+#: ../interfaces/shares.ui.h:24
+msgid "Users"
+msgstr "ഉപയോക്താക്കള്‍"
+
+#: ../interfaces/shares.ui.h:25
+msgid "Enter password for user"
+msgstr "ഉപയോക്താവിന് അടയാളവാക്കു് നല്‍കുക"
+
+#: ../interfaces/shares.ui.h:26
+msgid "Enter password for user:"
+msgstr "ഉപയോക്താവിനുള്ള അടയാളവാക്കു് നല്‍കുക"
+
+#: ../interfaces/time.ui.h:1
+msgid "Time zone"
+msgstr "സമയ മേഘല"
+
+#: ../interfaces/time.ui.h:2
+msgid "Time Zone"
+msgstr "സമയ മേഘല"
+
+#: ../interfaces/time.ui.h:3
+msgid "Time zone:"
+msgstr "സമയ മേഘല:"
+
+#: ../interfaces/time.ui.h:4
+msgid "Selection"
+msgstr "തെരഞ്ഞെടുക്കല്‍"
+
+#: ../interfaces/time.ui.h:5
+msgid "Time servers"
+msgstr "ടൈം സെര്‍വറുകള്‍"
+
+#: ../interfaces/time.ui.h:6
+msgid "NTP server"
+msgstr "NTP സെര്‍വര്‍"
+
+#: ../interfaces/time.ui.h:7
+msgid "Add NTP Server"
+msgstr "NTP സെര്‍വര്‍ ചേര്‍ക്കുക"
+
+#: ../interfaces/time.ui.h:8
+msgid "Unconfigured"
+msgstr "ക്രമീകരിക്കാത്ത"
+
+#: ../interfaces/time.ui.h:9
+msgid "_Configuration:"
+msgstr "_ക്രമീക്രരണങ്ങള്‍:"
+
+#: ../interfaces/time.ui.h:10
+msgid "Time servers:"
+msgstr "സമയ സെര്‍വറുകള്‍"
+
+#: ../interfaces/time.ui.h:11
+msgid "Se_lect Servers"
+msgstr "_സെര്‍വറുകള്‍ തെരഞ്ഞെടുക്കുക"
+
+#: ../interfaces/time.ui.h:12
+msgid "_Time:"
+msgstr "_സമയം:"
+
+#: ../interfaces/time.ui.h:13
+msgid "_Date:"
+msgstr "_തീയതി:"
+
+#: ../interfaces/time.ui.h:14
+msgid "Synchronize now"
+msgstr "ഇപ്പോള്‍ പൊരുത്തപ്പെടുത്തുക"
+
+#: ../interfaces/users.ui.h:1
+msgid "_Manage Groups"
+msgstr "ഗ്രൂപ്പുകള്‍ കൈകാര്യം ചെയ്യുക (_M)"
+
+#: ../interfaces/users.ui.h:2
+msgid "Account _type:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:3
+msgid "_Change..."
+msgstr ""
+
+#: ../interfaces/users.ui.h:4
+msgid "_Password:"
+msgstr "_അടയാളവാക്കു്:"
+
+#: ../interfaces/users.ui.h:5
+msgid "_Advanced Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:6
+msgid "This account is disabled."
+msgstr ""
+
+#: ../interfaces/users.ui.h:7
+msgid "_Enable Account"
+msgstr ""
+
+#: ../interfaces/users.ui.h:8
+msgid "Group properties"
+msgstr "ഗ്രൂപ്പിന്റെ സവിശേഷതകള്‍"
+
+#: ../interfaces/users.ui.h:9
+msgid "Basic Settings"
+msgstr "അടിസ്ഥാന ക്രമീകരണങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:10
+msgid "Group _name:"
+msgstr "ഗ്രൂപ്പിന്റെ പേര്: (_n)"
+
+#: ../interfaces/users.ui.h:11
+msgid "Group _ID:"
+msgstr "ഗ്രൂപ്പ് ID: (_I)"
+
+#: ../interfaces/users.ui.h:12
+msgid "Group Members"
+msgstr "സംഘാംഗങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:13
+msgid "Profile Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:14
+msgid "Profile _name:"
+msgstr "പ്രൊഫൈല്‍ പേര്: (_n)"
+
+#: ../interfaces/users.ui.h:15
+msgid "_Comments"
+msgstr "അഭിപ്രായങ്ങള്‍ (_C)"
+
+#: ../interfaces/users.ui.h:16
+msgid "System Defaults"
+msgstr "സിസ്റ്റത്തിലെ സഹജമായവ"
+
+#: ../interfaces/users.ui.h:17
+msgid "_Home directory:"
+msgstr "ഹോം ഡയറക്ടറി: (_H)"
+
+#: ../interfaces/users.ui.h:18
+msgid "Default _shell:"
+msgstr "ഡീഫോള്‍ട്ട് ഷെല്‍: (_s)"
+
+#: ../interfaces/users.ui.h:19
+msgid "Default _group:"
+msgstr "ഡീഫോള്‍ട്ട് ഗ്രൂപ്പ്: (_g)"
+
+#: ../interfaces/users.ui.h:20
+msgid "Password Settings"
+msgstr "അടയാളവാക്കിന്റെ ക്രമീകരണങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:21
+msgid "Number of days that a password may be used:"
+msgstr "ഒരു അടയാളവാക്കു് ഉപയോഗിക്കുവാന്‍ സാധിക്കുന്ന ദിവസങ്ങള്‍:"
+
+#: ../interfaces/users.ui.h:22
+msgid "Minimum days allowed between password changes:"
+msgstr "അടയാളവാക്കു് മാറ്റുന്നതിനു അനുവദിക്കുന്ന ഏറ്റവും കുറഞ്ഞ ദിവസങ്ങള്‍: "
+
+#: ../interfaces/users.ui.h:23
+msgid "Days between warning and password expiration:"
+msgstr "മുന്നറിയിപ്പിന് ശേഷം പാസ്‍വേര്‍ഡിന്റെ കാലാവധി തീരുന്നതിന് ഇടയ്ക്കുളള ദിവസങ്ങള്‍:"
+
+#: ../interfaces/users.ui.h:24
+msgid "Assign a random password by default"
+msgstr "ഡീഫോള്‍ട്ടായ ഏതേലും ഒരു അടയാളവാക്കു് സെറ്റ് ചെയ്യുക"
+
+#: ../interfaces/users.ui.h:25
+msgid "Automatic UID/GID"
+msgstr "ഓട്ടോമാറ്റിക് UID/GID"
+
+#: ../interfaces/users.ui.h:26
+msgid "Maximum UID:"
+msgstr "ഏറ്റവും വലിയ UID:"
+
+#: ../interfaces/users.ui.h:27
+msgid "Maximum GID:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:28
+msgid "Minimum UID:"
+msgstr "ഏറ്റവും കുറഞ്ഞ UID:"
+
+#: ../interfaces/users.ui.h:29
+msgid "Minimum GID:"
+msgstr "ഏറ്റവും കുറഞ്ഞ GID:"
+
+#: ../interfaces/users.ui.h:31
+msgid "Privileges"
+msgstr "അവകാശങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:32
+msgid "User profiles"
+msgstr "ഉപയോക്താവിന്റെ പ്രൊഫൈലുകള്‍"
+
+#: ../interfaces/users.ui.h:33
+msgid "_Add Profile"
+msgstr "പ്രൊഫൈല്‍ ചേര്‍ക്കുക (_A)"
+
+#: ../interfaces/users.ui.h:34
+msgid "Groups settings"
+msgstr "ഗ്രൂപ്പിന്റെ സജ്ജീകരണം"
+
+#: ../interfaces/users.ui.h:35
+msgid "Groups available on the system:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:36
+msgid "Change User Name"
+msgstr ""
+
+#: ../interfaces/users.ui.h:37
+msgid "Full _Name:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:38
+msgid "Changing user name for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:39
+msgid "Change User Password"
+msgstr ""
+
+#: ../interfaces/users.ui.h:40
+msgid "Con_firmation:"
+msgstr "ഉറപ്പ് വരുത്തുക: (_f)"
+
+#: ../interfaces/users.ui.h:41
+msgid "Password set to: "
+msgstr "ക്രമീകരിച്ചിരിക്കുന്ന അടയാളവാക്കു്: "
+
+#: ../interfaces/users.ui.h:42
+msgid "_Generate"
+msgstr "ഉണ്ടാക്കുക (_G)"
+
+#: ../interfaces/users.ui.h:43
+msgid "Set password b_y hand"
+msgstr "നിങ്ങള്‍ സ്വയം അടയാളവാക്കു് സെറ്റ് ചെയ്യുക (_y)"
+
+#: ../interfaces/users.ui.h:44
+msgid "New _password:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:45
+msgid "Generate _random password"
+msgstr "പെട്ടെന്നൊരു അടയാളവാക്കു് ഉണ്ടാക്കുക (_r)"
+
+#: ../interfaces/users.ui.h:46
+msgid "Changing user password for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:47
+msgid "Don't ask for password on _login"
+msgstr ""
+
+#: ../interfaces/users.ui.h:48
+msgid "_Current password:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:49
+msgid "Change User Account Type"
+msgstr ""
+
+#: ../interfaces/users.ui.h:50
+msgid "Changing user account type for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:51
+msgid "_Custom"
+msgstr ""
+
+#: ../interfaces/users.ui.h:52
+msgid ""
+"This account is using special settings that have been defined manually. Use "
+"the <i>Advanced Settings</i> dialog to tune them."
+msgstr ""
+
+#: ../interfaces/users.ui.h:53
+msgid "Create New User"
+msgstr ""
+
+#: ../interfaces/users.ui.h:54
+msgid "_Name:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:55
+msgid "Create a new user"
+msgstr ""
+
+#. No item should exceed a length of 40 characters, to avoid wrapping on two
+#. lines. Better simplifying than making it hard to read!
+#: ../interfaces/users.ui.h:58
+msgid ""
+"Username must consist of:\n"
+"  ➣ lower case letters from the English alphabet\n"
+"  ➣ digits\n"
+"  ➣ any of the characters \".\", \"-\" and \"_\""
+msgstr ""
+
+#: ../interfaces/users.ui.h:62
+msgid ""
+"A user with this name already exists. Please choose a different name for the"
+" new user."
+msgstr ""
+
+#: ../interfaces/users.ui.h:63
+msgid "Username must start with a letter!"
+msgstr ""
+
+#: ../interfaces/users.ui.h:64
+msgid "_Encrypt home folder to protect sensitive data"
+msgstr ""
+
+#: ../interfaces/users.ui.h:65
+msgid ""
+"Encrypt all your files with your login password to strongly protect them "
+"from people with physical access to your computer, at the expense of a "
+"slightly reduced performance."
+msgstr ""
+
+#: ../interfaces/users.ui.h:66
+msgid "Change Advanced User Settings"
+msgstr ""
+
+#: ../interfaces/users.ui.h:67
+msgid "Changing advanced settings for:"
+msgstr ""
+
+#: ../interfaces/users.ui.h:68
+msgid "O_ffice location:"
+msgstr "ഓഫീസ് സ്ഥലം : (_f)"
+
+#: ../interfaces/users.ui.h:69
+msgid "_Work phone:"
+msgstr "ജോലി സ്ഥലത്തുളള ഫോണ്‍ നംബര്‍: (_W)"
+
+#: ../interfaces/users.ui.h:70
+msgid "_Home phone:"
+msgstr "വീട്ടിലെ ഫോണ്‍ നംബര്‍: (_H)"
+
+#: ../interfaces/users.ui.h:71
+msgid "Contact Information"
+msgstr ""
+
+#: ../interfaces/users.ui.h:72
+msgid "User Privileges"
+msgstr "ഉപയോക്താവിന്റെ അവകാശങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:73
+msgid "Advanced Settings"
+msgstr "വിശദമായ ക്രമീകരണങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:74
+msgid "_Shell:"
+msgstr "ഷെല്‍: (_S)"
+
+#: ../interfaces/users.ui.h:75
+msgid "_Main group:"
+msgstr "പ്രധാന ഗ്രൂപ്പ്: (_M)"
+
+#: ../interfaces/users.ui.h:76
+msgid "User ID:"
+msgstr "ഉപയോക്താവിന്റെ ID:"
+
+#: ../interfaces/users.ui.h:77
+msgid "You can't change user ID while the user is logged in."
+msgstr ""
+
+#: ../interfaces/users.ui.h:78
+msgid "Disable _account"
+msgstr ""
+
+#: ../interfaces/users.ui.h:79
+msgid "Optional Settings"
+msgstr "മറ്റ് ക്രമീകരണങ്ങള്‍"
+
+#: ../interfaces/users.ui.h:80
+msgid "Mi_nimum days between password changes:"
+msgstr "അടയാളവാക്കു് മാറ്റുന്നതിനു മുന്പുളള ഏറ്റവും കുറഞ്ഞ ദിവസങ്ങള്‍: (_n)"
+
+#: ../interfaces/users.ui.h:81
+msgid "Ma_ximum days a password may be used:"
+msgstr "ഒരു അടയാളവാക്കു് ഉപയോഗിക്കാവുന്ന ഏറ്റവും കൂടുതല്‍ ദിവസങ്ങള്‍: (_x)"
+
+#: ../interfaces/users.ui.h:82
+msgid "_Days between warning and password expiration:"
+msgstr "മുന്നറിയിപ്പിനു ശേഷം പാസ്‍വേര്‍ഡിന്റെ കാലാവിധി കഴിയുന്നതിനു മുന്പുളള ദിവസങ്ങള്‍: (_D)"
+
+#: ../interfaces/users.ui.h:83
+msgid "Advanced"
+msgstr "വിശദമായ"
+
+#: ../org.mate.system-tools.gschema.xml.in.h:1
+msgid "Show system users"
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:2
+msgid ""
+"Whether the users-admin tool should show system users in the users list."
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:3
+msgid "Show root user"
+msgstr ""
+
+#: ../org.mate.system-tools.gschema.xml.in.h:4
+msgid ""
+"Whether the users-admin tool should show the root user in the users list."
+msgstr ""
+
+#: ../src/common/gst-platform-dialog.c:179
+msgid "The platform you are running is not supported by this tool"
+msgstr "നിങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്ന പ്ളാറ്റ്ഫോം ഈ പ്രയോഗം പിന്തുണയ്കുന്നില്ല"
+
+#. label
+#: ../src/common/gst-platform-dialog.c:185
+msgid ""
+"If you know for sure that it works like one of the platforms listed below, "
+"you can select that and continue. Note, however, that this might damage the "
+"system configuration or downright cripple your computer."
+msgstr "താഴെ തന്നിരിക്കുന്ന പ്ലാറ്റ്ഫോര്‍മുകളെ പോലെ ഇത് പ്രവര്‍ത്തിക്കും എന്ന് ഉറപ്പുണ്ടെങ്കില്‍, നിങ്ങള്‍ക്ക് അത് തെരഞ്ഞെടുത്ത് തുടരാം. ശ്രദ്ധിക്കുക, പക്ഷെ, ഇത് സിസ്റ്റം ക്രമീക്രണം നശിപ്പിച്ചേക്കാം, അല്ലെങ്കില്‍ നിങ്ങളുടെ കമ്പ്യൂടറിനെ അതേ പോലെ വികലാങ്കനാക്കിയേക്കാം."
+
+#: ../src/common/gst-platform-dialog.c:212
+msgid "Unsupported platform"
+msgstr "പിന്തുണയില്ലാത്ത പ്ളാറ്റ്ഫോം"
+
+#: ../src/common/gst-tool.c:188
+msgid "The configuration could not be loaded"
+msgstr "ക്രമീകരണം തുറക്കുവാന്‍ കഴിഞ്ഞില്ല"
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:190
+msgid "The configuration could not be saved"
+msgstr "ക്രമീകരണം സൂക്ഷിക്കുവാന്‍ കഴിഞ്ഞില്ല"
+
+#: ../src/common/gst-tool.c:194
+msgid "You are not allowed to access the system configuration."
+msgstr "സിസ്റ്റം ക്രമീകരണത്തിലേക്ക് നിങ്ങള്‍ക്ക് പ്രവേശനം ഇല്ല."
+
+#. OPERATION_COMMIT
+#: ../src/common/gst-tool.c:196 ../src/common/gst-tool.c:685
+msgid "You are not allowed to modify the system configuration."
+msgstr "സിസ്റ്റം ക്രമീകരണം മാറ്റുവാന്‍ നിങ്ങളെ അനുവദിക്കുന്നില്ല"
+
+#: ../src/common/gst-tool.c:199
+msgid "Invalid data was found."
+msgstr ""
+
+#. OOBS_RESULT_ERROR
+#: ../src/common/gst-tool.c:201
+msgid "An unknown error occurred."
+msgstr ""
+
+#: ../src/common/gst-tool.c:422
+msgid "Could not display help"
+msgstr "സഹായം ലഭ്യമായില്ല"
+
+#: ../src/common/gst-tool.c:616
+msgid "The system configuration has potentially changed."
+msgstr "സിസ്റ്റം ക്രമീകരണം വലുതായിട്ട് മാറിയിരിക്കുന്നു"
+
+#: ../src/common/gst-tool.c:618
+msgid "Update content? This will lose any modification in course."
+msgstr "വിവരങ്ങള്‍ പുതുക്കണോ ? ഇത് മാറ്റങ്ങള്‍ ഏതെങ്കിലും ഉണ്ടെങ്കില്‍ കളയും കുറച്ചു സമയത്തില്‍."
+
+#: ../src/common/gst-tool.c:687
+#, c-format
+msgid ""
+"An error occurred while checking for authorizations: %s\n"
+"You may report this as a bug."
+msgstr ""
+
+#: ../src/network/address-list.c:76 ../src/network/hosts.c:31
+#: ../src/shares/table.c:38 ../src/users/table.c:40
+msgid "_Add"
+msgstr "ചേര്‍ക്കുക (_A)"
+
+#: ../src/network/address-list.c:77 ../src/network/hosts.c:33
+#: ../src/shares/table.c:40 ../src/users/table.c:42
+msgid "_Delete"
+msgstr "നീക്കം ചെയ്യുക (_D)"
+
+#: ../src/network/address-list.c:485
+msgid "Type address"
+msgstr "വിലാസം നല്‍കുക"
+
+#: ../src/network/callbacks.c:237 ../src/network/callbacks.c:487
+msgid "Changing interface configuration"
+msgstr "സംയോജഘടകത്തിന്റെ ക്രമീകരണത്തില്‍ മാറ്റം വരുത്തുന്നു"
+
+#: ../src/network/callbacks.c:299
+msgid "Could not autodetect modem device"
+msgstr "മോഡം ഡിവൈസ് കംപ്യൂട്ടറിന് സ്വന്തമായി കണ്ടുപിടിക്കാന്‍ സാധ്യമായില്ല"
+
+#: ../src/network/callbacks.c:302
+msgid ""
+"Check that the device is not busy and that is correctly attached to the "
+"computer."
+msgstr "ഡിവൈസ് തിരക്കിലല്ലായെന്നും കംപ്യൂട്ടറിലേക്ക് ശരിയായി ഘടിപ്പിച്ചിട്ടുണ്ടെന്നും ഉറപ്പ് വരുത്തുക."
+
+#: ../src/network/callbacks.c:523
+msgid "The host name has changed"
+msgstr "ഹോസ്റ്റ് നെയിം മാറിയിരിക്കുന്നു"
+
+#: ../src/network/callbacks.c:526
+msgid ""
+"This will prevent you from launching new applications, and so you will have "
+"to log in again. Continue anyway?"
+msgstr "ഇത് നിങ്ങളെ പുതിയ പ്രയോഗങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നതിന് തടസ്സമാകും, അങ്ങനെ നിങ്ങള്‍ വീണ്ടും ലോഗിന്‍ ചെയ്യേണ്ട വരും. മുന്പോട്ട് പോകണമോ?"
+
+#: ../src/network/callbacks.c:532
+msgid "Change _Host name"
+msgstr "ഹോസ്റ്റ് നെയിം മാറ്റുക (_H)"
+
+#: ../src/network/connection.c:40
+msgid "Automatic configuration (DHCP)"
+msgstr "ഓട്ടോമാറ്റിക് ക്രമീകരണം (DHCP)"
+
+#: ../src/network/connection.c:41
+msgid "Local Zeroconf network (IPv4 LL)"
+msgstr "പ്രാദേശിക സീറോ-കോണ്‍ഫ് ശ്രംഖല (ഐ.പി.വി4 എല്‍.എല്‍ IPv4 LL)"
+
+#: ../src/network/connection.c:42
+msgid "Static IP address"
+msgstr "സ്റ്റാറ്റിക് IP വിലാസം"
+
+#: ../src/network/connection.c:46
+msgid "WEP key (ascii)"
+msgstr "WEPകീ (ആസ്കീ)"
+
+#: ../src/network/connection.c:47
+msgid "WEP key (hexadecimal)"
+msgstr "WEP കീ (ഹെക്സാഡെസിമല്‍)"
+
+#: ../src/network/connection.c:48
+msgid "WPA Personal"
+msgstr "WPA സ്വകാര്യം"
+
+#: ../src/network/connection.c:49
+msgid "WPA2 Personal"
+msgstr "WPA2 സ്വകാര്യം"
+
+#: ../src/network/connection.c:53
+msgid "GPRS/UMTS"
+msgstr "ജി.പി.ആര്‍.എസ്/യു.എം.ടി.എസ് (GPRS/UMTS)"
+
+#: ../src/network/connection.c:54
+msgid "ISDN modem"
+msgstr "ഐ.എസ്.ഡി.എന്‍ മോഡം"
+
+#: ../src/network/connection.c:55
+msgid "Serial modem"
+msgstr "സീരിയല്‍ മോഡം"
+
+#: ../src/network/connection.c:56
+msgid "PPPoE"
+msgstr "പി.പി.പി.ഒ-ഇ (PPPoE)"
+
+#: ../src/network/connection.c:769
+#, c-format
+msgid "%s Properties"
+msgstr "%s സവിശേഷതകള്‍ "
+
+#: ../src/network/hosts.c:32 ../src/network/ifaces-list.c:33
+#: ../src/shares/table.c:39 ../src/users/table.c:41
+msgid "_Properties"
+msgstr "സവിശേഷതകള്‍ (_P)"
+
+#: ../src/network/hosts.c:89
+msgid "IP Address"
+msgstr "IP വിലാസം"
+
+#: ../src/network/hosts.c:97
+msgid "Aliases"
+msgstr "മറ്റ് പേരുകള്‍"
+
+#: ../src/network/ifaces-list.c:280
+msgid "This network interface is not configured"
+msgstr "നെറ്റ്‍വര്‍ക്കിലേക്കുളള ഈ സംയോജകഘടകം ക്രമീകരിച്ചിട്ടില്ല"
+
+#: ../src/network/ifaces-list.c:282
+msgid "Roaming mode enabled"
+msgstr "റോമിങ്ങ് ദശ (അനങ്ങുംബോള്‍ ഉപയോഗിക്കാവുന്നത്) പ്രാവര്‍ത്തികമാക്കി"
+
+#: ../src/network/ifaces-list.c:289
+#, c-format
+msgid "<b>Essid:</b> %s "
+msgstr ""
+
+#: ../src/network/ifaces-list.c:296 ../src/network/ifaces-list.c:301
+#: ../src/network/ifaces-list.c:306
+msgid "Address:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:298
+msgid "Subnet mask:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:308
+msgid "Remote address:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:320 ../src/network/ifaces-list.c:325
+#: ../src/network/ifaces-list.c:334 ../src/network/ifaces-list.c:339
+msgid "Type:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:321
+msgid "Phone number:"
+msgstr ""
+
+#: ../src/network/ifaces-list.c:356
+msgid "Wireless connection"
+msgstr "വയര്‍‍ലെസ്സ് കണക്ഷന്‍"
+
+#: ../src/network/ifaces-list.c:358
+msgid "Infrared connection"
+msgstr "ഇന്‍ഫ്രാ റെഡ് കണക്ഷന്‍"
+
+#: ../src/network/ifaces-list.c:360
+msgid "Wired connection"
+msgstr "വയര്‍ഡ് കണക്ഷന്‍"
+
+#: ../src/network/ifaces-list.c:362
+msgid "Parallel port connection"
+msgstr "പാരലല്‍ പോര്‍ട്ട് കണക്ഷന്‍"
+
+#: ../src/network/ifaces-list.c:364
+msgid "Point to point connection"
+msgstr "പോയിന്റ്-റ്റു-പോയിന്റ് കണക്ഷന്‍"
+
+#: ../src/network/locations-combo.c:221
+msgid "Changing network location"
+msgstr "ശൃംഖലയുടെ സ്ഥാനം മാറ്റുന്നു"
+
+#: ../src/network/locations-combo.c:265
+msgid "There is already a location with the same name"
+msgstr "ഈ പേരില്‍ നിലവില്‍ ഒരു സ്ഥാനം ഉണ്ട് "
+
+#: ../src/network/locations-combo.c:267
+msgid "Overwrite it?"
+msgstr "വീണ്ടും എഴുതണമോ?"
+
+#: ../src/network/locations-combo.c:355
+msgid "Save location"
+msgstr "സ്ഥാനം സൂക്ഷിക്കുക"
+
+#: ../src/network/locations-combo.c:370
+msgid "_Location name:"
+msgstr "(_L)സ്ഥാനപേര്:"
+
+#: ../src/network/locations-combo.c:422
+#, c-format
+msgid "Do you want to delete location \"%s\"?"
+msgstr "സ്ഥാനം \"%s\" നിങ്ങള്‍ക്ക് നീക്കം ചെയ്യണമോ? "
+
+#: ../src/network/main.c:135
+msgid "The interface does not exist"
+msgstr "സംയോജകഘടകം നിലവിലില്ല"
+
+#: ../src/network/main.c:137
+msgid ""
+"Check that it is correctly typed and that it is correctly supported by your "
+"system."
+msgstr "ശരിയായ ടൈപ്പ് ചെയ്തിട്ടുണ്ടോ എന്നും നിങ്ങളുടെ കമ്പ്യൂട്ടര്‍ അതിനെ പിന്തുണയ്ക്കുന്നുണ്ടോ എന്നും പരിശോധിക്കുക."
+
+#: ../src/network/main.c:183
+msgid "Configure a network interface"
+msgstr "നെറ്റ്‍വര്‍ക്കിലേക്ക് ഒരു സംയോജകഘടകം ക്രമീകരിക്കുക"
+
+#: ../src/network/main.c:183
+msgid "INTERFACE"
+msgstr "INTERFACE"
+
+#: ../src/network/main.c:184
+msgid "Configure the first network interface with a specific type"
+msgstr "നെറ്റ്‍വര്‍ക്കിലേക്കുളള ആദ്യത്തെ സംയോജകഘടകം പറഞ്ഞിരിക്കുന്ന തരത്തിലുളള ഒന്നുമായി  ക്രമീകരിക്കുക"
+
+#: ../src/network/main.c:184
+msgid "TYPE"
+msgstr "TYPE"
+
+#: ../src/network/mate-network.desktop.in.in.h:1
+msgid "Network"
+msgstr "ശൃംഖല(ശ്രംഖല):"
+
+#: ../src/network/mate-network.desktop.in.in.h:2
+msgid "Configure network devices and connections"
+msgstr "ശൃംഖല ഡിവൈസും കണക്ഷനും ക്രമീകരിക്കുക"
+
+#: ../src/network/network-tool.c:280
+msgid "Network Settings"
+msgstr "ശൃംഖല സജ്ജീകരണങ്ങള്‍"
+
+#: ../src/services/callbacks.c:65
+#, c-format
+msgid "Settings for service \"%s\""
+msgstr "\"%s\" സേവനത്തിനുളള സജ്ജീകരണങ്ങള്‍"
+
+#: ../src/services/callbacks.c:122
+#, c-format
+msgid "Are you sure you want to deactivate %s?"
+msgstr "%s പ്രവര്‍ത്തനം നിര്‍ത്തലാക്കണമെന്ന് നിങ്ങള്‍ക്ക് ഉറപ്പാണോ?"
+
+#: ../src/services/callbacks.c:126
+msgid ""
+"This may affect your system behavior in several ways, possibly leading to "
+"data loss."
+msgstr "ഇത് നിങ്ങളുടെ കംപ്യൂട്ടറിന്റെ പെരുമാറ്റത്തെ പലവിധത്തില്‍ ബാധിക്കുന്നു, ഡേറ്റാ നഷ്ടം വരെ സംഭവിക്കാം"
+
+#: ../src/services/service.c:32
+msgid "Web server"
+msgstr "വെബ് സെര്‍വര്‍"
+
+#: ../src/services/service.c:32
+msgid "Shares your web pages over the Internet"
+msgstr "ഇന്റര്‍നെറ്റില്‍ നിങ്ങളുടെ വെബ് പേജുകള്‍ പങ്കിടുന്നു"
+
+#. GST_ROLE_WEB_SERVER
+#: ../src/services/service.c:33
+msgid "Actions scheduler"
+msgstr "ആക്ഷന്‍സ് ഷെഡ്യൂളര്‍"
+
+#: ../src/services/service.c:33
+msgid "Executes scheduled actions"
+msgstr "ഷെഡ്യൂള്‍ ചെയ്തിരിക്കുന്ന (സമയത്തിന് നടത്താന്‍ ക്രമീകരിച്ചിരിക്കുന്ന) നടപടികള്‍ നടത്തുന്നു"
+
+#. GST_ROLE_COMMAND_SCHEDULER
+#: ../src/services/service.c:34
+msgid "Printer service"
+msgstr "പ്രിന്‍റര്‍ സര്‍വീസ്"
+
+#: ../src/services/service.c:34
+msgid "Allows applications to use printers"
+msgstr "പ്രയോഗങ്ങളെ പ്രിന്‍ററുകള്‍ ഉപയോഗിക്കുന്നതിനായി അനുവദിക്കുന്നു"
+
+#. GST_ROLE_PRINTER_SERVICE
+#: ../src/services/service.c:35
+msgid "Mail agent"
+msgstr "നെയില്‍ ഏജന്‍റ്"
+
+#: ../src/services/service.c:35
+msgid "Delivers your outgoing mail"
+msgstr "നിങ്ങളുടെ പുറത്തേക്കുളള മെയില്‍ അയയ്കുന്നു"
+
+#. GST_ROLE_MTA
+#: ../src/services/service.c:36
+msgid "MTA authentication service"
+msgstr "എം.ടി.എ തിരിച്ചറിയല്‍ സേവനം"
+
+#. GST_ROLE_MTA_AUTH
+#: ../src/services/service.c:37
+msgid "Mail fetcher"
+msgstr "മെയില്‍ ഫെച്ചര്‍"
+
+#: ../src/services/service.c:37
+msgid "Downloads your mail from remote accounts"
+msgstr "വിദൂരത്തുളള അക്കൌണ്ടില്‍ നിന്നും നിങ്ങളുടെ മെയില്‍ ഡൌണ്‍‍ലോഡ് ചെയ്യുന്നു"
+
+#. GST_ROLE_MAIL_FETCHER
+#: ../src/services/service.c:38
+msgid "Graphical login manager"
+msgstr "ഗ്രാഫിക്കല്‍ ലോഗിന്‍ മാനേജര്‍"
+
+#: ../src/services/service.c:38
+msgid "Allows users to login graphically"
+msgstr "ഉപയോക്താക്കള്‍ക്ക് ഗ്രാഫിക്കലായി ലോഗിന്‍ ചെയ്യുന്നതിനായി അനുവദിക്കുന്നു"
+
+#. GST_ROLE_DISPLAY_MANAGER
+#: ../src/services/service.c:39
+msgid "Database server"
+msgstr "ഡേറ്റാബെയിസ് സെര്‍വര്‍"
+
+#: ../src/services/service.c:39
+msgid "Data storage system"
+msgstr "ഡേറ്റാ സംരക്ഷണ സംവിധാനം"
+
+#. GST_ROLE_DATABASE_SERVER
+#. GST_ROLE_FILE_SERVER_SMB
+#. GST_ROLE_FILE_SERVER_FTP
+#: ../src/services/service.c:40 ../src/services/service.c:41
+#: ../src/services/service.c:43
+msgid "Folder sharing service"
+msgstr "ഫോള്‍ഡര്‍ ഷെയറിങ് സര്‍വീസ്"
+
+#: ../src/services/service.c:40 ../src/services/service.c:41
+msgid "Shares folders over your network"
+msgstr "നിങ്ങളുടെ നെറ്റ്‍വര്‍ക്കില്‍ ഫോള്‍ഡറുകള്‍ പങ്കിടുന്നു"
+
+#. GST_ROLE_FILE_SERVER_NFS
+#: ../src/services/service.c:42
+msgid "FTP service"
+msgstr "FTP സേവനം"
+
+#: ../src/services/service.c:42 ../src/services/service.c:43
+msgid "Shares folders over the Internet"
+msgstr "ഇന്റര്‍നെറ്റില്‍ ഫോള്‍ഡറുകള്‍ (അറകള്‍) പങ്കിടുന്നു"
+
+#. GST_ROLE_FILE_SERVER_TFTP
+#: ../src/services/service.c:44
+msgid "Clock synchronization service"
+msgstr "ഘടികാരം പൊരുത്തപെടുത്തല്‍ സേവനം"
+
+#: ../src/services/service.c:44
+msgid "Synchronizes your computer clock with Internet time servers"
+msgstr "നിങ്ങളുടെ കമ്പ്യൂടര്‍ ഘടികാരം ഇന്റര്‍നെറ്റ് സമയ സര്വറുകളുമായി പൊരുത്തപെടുത്തുന്നു"
+
+#. GST_ROLE_NTP_SERVER
+#: ../src/services/service.c:46
+msgid "Antivirus"
+msgstr "ആന്‍റിവൈറസ്"
+
+#: ../src/services/service.c:46
+msgid "Analyzes your incoming mail for virus"
+msgstr "നിങ്ങള്‍ക്ക് വരുന്ന മെയിലുകളില്‍ വൈറസ് ഉണ്ടോ എന്ന് പരിശോധിക്കുന്നു"
+
+#. GST_ROLE_ANTIVIRUS
+#: ../src/services/service.c:47
+msgid "Firewall"
+msgstr "തീ മതില്‍"
+
+#: ../src/services/service.c:47
+msgid "Blocks undesired network access to your computer"
+msgstr "നിങ്ങളുടെ കമ്പ്യൂടറിലേക്ക് വേണ്ടാത്ത കയറ്റങ്ങള്‍ തടയുന്നു"
+
+#. GST_ROLE_FIREWALL_MANAGEMENT
+#: ../src/services/service.c:49
+msgid "Dictionary server"
+msgstr "ഡിക്ഷനറി (നിഘണ്ടു) സെര്‍വര്‍"
+
+#. GST_ROLE_DICTIONARY_SERVER
+#: ../src/services/service.c:50
+msgid "Speech synthesis support"
+msgstr "സംസാരം ഉണ്ടാക്കാന്‍ ഉള്ള താങ്ങ്"
+
+#. GST_ROLE_SPEECH_SYNTHESIS
+#: ../src/services/service.c:51
+msgid "Computer activity logger"
+msgstr "കമ്പ്യൂട്ടര്‍ ആക്റ്റിവിറ്റി ലോഗ്ഗര്‍"
+
+#: ../src/services/service.c:51
+msgid "Keeps a log of your computer activity"
+msgstr "നിങ്ങളുടെ കമ്പ്യൂട്ടറിന്റെ പ്രവര്‍ത്തികളുടെ ലോഗ് വെക്കുന്നു"
+
+#. GST_ROLE_SYSTEM_LOGGER
+#: ../src/services/service.c:52
+msgid "Remote backup server"
+msgstr "റിമോട്ട് ബാക്കപ്പ് സെര്‍വര്‍"
+
+#. GST_ROLE_REMOTE_BACKUP
+#: ../src/services/service.c:53
+msgid "Spam filter"
+msgstr "സ്പാം (വേണ്ടാത്തത്) ഫില്‍റ്റര്‍ (തടയാനുള്ള യന്ത്രം)"
+
+#. GST_ROLE_SPAM_FILTER
+#: ../src/services/service.c:54
+msgid "Remote shell server"
+msgstr "റിമോട്ട് ഷെല്‍ സെര്‍വര്‍"
+
+#: ../src/services/service.c:54
+msgid "Secure shell server"
+msgstr "സെക്യൂര്‍ ഷെല്‍ സെര്‍വര്‍"
+
+#. GST_ROLE_SECURE_SHELL_SERVER
+#: ../src/services/service.c:55
+msgid "Application server"
+msgstr "പ്രയോഗങ്ങളുടെ സര്വര്‍"
+
+#. GST_ROLE_APPLICATION_SERVER
+#: ../src/services/service.c:56
+msgid "Automated crash reports support"
+msgstr "സ്വയം ക്രാഷ് (അനിയന്ത്രിത നിര്‍ത്തിപോകല്‍) റിപോര്‍ടുകള്‍"
+
+#. GST_ROLE_AUTOMATED_CRASH_REPORTS_MANAGEMENT
+#: ../src/services/service.c:57
+msgid "System communication bus"
+msgstr "സിസ്റ്റം വിനിമയ ബസ്"
+
+#. GST_ROLE_DBUS,
+#: ../src/services/service.c:58
+msgid "System configuration manager"
+msgstr "സിസ്റ്റം ക്രമീകരണ കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_SYSTEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:59
+msgid "School management platform"
+msgstr "സ്കൂള്‍ കയ്കാര്യം ചെയ്യല്‍ പ്ലാറ്റ്ഫോറം"
+
+#. GST_ROLE_SCHOOL_MANAGEMENT_PLATFORM
+#: ../src/services/service.c:60
+msgid "Network security auditor"
+msgstr "ശ്രംഖല സുരക്ഷ ഓഡിറ്റര്‍"
+
+#. GST_ROLE_SECURITY_AUDITING
+#: ../src/services/service.c:61
+msgid "Web calendar server"
+msgstr "വെബ് കാലെണ്ടര്‍ സെര്‍വര്‍"
+
+#. GST_ROLE_WEB_CALENDAR_SERVER
+#: ../src/services/service.c:62
+msgid "OEM configuration manager"
+msgstr "ഒ.ഇ.എം ക്രമീകരണ കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_OEM_CONFIGURATION_MANAGEMENT
+#: ../src/services/service.c:63
+msgid "Terminal multiplexor"
+msgstr "ടര്‍മിനല്‍ മള്‍ടിപ്ലെക്സര്‍"
+
+#. GST_ROLE_TERMINAL_MULTIPLEXOR
+#: ../src/services/service.c:64
+msgid "Disk quota activation"
+msgstr "ഡിസ്ക് ക്വോട്ട സജീവമാക്കല്‍"
+
+#. GST_ROLE_QUOTA_MANAGEMENT
+#: ../src/services/service.c:65
+msgid "Package index monitor"
+msgstr "പൊതികെട്ട് സൂചിക മോണിറ്റര്‍"
+
+#. GST_ROLE_PACKAGE_INDEX_MONITORING
+#: ../src/services/service.c:66
+msgid "Network service"
+msgstr "നെറ്റ്വര്‍ക്ക് (ശ്രംഖല) സേവനം"
+
+#. GST_ROLE_NETWORK
+#: ../src/services/service.c:67
+msgid "Dynamic DNS services updater"
+msgstr "ഡൈനാമിക് ഡി.എന്‍.എസ് സേവനങ്ങള്‍ പുതുക്കല്‍ ഉപകരണം(അപ്ഡേറ്റര്‍)"
+
+#. GST_ROLE_DYNAMIC_DNS_SERVICE
+#: ../src/services/service.c:68
+msgid "DHCP server"
+msgstr "DHCP സെര്‍വര്‍"
+
+#. GST_ROLE_DHCP_SERVER
+#: ../src/services/service.c:69
+msgid "Domain name server"
+msgstr "ഡൊമയിന്റെ പേര് സെര്‍വര്‍"
+
+#. GST_ROLE_DNS
+#: ../src/services/service.c:70
+msgid "Proxy cache service"
+msgstr "പ്രിന്‍റര്‍ കാഷ് സര്‍വീസ്"
+
+#. GST_ROLE_PROXY_CACHE
+#: ../src/services/service.c:71
+msgid "LDAP server"
+msgstr "LDAP സെര്‍വര്‍"
+
+#. GST_ROLE_LDAP_SERVER
+#: ../src/services/service.c:72
+msgid "Mailing lists manager"
+msgstr "മെയ്ലിങ് പട്ടിക കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_MAILING_LISTS_MANAGER
+#: ../src/services/service.c:73
+msgid "Multicast DNS service discovery"
+msgstr "മള്‍ടികാസ്റ്റ് ഡി.എന്‍.എസ് സേവനം കണ്ടുപിടിക്കല്‍"
+
+#. GST_ROLE_RENDEZVOUS
+#: ../src/services/service.c:74
+msgid "Account information resolver"
+msgstr "അക്കൗണ്ട് വിവരം റിസോള്വര്‍"
+
+#. GST_ROLE_NSS
+#: ../src/services/service.c:75
+msgid "Virtual Private Network server"
+msgstr "വെര്‍ചുവല്‍ സ്വകാര്യ ശ്രംഖല സര്വര്‍"
+
+#. GST_ROLE_VPN_SERVER
+#: ../src/services/service.c:76
+msgid "Router advertisement server"
+msgstr "റൂട്ടര്‍ വിജ്ഞാപനം സെര്‍വര്‍"
+
+#. GST_ROLE_ROUTER_ADVERTISEMENT_SERVER
+#: ../src/services/service.c:77
+msgid "IPSec key exchange server"
+msgstr "ഐ.പി സെക് കീ കയ്മാറല്‍ സെര്‍വര്‍"
+
+#. GST_ROLE_IPSEC_KEY_EXCHANGE_SERVER
+#: ../src/services/service.c:78
+msgid "Disk server"
+msgstr "ഡിസ്ക് സെര്‍വര്‍"
+
+#. GST_ROLE_DISK_SERVER
+#: ../src/services/service.c:79
+msgid "Disk client"
+msgstr "ഡിസ്ക് ക്ലയന്റ്"
+
+#. GST_ROLE_DISK_CLIENT
+#: ../src/services/service.c:80
+msgid "Route server"
+msgstr "റൂട്ട് (പാത) സെര്‍വര്‍"
+
+#. GST_ROLE_ROUTE_SERVER
+#: ../src/services/service.c:81
+msgid "RPC mapper"
+msgstr "ആര്‍.പി.സി മാപ്പര്‍"
+
+#. GST_ROLE_RPC_MAPPER
+#: ../src/services/service.c:82
+msgid "SNMP server"
+msgstr "SNMP സെര്‍വര്‍"
+
+#. GST_ROLE_SNMP_SERVER
+#: ../src/services/service.c:83
+msgid "Terminal server client"
+msgstr "ടെര്‍മിനല്‍ സര്വര്‍ ക്ലയന്റ്"
+
+#. GST_ROLE_LTSP_CLIENT
+#: ../src/services/service.c:84
+msgid "Audio settings management"
+msgstr "ശബ്ദ സജ്ജീകരണങ്ങള്‍ കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_AUDIO_MANAGEMENT
+#: ../src/services/service.c:85
+msgid "Volumes mounter"
+msgstr "വോള്യംസ് മൌണ്ടര്‍"
+
+#: ../src/services/service.c:85
+msgid "Mounts your volumes automatically"
+msgstr "നിങ്ങളുടെ വോള്യമുകള്‍ കമ്പ്യൂട്ടര്‍ തനിയെ മൌണ്ട് ചെയ്യുന്നു"
+
+#. GST_ROLE_AUTOMOUNTER
+#: ../src/services/service.c:86
+msgid "Infrared port management"
+msgstr "ഇന്‍ഫ്രാറെഡ് പോര്‍ട് കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_INFRARED_MANAGEMENT
+#: ../src/services/service.c:87
+msgid "Braille display management"
+msgstr "ബ്രെയ്ല്‍ ഡിസ്പ്ലേ കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_BRAILLE_DISPLAY_MANAGEMENT
+#: ../src/services/service.c:88
+msgid "Bluetooth device management"
+msgstr "ബ്ലൂടൂത്ത് ഉപകരണം കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_BLUETOOTH_MANAGEMENT
+#: ../src/services/service.c:89
+msgid "Hard disk tuning"
+msgstr "ഹാര്‍ഡ് ഡിസ്ക് ട്യൂണിങ്"
+
+#. GST_ROLE_HDD_MANAGEMENT
+#: ../src/services/service.c:90
+msgid "Hotkeys management"
+msgstr "ചുരുക്ക കീകള്‍ കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_HOTKEYS_MANAGEMENT
+#: ../src/services/service.c:91
+msgid "Power management"
+msgstr "പവര്‍ കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_POWER_MANAGEMENT
+#: ../src/services/service.c:92
+msgid "Logical volume management"
+msgstr "ലോജിക്കല്‍ വോള്യും കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_LVM_MANAGEMENT
+#: ../src/services/service.c:93
+msgid "Cluster management tool"
+msgstr "ക്ലസ്റ്റര്‍ കയ്കാര്യം ചെയ്യല്‍ ഉപകരണം"
+
+#. GST_ROLE_CLUSTER_MANAGEMENT
+#: ../src/services/service.c:94
+msgid "Fax settings management"
+msgstr "ഫാക്സ് സജ്ജീകരണങ്ങള്‍ ‍ കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_FAX_MANAGEMENT
+#: ../src/services/service.c:95
+msgid "RAID disks management"
+msgstr "റെയ്ഡ് ഡിസ്ക്സ് കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_RAID_MANAGEMENT
+#: ../src/services/service.c:96
+msgid "Graphic tablets management"
+msgstr "ഗ്രാഫിക്സ് ടാബ്ലെറ്റ്സ് കയ്കാര്യം ചെയ്യല്‍"
+
+#. GST_ROLE_GRAPHIC_TABLETS_MANAGEMENT
+#: ../src/services/service.c:97
+msgid "CPU Frequency manager"
+msgstr "സി.പി.യു ഫ്രീക്വെന്‍സി കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_CPUFREQ_MANAGEMENT
+#: ../src/services/service.c:98
+msgid "Eagle USB ADSL modems manager"
+msgstr "ഈഗിള്‍ യു.എസ്.ബി എ.ഡി.എസ്.എല്‍ മോഡെംസ് കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_EAGLE_USB_MODEMS_MANAGEMENT
+#: ../src/services/service.c:99
+msgid "Serial port settings management"
+msgstr "സീരിയല്‍ പോര്‍ട്സ് സജ്ജീകരണങ്ങള്‍ കയ്കാര്യംചെയ്യല്‍"
+
+#. GST_ROLE_SERIAL_PORTS_MANAGEMENT
+#: ../src/services/service.c:100
+msgid "ISDN modems manager"
+msgstr "ഐ.എസ്.ഡി.എന്‍ മോഡെംസ് കാര്യസ്ഥന്‍"
+
+#. GST_ROLE_ISDN_MANAGEMENT
+#: ../src/services/service.c:101
+msgid "Telstra Bigpond Cable Network client"
+msgstr "ടെല്‍സ്റ്റ്രാ ബിഗ്പോണ്ട് കേബിള്‍ ശ്രംഖല ക്ലയന്റ്"
+
+#. GST_ROLE_TELSTRA_BIGPOND_NETWORK_CLIENT
+#: ../src/services/service.c:102
+msgid "Hardware monitor"
+msgstr "ഹാര്‍ഡ്വെയര്‍ മോണിറ്റര്‍"
+
+#. GST_ROLE_HARDWARE_MONITORING
+#: ../src/services/service.c:103
+msgid "System monitor"
+msgstr "സിസ്റ്റം മോണിറ്റര്‍ (മേല്‍നോട്ടം)"
+
+#. GST_ROLE_SYSTEM_MONITORING
+#: ../src/services/service.c:104
+msgid "Virtual Machine management"
+msgstr ""
+
+#: ../src/services/mate-services.desktop.in.in.h:1
+msgid "Services"
+msgstr "സേവനങ്ങള്‍"
+
+#: ../src/services/mate-services.desktop.in.in.h:2
+msgid "Configure which services will be run when the system starts"
+msgstr "സിസ്റ്റം ആരംഭിക്കുന്പോള്‍ ഏതെല്ലാം സേവനങ്ങള്‍ ആരംഭിക്കണമെന്ന് ക്രമീകരിക്കുന്നു"
+
+#: ../src/services/service-settings-table.c:73
+#: ../src/services/service-settings-table.c:97
+#: ../src/services/service-settings-table.c:109
+msgid "Start"
+msgstr "തുടങ്ങുക"
+
+#: ../src/services/service-settings-table.c:79
+#: ../src/services/service-settings-table.c:99
+#: ../src/services/service-settings-table.c:111
+msgid "Stop"
+msgstr "അവസാനിക്കുക"
+
+#: ../src/services/service-settings-table.c:85
+#: ../src/services/service-settings-table.c:102
+msgid "Ignore"
+msgstr "അവഗണിക്കുക"
+
+#: ../src/services/service-settings-table.c:175
+msgid "Runlevel"
+msgstr "റണ്‍ലവല്‍"
+
+#: ../src/services/service-settings-table.c:192
+msgid "Status"
+msgstr "അവസ്ഥ"
+
+#: ../src/services/service-settings-table.c:211
+msgid "Priority"
+msgstr "മുന്‍ഗണന"
+
+#: ../src/services/services-tool.c:106
+msgid "Services Settings"
+msgstr "സേവനങ്ങളുടെ സജ്ജീകരണം "
+
+#: ../src/shares/callbacks.c:196
+msgid "Are you sure you want to delete this share?"
+msgstr "ഈ ഷെയര്‍ വെട്ടി നീക്കണമെന്ന് നിങ്ങള്‍ക്ക് ഉറപ്പാണോ?"
+
+#: ../src/shares/callbacks.c:198
+msgid "Other computers in your network will stop viewing this."
+msgstr "നിങ്ങളുടെ നെറ്റ്‍വര്‍ക്കിലുളള മറ്റ് കംപ്യൂട്ടറുകള്‍ ഇത് കാണുന്നത് അവസാനിപ്പിക്കുന്നു."
+
+#: ../src/shares/main.c:103
+msgid "Add a shared path, modifies it if it already exists"
+msgstr "ഒരു ഷെയര്‍ഡ് പാഥ് ചേര്‍ക്കുന്നു, അഥവാ നിലവിലുണ്ടേല്‍ മാറ്റങ്ങള്‍ വരുത്തുന്നു"
+
+#: ../src/shares/main.c:103
+msgid "PATH"
+msgstr "PATH"
+
+#: ../src/shares/caja/caja-shares.c:151
+msgid "_Share Folder..."
+msgstr "പങ്കുവെക്കുക അറ(ഫോള്‍ഡര്‍ )(_S)..."
+
+#: ../src/shares/caja/caja-shares.c:152
+msgid "Share this folder with other computers"
+msgstr "ഈ ഫോള്‍ഡര്‍ മറ്റ് കംപ്യൂട്ടറുകളുമായി പങ്കിടുക"
+
+#: ../src/shares/nfs-acl-table.c:50
+msgid "Allowed host/network"
+msgstr "അനുവാദമുളള ഹോസ്റ്റ്/ശൃംഖല"
+
+#: ../src/shares/share-nfs-add-hosts.c:117
+msgid "Specify hostname"
+msgstr "ഹോസ്റ്റ് നെയിം വ്യക്തമാക്കുക"
+
+#: ../src/shares/share-nfs-add-hosts.c:124
+msgid "Specify IP address"
+msgstr "IP വിലാസം വ്യക്തമാക്കുക"
+
+#: ../src/shares/share-nfs-add-hosts.c:131
+msgid "Specify network"
+msgstr "ശൃംഖല വ്യക്തമാക്കുക"
+
+#: ../src/shares/mate-shares.desktop.in.in.h:2
+msgid "Configure which folders are available for your network neighborhood"
+msgstr "അടുത്തുളള നെറ്റ്‍വര്‍ക്കുകള്‍ക്ക് ലഭ്യമാകുന്ന ഫോള്‍ഡറുകള്‍ ഏതെന്ന് ക്രമീകരിക്കുക"
+
+#: ../src/shares/share-settings.c:61
+msgid "File System"
+msgstr "ഫയല്‍ സിസ്റ്റം"
+
+#: ../src/shares/share-settings.c:144
+msgid "Do not share"
+msgstr "പങ്കിടേണ്ട"
+
+#: ../src/shares/share-settings.c:152
+msgid "Windows networks (SMB)"
+msgstr "Windows ശൃംഖലസ് (SMB)"
+
+#: ../src/shares/share-settings.c:160
+msgid "Unix networks (NFS)"
+msgstr "Unix ശൃംഖലസ് (NFS)"
+
+#: ../src/shares/share-settings.c:462
+#, c-format
+msgid "Settings for folder '%s'"
+msgstr ""
+
+#: ../src/shares/share-settings.c:469
+msgid "Share Folder"
+msgstr ""
+
+#: ../src/shares/shares-tool.c:152
+msgid "Sharing services are not installed"
+msgstr "പങ്കുവെക്കല്‍ സേവനങ്ങള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല"
+
+#: ../src/shares/shares-tool.c:154
+msgid ""
+"You need to install at least either Samba or NFS in order to share your "
+"folders."
+msgstr "നിങ്ങളുടെ അറകള്‍ പങ്കുവെക്കാന്‍ എന്‍.എഫ്.എസ് അല്ലെങ്കില്‍ സാംബ എങ്കിലും നിങ്ങള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം"
+
+#: ../src/time/e-map/e-map.c:620
+msgid "World Map"
+msgstr ""
+
+#: ../src/time/e-map/e-map.c:622
+msgid ""
+"Mouse-based interactive map widget for selecting timezone. Keyboard users "
+"should instead select the timezone from the drop-down combination box below."
+msgstr ""
+
+#: ../src/time/mate-time.desktop.in.in.h:1
+msgid "Time and Date"
+msgstr "സമയവും തീയതിയും"
+
+#: ../src/time/mate-time.desktop.in.in.h:2
+msgid "Change system time, date, and timezone"
+msgstr "കംപ്യൂട്ടറിന്റെ സമയം, തീയതി, സമയ മേഘല മാറ്റുക"
+
+#: ../src/time/time-tool.c:398
+msgid "NTP support is not installed"
+msgstr "NTP പിന്തുണ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല"
+
+#: ../src/time/time-tool.c:400
+msgid ""
+"Please install and activate NTP support in the system to enable "
+"synchronization of your local time server with internet time servers."
+msgstr "ദയവായ് നിങ്ങളുടെ സിസ്റ്റത്തില്‍ എന്‍.ടി.പി പിന്തുണ ഇന്‍സ്റ്റാള്‍ ചെയ്ത് സജീവമാക്കുക, നിങ്ങളുടെ പ്രാദേശിക സമയ സര്വര്‍ ഇന്റര്‍നെറ്റ് സമയ സര്വറുകളുമായ് പൊരുത്തപെടുത്താന്‍"
+
+#: ../src/time/time-tool.c:429
+msgid "Enabling NTP"
+msgstr "എന്‍.ടി.പി പ്രാവര്‍ത്തികമാക്കുന്നു"
+
+#: ../src/time/time-tool.c:429
+msgid "Disabling NTP"
+msgstr "എന്‍.ടി.പി അപ്രാവര്‍ത്തികമാക്കുന്നു"
+
+#: ../src/time/time-tool.c:441
+msgid "Synchronizing system clock"
+msgstr "സിസ്റ്റം ഘടികാരം പൊരുത്തപെടുത്തുന്നു"
+
+#: ../src/time/time-tool.c:521
+msgid "Keep synchronized with Internet servers"
+msgstr "ഇന്റര്‍നെറ്റ് സര്വരുകളുമായ് പൊരുത്തപെടുത്തികൊണ്ടിരിക്കുക"
+
+#: ../src/time/time-tool.c:522
+msgid "Manual"
+msgstr "മാനുവല്‍"
+
+#: ../src/time/time-tool.c:665
+msgid "Time and Date Settings"
+msgstr "സമയത്തിനും തീയതിയ്കും ഉളള സജ്ജീകരണങ്ങള്‍"
+
+#: ../src/users/group-settings.c:55
+msgid "Administrator group can not be deleted"
+msgstr "അഡ്മിനിസ്ട്രേറ്റര്‍ ഗ്രൂപ്പ് നീക്കം ചെയ്യുവാന്‍ സാധ്യമല്ല"
+
+#: ../src/users/group-settings.c:58 ../src/users/group-settings.c:221
+#: ../src/users/group-settings.c:258 ../src/users/user-settings.c:88
+#: ../src/users/user-settings.c:605
+msgid "This would leave the system unusable."
+msgstr "കംപ്യൂട്ടറിന് ഇത് ഉപയോഗമില്ലാത്തതാക്കും."
+
+#: ../src/users/group-settings.c:71
+#, c-format
+msgid "Are you sure you want to delete group \"%s\"?"
+msgstr "\"%s\" ഗ്രൂപ്പ് നിങ്ങള്‍ക്ക് നീക്കം ചെയ്യണമെന്ന് ഉറപ്പാണോ?"
+
+#: ../src/users/group-settings.c:74
+msgid "This may leave files with invalid group ID in the filesystem."
+msgstr "ഫയല്‍സിസ്റ്റമുകളില്‍ ഉളള അസാധുവായ ഗ്രൂപ്പ് ID ഉളള ഫയലുകള്‍ ഉപേക്ഷിക്കപ്പെടുന്നു"
+
+#: ../src/users/group-settings.c:144
+msgid "New group"
+msgstr "പുതിയ ഗ്രൂപ്പ്"
+
+#: ../src/users/group-settings.c:151
+#, c-format
+msgid "Group '%s' Properties"
+msgstr "ഗ്രൂപ്പ് '%s'-ന്റെ സവിശേഷതകള്‍"
+
+#: ../src/users/group-settings.c:217
+msgid "Group name is empty"
+msgstr "ഗ്രൂപ്പിന്റെ പേര് ശൂന്യമാണ്"
+
+#: ../src/users/group-settings.c:218
+msgid "A group name must be specified."
+msgstr "ഒരു ഗ്രൂപ്പിന്റെ പേര് പറയേണ്ടതാണ്."
+
+#: ../src/users/group-settings.c:220
+msgid "Group name of the administrator group user should not be modified"
+msgstr "അഡ്മിനിസ്ട്രേറ്റര്‍ ഗ്രൂപ്പ് ഉപയോക്താവിന്റെ ഗ്രൂപ്പിന്റെ പേര് മാറ്റുവാന്‍ സാധ്യമല്ല"
+
+#: ../src/users/group-settings.c:223
+msgid "Group name has invalid characters"
+msgstr "ഗ്രൂപ്പിന്റെ പേരില്‍ അസാധുവായ അക്ഷരങ്ങള്‍ ഉണ്ട്"
+
+#: ../src/users/group-settings.c:224
+msgid ""
+"Please set a valid group name consisting of a lower case letter followed by "
+"lower case letters and numbers."
+msgstr "ദയവായ് ഒരു ശരിയായ സന്‍ഘ പേര് സെറ്റ് ചെയ്യുക, ഒരു ചെറിയ അക്ഷരത്തിനു പുറകെ ചെറിയ അക്ഷരങ്ങളോ അക്കങ്ങളോ ഉള്ളത്"
+
+#: ../src/users/group-settings.c:229
+#, c-format
+msgid "Group \"%s\" already exists"
+msgstr "\"%s\" ഗ്രൂപ്പ് നിലവിലുണ്ട്"
+
+#: ../src/users/group-settings.c:230
+msgid "Please choose a different group name."
+msgstr ""
+
+#: ../src/users/group-settings.c:257
+msgid "Group ID of the Administrator account should not be modified"
+msgstr "അഡ്മിനിസ്ട്രേറ്റര്‍ അക്കൌണ്ടിന്റെ ഗ്രൂപ്പ് ID-ല്‍ മാറ്റം വരുത്തുവാന്‍ സാധ്യമല്ല"
+
+#. check that GID is free
+#: ../src/users/group-settings.c:261
+#, c-format
+msgid "Group ID %d is already used by group \"%s\""
+msgstr ""
+
+#: ../src/users/group-settings.c:264
+msgid "Please choose a different numeric identifier for the new group."
+msgstr ""
+
+#: ../src/users/group-settings.c:266
+#, c-format
+msgid "Please choose a different numeric identifier for group \"%s\"."
+msgstr ""
+
+#: ../src/users/groups-table.c:44
+msgid "Group name"
+msgstr "ഗ്രൂപ്പ് നെയിം"
+
+#. TRANSLATORS:  This applies to a password. Keep the string short.
+#: ../src/users/main.c:74 ../src/users/user-settings.c:347
+msgid "Not asked on login"
+msgstr ""
+
+#: ../src/users/main.c:74 ../src/users/user-settings.c:349
+msgid "Asked on login"
+msgstr ""
+
+#: ../src/users/privileges-table.c:53
+msgid "Monitor system logs"
+msgstr "സിസ്റ്റം ലോഗുകള്‍ മോണിറ്റര്‍ ചെയ്യുക"
+
+#: ../src/users/privileges-table.c:54
+msgid "Administer the system"
+msgstr "സിസ്റ്റം കൈകാര്യം ചെയ്യുന്നു"
+
+#: ../src/users/privileges-table.c:55
+msgid "Use audio devices"
+msgstr "ഓഡിയോ ഡിവൈസുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:56
+msgid "Use CD-ROM drives"
+msgstr "CD-ROM ഡ്രൈവുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:57
+msgid "Burn CDs / DVDs"
+msgstr ""
+
+#: ../src/users/privileges-table.c:58
+msgid "Use modems"
+msgstr "മോഡമുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:59
+msgid "Connect to Internet using a modem"
+msgstr "ഒരു മോഡം ഉപയോഗിച്ച് ഇന്റര്‍നെറ്റിലേക്ക് കണക്ട് ചെയ്യുക"
+
+#: ../src/users/privileges-table.c:60
+msgid "Send and receive faxes"
+msgstr "ഫാക്സുകള്‍ സ്വീകരിക്കുകയും അയയ്ക്കുകയും ചെയ്യുന്നു"
+
+#: ../src/users/privileges-table.c:61
+msgid "Use floppy drives"
+msgstr "ഫ്ളോപ്പി ഡ്രൈവുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:62
+msgid "Mount user-space filesystems (FUSE)"
+msgstr ""
+
+#: ../src/users/privileges-table.c:63
+msgid "Configure printers"
+msgstr ""
+
+#: ../src/users/privileges-table.c:64
+msgid "Connect to wireless and ethernet networks"
+msgstr ""
+
+#: ../src/users/privileges-table.c:65
+msgid "Access external storage devices automatically"
+msgstr "എക്സ്റ്റേര്‍ണല്‍ സറ്റോറേജ് ഉപകരണങ്ങള്‍ തനിയെ കണ്ടുപിടിക്കുക"
+
+#: ../src/users/privileges-table.c:66
+msgid "Suspend and hibernate the computer"
+msgstr ""
+
+#: ../src/users/privileges-table.c:67
+msgid "Access /proc filesystem"
+msgstr ""
+
+#: ../src/users/privileges-table.c:68
+msgid "Use scanners"
+msgstr "സ്കാനറുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:69
+msgid "Use tape drives"
+msgstr "ടേപ്പ് ഡ്രൈവുകള്‍ ഉപയോഗിക്കുക"
+
+#: ../src/users/privileges-table.c:70
+msgid "Use USB devices"
+msgstr ""
+
+#: ../src/users/privileges-table.c:71
+msgid "Use VirtualBox virtualization solution"
+msgstr ""
+
+#: ../src/users/privileges-table.c:72
+msgid "Use video devices"
+msgstr ""
+
+#: ../src/users/privileges-table.c:73
+msgid "Be able to get administrator privileges"
+msgstr "പരിപാലകന്റെ നിയന്ത്രണങ്ങള്‍ കിട്ടാവുന്നതാക്കുക"
+
+#: ../src/users/user-profiles.conf.in.h:1
+msgid "Desktop user"
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:2
+msgid ""
+"Can perform common tasks. Can't install software or change settings "
+"affecting all users."
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:3
+msgid "Administrator"
+msgstr ""
+
+#: ../src/users/user-profiles.conf.in.h:4
+msgid ""
+"Can change anything on the system, including installing and upgrading "
+"software."
+msgstr ""
+
+#: ../src/users/run-passwd.c:421
+msgid "Authentication failed"
+msgstr ""
+
+#: ../src/users/run-passwd.c:498
+#, c-format
+msgid "The new password is too short"
+msgstr ""
+
+#: ../src/users/run-passwd.c:504
+#, c-format
+msgid "The new password is too simple"
+msgstr ""
+
+#: ../src/users/run-passwd.c:510
+#, c-format
+msgid "The old and new passwords are too similar"
+msgstr ""
+
+#: ../src/users/run-passwd.c:513
+#, c-format
+msgid "The new password must contain numeric or special characters"
+msgstr ""
+
+#: ../src/users/run-passwd.c:517
+#, c-format
+msgid "The old and new passwords are the same"
+msgstr ""
+
+#: ../src/users/run-passwd.c:520
+#, c-format
+msgid "The new password has already been used recently."
+msgstr ""
+
+#: ../src/users/run-passwd.c:524
+#, c-format
+msgid "Your password has been changed since you initially authenticated!"
+msgstr ""
+
+#: ../src/users/run-passwd.c:528
+#, c-format
+msgid "Unknown error"
+msgstr ""
+
+#: ../src/users/mate-users.desktop.in.in.h:1
+msgid "Users and Groups"
+msgstr "ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും"
+
+#: ../src/users/mate-users.desktop.in.in.h:2
+msgid "Add or remove users and groups"
+msgstr "ഉപയോക്താക്കളേയും ഗ്രൂപ്പുകളേയും ചേര്‍ക്കുകയോ നീക്കം ചെയ്യുകയോ ചെയ്യുക"
+
+#: ../src/users/user-password.c:97
+msgid "Password is too short"
+msgstr "അടയാളവാക്കു് വളരെ ചെറുതാണ്"
+
+#: ../src/users/user-password.c:98
+msgid ""
+"User passwords must be longer than 5 characters and preferably formed by "
+"numbers, letters and special characters."
+msgstr ""
+
+#: ../src/users/user-password.c:101
+msgid "Password confirmation is not correct"
+msgstr "പാസ്‍വേര്‍ഡിന്റെ ഉറപ്പ് വരുത്തല്‍ തെറ്റാണ്"
+
+#: ../src/users/user-password.c:102
+msgid "Check that you have provided the same password in both text fields."
+msgstr "രണ്ടു തവണ നല്‍കിയ പാസ്‍വേര്‍ഡുകള്‍ ഒരേപോലെയുളളവയാണ് എന്ന് പരിശോധിക്കുക."
+
+#: ../src/users/user-password.c:445
+msgid "Please choose another password."
+msgstr ""
+
+#: ../src/users/user-password.c:456
+msgid "Please type again your current password."
+msgstr ""
+
+#: ../src/users/user-password.c:463
+msgid "Password could not be changed"
+msgstr ""
+
+#: ../src/users/user-settings.c:85
+msgid "Administrator account cannot be deleted"
+msgstr "പരിപാലകന്‍ അക്കൌണ്ട് നീക്കം ചെയ്യുവാന്‍ സാധ്യമല്ല"
+
+#: ../src/users/user-settings.c:96
+#, c-format
+msgid "%s is currently using this computer"
+msgstr ""
+
+#: ../src/users/user-settings.c:99
+msgid "Please ensure the user has logged out before deleting this account."
+msgstr ""
+
+#: ../src/users/user-settings.c:109
+msgid "Can't delete the only administrator account"
+msgstr ""
+
+#: ../src/users/user-settings.c:111
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Deleting this account would "
+"lock you out of administrating the system."
+msgstr ""
+
+#: ../src/users/user-settings.c:121
+#, c-format
+msgid "Remove home folder for %s?"
+msgstr ""
+
+#: ../src/users/user-settings.c:124
+#, c-format
+msgid ""
+"Files owned by user %s in <tt>%s</tt> can be completely removed if you don't"
+" need them anymore. You may want to back them up before deleting the "
+"account, or keep them so that an administrator can save them later."
+msgstr ""
+
+#: ../src/users/user-settings.c:132
+msgid "Keep Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:133
+msgid "Don't Remove Account"
+msgstr ""
+
+#: ../src/users/user-settings.c:134
+msgid "Delete Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:330
+msgid "Superuser"
+msgstr ""
+
+#: ../src/users/user-settings.c:335
+msgid "Custom"
+msgstr ""
+
+#. TRANSLATORS: This applies to a password.
+#: ../src/users/user-settings.c:344
+msgid "None"
+msgstr ""
+
+#: ../src/users/user-settings.c:393
+#, c-format
+msgid "Invalid character \"%c\" in comment"
+msgstr "അഭിപ്രായത്തില്‍ \"%c\" എന്ന അസാധുവായ അക്ഷരം"
+
+#: ../src/users/user-settings.c:394
+msgid "Check that this character is not used."
+msgstr "ഈ അക്ഷരം ഉപയോഗികിച്ചിട്ടില്ല എന്ന് പരിശോധിക്കുക."
+
+#: ../src/users/user-settings.c:426
+msgid "Incomplete path in home directory"
+msgstr "ഹോം ഡയറക്ടറിയില്‍ പൂര്‍ത്തീകരിക്കാത്ത പാഥ്"
+
+#: ../src/users/user-settings.c:427
+msgid ""
+"Please enter full path for home directory\n"
+"<span size=\"smaller\">i.e.: /home/john</span>."
+msgstr ""
+
+#: ../src/users/user-settings.c:447 ../src/users/user-settings.c:491
+msgid "New home directory already exists, use it?"
+msgstr ""
+
+#: ../src/users/user-settings.c:449
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or copy the contents of <tt>%s</tt> to the new home, overwriting it?\n"
+"\n"
+"In doubt, use the new directory to avoid losing data, and copy files from the old directory later."
+msgstr ""
+
+#: ../src/users/user-settings.c:461
+msgid "_Replace With Old Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:462 ../src/users/user-settings.c:504
+#: ../src/users/user-settings.c:540
+msgid "_Cancel Change"
+msgstr ""
+
+#. TRANSLATORS: This means "use the files from the new location",
+#. * as opposed to those from the old location.
+#: ../src/users/user-settings.c:465
+msgid "_Use New Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:470 ../src/users/user-settings.c:510
+msgid "Make user the _owner of the new home directory"
+msgstr ""
+
+#: ../src/users/user-settings.c:473 ../src/users/user-settings.c:547
+msgid "_Delete old home directory"
+msgstr ""
+
+#: ../src/users/user-settings.c:493
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which already exists. Do you want to use files from this directory, or delete all its contents and use a completely empty home directory?\n"
+"\n"
+"In doubt, keep the files, and remove them later if needed."
+msgstr ""
+
+#: ../src/users/user-settings.c:503
+msgid "_Delete Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:505
+msgid "_Use Existing Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:526
+msgid "Copy old home directory to new location?"
+msgstr ""
+
+#: ../src/users/user-settings.c:528
+#, c-format
+msgid ""
+"The home directory for %s has been set to <tt>%s</tt>, which doesn't exist. Do you want to copy the contents of the old home directory (<tt>%s</tt>), or use a completely empty home directory?\n"
+"\n"
+"If you choose to copy the files to the new location, it's safe to delete the old directory."
+msgstr ""
+
+#: ../src/users/user-settings.c:539
+msgid "_Use Empty Directory"
+msgstr ""
+
+#. TRANSLATORS: This means "copy files from the old home directory".
+#: ../src/users/user-settings.c:542
+msgid "Co_py Old Files"
+msgstr ""
+
+#: ../src/users/user-settings.c:604
+msgid "ID for the root user should not be modified"
+msgstr ""
+
+#. check that UID is free
+#: ../src/users/user-settings.c:608
+#, c-format
+msgid "User ID %d is already used by user %s"
+msgstr ""
+
+#: ../src/users/user-settings.c:610
+#, c-format
+msgid "Please choose a different numeric identifier for %s."
+msgstr ""
+
+#: ../src/users/user-settings.c:628
+msgid "Incomplete path in shell"
+msgstr "ഷെല്ലില്‍ പൂര്‍ത്തികരിക്കാത്ത പാഥ്"
+
+#: ../src/users/user-settings.c:629
+msgid ""
+"Please enter full path for shell\n"
+"<span size=\"smaller\">i.e.: /bin/bash</span>."
+msgstr ""
+
+#: ../src/users/user-settings.c:663
+msgid "Can't revoke administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:666
+#, c-format
+msgid ""
+"%s is the only administrator on this computer. Revoking administration "
+"rights for this account would lock you out of administrating the system."
+msgstr ""
+
+#: ../src/users/user-settings.c:683
+msgid "You are about to revoke your own administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:686
+#, c-format
+msgid ""
+"%s will no longer be able to perform administrative tasks. This account "
+"won't be allowed to get administration rights back on its own."
+msgstr ""
+
+#: ../src/users/user-settings.c:691
+msgid "Give up administration rights"
+msgstr ""
+
+#: ../src/users/user-settings.c:1469
+msgid "Applying changes to user settings..."
+msgstr ""
+
+#: ../src/users/users-tool.c:288
+msgid "Users Settings"
+msgstr "ഉപയോക്താക്കളുടെ സജ്ജീകരണം"

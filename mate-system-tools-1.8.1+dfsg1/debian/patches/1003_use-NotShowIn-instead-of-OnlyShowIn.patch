@@ -1,0 +1,54 @@
+Description: Make mate-system-utils also available in DEs except GNOME/KDE
+Author: Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
+
+--- a/src/services/mate-services.desktop.in.in
++++ b/src/services/mate-services.desktop.in.in
+@@ -11,6 +11,6 @@
+ X-MATE-Bugzilla-Product=mate-system-tools
+ X-MATE-Bugzilla-Component=runlevel-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+-OnlyShowIn=MATE;XFCE;
++NotShowIn=GNOME;KDE;
+ Keywords=system;start;boot;initscripts;services;
+ StartupNotify=true
+--- a/src/shares/mate-shares.desktop.in.in
++++ b/src/shares/mate-shares.desktop.in.in
+@@ -11,7 +11,7 @@
+ X-MATE-Bugzilla-Product=mate-system-tools
+ X-MATE-Bugzilla-Component=shares-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+-OnlyShowIn=MATE;XFCE;
++NotShowIn=GNOME;KDE;
+ Keywords=network;neighbourhood;folders;shares;
+ StartupNotify=true
+ 
+--- a/src/time/mate-time.desktop.in.in
++++ b/src/time/mate-time.desktop.in.in
+@@ -11,6 +11,6 @@
+ X-MATE-Bugzilla-Product=mate-system-tools
+ X-MATE-Bugzilla-Component=mate-time-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+-OnlyShowIn=MATE;XFCE;
++NotShowIn=GNOME;KDE;
+ Keywords=Time;Timezone;system;clock;MATE;mate-system-tools;
+ StartupNotify=true
+--- a/src/users/mate-users.desktop.in.in
++++ b/src/users/mate-users.desktop.in.in
+@@ -11,6 +11,6 @@
+ X-MATE-Bugzilla-Product=mate-system-tools
+ X-MATE-Bugzilla-Component=users-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+-OnlyShowIn=MATE;XFCE;
++NotShowIn=GNOME;KDE;
+ Keywords=manage;users;groups;system;mate-system-tools;
+ StartupNotify=true
+--- a/src/network/mate-network.desktop.in.in
++++ b/src/network/mate-network.desktop.in.in
+@@ -11,6 +11,6 @@
+ X-MATE-Bugzilla-Product=mate-system-tools
+ X-MATE-Bugzilla-Component=network-admin
+ X-MATE-Bugzilla-Version=@VERSION@
+-OnlyShowIn=MATE;XFCE;
++NotShowIn=GNOME;KDE;
+ Keywords=network;devices;connections;mate-system-tools;
+ StartupNotify=true
